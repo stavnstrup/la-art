@@ -1,0 +1,15 @@
+**/.DS_Store
+**/desktop.ini
+_site/**
+CNAME
+.travis.yml
+.idea/
+.vscode/
+node_modules/
+
+# auto-generated tag files
+tags
+
+# Hugo output
+public/
+resources/
