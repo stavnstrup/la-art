@@ -1,0 +1,12 @@
+<html>
+    <head>
+{{/*
+*/}}
+  {{ $sass := resources.Get "scss/main.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+    </head>
+    <body>
+      {{ block "main" . }}{{ end }}
+    </body>
+</html>
