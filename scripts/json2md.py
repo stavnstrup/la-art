@@ -10,14 +10,13 @@ data = json.load(f)
 
 for art in data:
     md = open('{0}.md'.format(art['slug']), 'w')
-    print(md, "---")
+    md.write("---\n")
     for (key, value) in art.items():
         if key in ['year', 'rasterWidth', 'rasterHeight']:
-            print(md, '{0}: {1}'.format(key, int(value)))
+            md.write("{0}: {1}\n".format(key, int(value)))
         else:
-            print(md, '{0}: "{1}"'.format(key, value))
-    print(md, "---")
+            md.write("{0}: \"{1}\"\n".format(key, value))
+    md.write("---\n")
     md.close()
-
 
 f.close()
