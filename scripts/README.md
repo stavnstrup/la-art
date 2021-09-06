@@ -1,8 +1,8 @@
 # Scripts for LA_ART site
 
-| Script           | Beskrivelse                       |
-| ---------------- | --------------------------------- |
-| `extract-art.py` | Extract art data from excell file |
+| Script           | Description                      |
+| ---------------- | -------------------------------- |
+| `extract-art.py` | Extract art data from excel file |
 
 # Requirements
 
