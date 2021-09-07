@@ -8,7 +8,8 @@ price: "2000"
 rasterWidth: 2391
 rasterHeight: 1871
 fileName: "IMG_1814.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "spejling"
+type: "art"
 ---

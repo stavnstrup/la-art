@@ -8,7 +8,8 @@ price: "2600"
 rasterWidth: 2244
 rasterHeight: 2821
 fileName: "IMG_1833.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "svaneunge-i-mosen"
+type: "art"
 ---

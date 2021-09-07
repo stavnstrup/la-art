@@ -8,7 +8,8 @@ price: "600"
 rasterWidth: 2301
 rasterHeight: 3105
 fileName: "IMG_2211.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "sovende-klippesten"
+type: "art"
 ---

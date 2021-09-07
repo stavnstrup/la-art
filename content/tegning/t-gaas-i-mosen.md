@@ -8,7 +8,8 @@ price: "900"
 rasterWidth: 2554
 rasterHeight: 3144
 fileName: "IMG_2203.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "gaas-i-mosen"
+type: "art"
 ---

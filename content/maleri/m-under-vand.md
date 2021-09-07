@@ -8,7 +8,8 @@ price: "6200"
 rasterWidth: 2088
 rasterHeight: 2620
 fileName: "IMG_1843.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "under-vand"
+type: "art"
 ---

@@ -8,7 +8,8 @@ price: "1200"
 rasterWidth: 2628
 rasterHeight: 1975
 fileName: "IMG_1836.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "vaesener"
+type: "art"
 ---

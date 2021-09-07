@@ -8,7 +8,8 @@ price: "600"
 rasterWidth: 3918
 rasterHeight: 2944
 fileName: "IMG_2549.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "tyrekalv-paa-bornholm"
+type: "art"
 ---

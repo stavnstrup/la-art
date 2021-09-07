@@ -8,7 +8,8 @@ price: "750"
 rasterWidth: 2103
 rasterHeight: 2588
 fileName: "IMG_2213.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "maagen-mogens"
+type: "art"
 ---

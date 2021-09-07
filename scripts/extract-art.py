@@ -22,14 +22,15 @@ for row in islice(sheet.values, 1, sheet.max_row):
     art['rasterWidth'] = int(row[6])
     art['rasterHeight'] = int(row[7])
     art['fileName'] = row[8]
-    art['type'] = row[9]
+    art['medie'] = row[9]
     art['show'] = row[10]
     art['slug'] = row[11]
+    art['type'] = 'art'
     art_list.append(art)
 
 
 for art in art_list:
-    prefix = 'm' if art['type'] == 'maleri' else 't'
+    prefix = 'm' if art['medie'] == 'maleri' else 't'
     f = open('{0}-{1}.md'.format(prefix, art['slug']), 'w')
     f.write("---\n")
     for (key, value) in art.items():

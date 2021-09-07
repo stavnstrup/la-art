@@ -8,7 +8,8 @@ price: "3500"
 rasterWidth: 2322
 rasterHeight: 3120
 fileName: "IMG_9735.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "foraarsfryd"
+type: "art"
 ---

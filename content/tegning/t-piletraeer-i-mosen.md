@@ -8,7 +8,8 @@ price: "900"
 rasterWidth: 2601
 rasterHeight: 3223
 fileName: "IMG_2204.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "piletraeer-i-mosen"
+type: "art"
 ---

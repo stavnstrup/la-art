@@ -8,7 +8,8 @@ price: "700"
 rasterWidth: 2274
 rasterHeight: 3099
 fileName: "IMG_2737.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "daadyr-i-dyrehaven"
+type: "art"
 ---

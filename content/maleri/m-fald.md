@@ -8,7 +8,8 @@ price: "3000"
 rasterWidth: 2327
 rasterHeight: 3291
 fileName: "IMG_1849.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "fald"
+type: "art"
 ---

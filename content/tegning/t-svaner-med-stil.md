@@ -8,7 +8,8 @@ price: "700"
 rasterWidth: 2669
 rasterHeight: 3725
 fileName: "IMG_2349.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "svaner-med-stil"
+type: "art"
 ---

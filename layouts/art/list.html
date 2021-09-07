@@ -13,12 +13,11 @@
 {{ $artifacts := .Pages }}
 
 <div>
-
+  <ul>
 {{ range $artifacts }}
-<ul>
     <li><a href="{{.Permalink}}">{{ .Title }}</a></li>    
-</ul>
 {{ end }}
+  </ul>
 
 </div>
 

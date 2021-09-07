@@ -8,7 +8,8 @@ price: "900"
 rasterWidth: 2665
 rasterHeight: 3279
 fileName: "IMG_2207.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "klippesten-i-aarsdale"
+type: "art"
 ---

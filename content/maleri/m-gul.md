@@ -8,7 +8,8 @@ price: "2200"
 rasterWidth: 2825
 rasterHeight: 2383
 fileName: "IMG_2138.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "gul"
+type: "art"
 ---

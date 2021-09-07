@@ -8,7 +8,8 @@ price: "900"
 rasterWidth: 2534
 rasterHeight: 3075
 fileName: "IMG_2201.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "aender-i-mosen"
+type: "art"
 ---

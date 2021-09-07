@@ -8,7 +8,8 @@ price: "2200"
 rasterWidth: 1927
 rasterHeight: 2394
 fileName: "IMG_2139.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "universer"
+type: "art"
 ---

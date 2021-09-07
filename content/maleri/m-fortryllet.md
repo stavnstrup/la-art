@@ -8,7 +8,8 @@ price: "2500"
 rasterWidth: 3152
 rasterHeight: 1886
 fileName: "IMG_1817.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "fortryllet"
+type: "art"
 ---

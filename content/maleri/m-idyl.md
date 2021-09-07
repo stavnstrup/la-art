@@ -8,7 +8,8 @@ price: "500"
 rasterWidth: 1727
 rasterHeight: 1721
 fileName: "IMG_1844.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "idyl"
+type: "art"
 ---

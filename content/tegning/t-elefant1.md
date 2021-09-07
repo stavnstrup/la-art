@@ -8,7 +8,8 @@ price: "1200"
 rasterWidth: 3357
 rasterHeight: 2464
 fileName: "IMG_2215.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "elefant1"
+type: "art"
 ---

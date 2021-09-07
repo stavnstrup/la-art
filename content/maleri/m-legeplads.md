@@ -8,7 +8,8 @@ price: "2600"
 rasterWidth: 1428
 rasterHeight: 1794
 fileName: "IMG_2578.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "legeplads"
+type: "art"
 ---

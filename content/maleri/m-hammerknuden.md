@@ -8,7 +8,8 @@ price: "2000"
 rasterWidth: 2681
 rasterHeight: 2171
 fileName: "IMG_1824.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "hammerknuden"
+type: "art"
 ---

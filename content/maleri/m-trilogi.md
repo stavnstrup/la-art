@@ -8,7 +8,8 @@ price: "500"
 rasterWidth: 2941
 rasterHeight: 1397
 fileName: "IMG_1840.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "trilogi"
+type: "art"
 ---

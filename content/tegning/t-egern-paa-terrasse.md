@@ -8,7 +8,8 @@ price: "700"
 rasterWidth: 2408
 rasterHeight: 3249
 fileName: "IMG_2736.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "egern-paa-terrasse"
+type: "art"
 ---

@@ -4,11 +4,12 @@ height: 73
 width: 91
 method: "Olie på lærred"
 year: 2009
-price: "I privateje"
+price: "Privateje"
 rasterWidth: 2703
 rasterHeight: 2144
 fileName: "IMG_1822.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "komposition"
+type: "art"
 ---

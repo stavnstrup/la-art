@@ -8,7 +8,8 @@ price: "1200"
 rasterWidth: 3371
 rasterHeight: 2557
 fileName: "IMG_2735.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "elefantunge"
+type: "art"
 ---

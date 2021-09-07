@@ -8,7 +8,8 @@ price: "600"
 rasterWidth: 2328
 rasterHeight: 3138
 fileName: "IMG_2210.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "soeloever"
+type: "art"
 ---

@@ -8,7 +8,8 @@ price: "3500"
 rasterWidth: 3197
 rasterHeight: 2298
 fileName: "IMG_2547.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "grotten"
+type: "art"
 ---

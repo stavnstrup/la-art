@@ -8,7 +8,8 @@ price: "900"
 rasterWidth: 2726
 rasterHeight: 3357
 fileName: "IMG_2202.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "udgang-i-mosen"
+type: "art"
 ---

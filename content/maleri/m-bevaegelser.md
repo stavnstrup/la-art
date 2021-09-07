@@ -8,7 +8,8 @@ price: "4500"
 rasterWidth: 3158
 rasterHeight: 2363
 fileName: "IMG_1789.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "bevaegelser"
+type: "art"
 ---

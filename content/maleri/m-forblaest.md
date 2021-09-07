@@ -8,7 +8,8 @@ price: "800"
 rasterWidth: 2263
 rasterHeight: 1745
 fileName: "IMG_1841.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "forblaest"
+type: "art"
 ---

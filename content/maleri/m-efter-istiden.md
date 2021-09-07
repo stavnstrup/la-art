@@ -8,7 +8,8 @@ price: "3300"
 rasterWidth: 2478
 rasterHeight: 2478
 fileName: "IMG_1838.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "efter-istiden"
+type: "art"
 ---

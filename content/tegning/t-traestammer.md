@@ -8,7 +8,8 @@ price: "700"
 rasterWidth: 2367
 rasterHeight: 3271
 fileName: "IMG_2218.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "traestammer"
+type: "art"
 ---

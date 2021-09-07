@@ -8,7 +8,8 @@ price: "700"
 rasterWidth: 1621
 rasterHeight: 2024
 fileName: "IMG_1842.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "japanisme"
+type: "art"
 ---

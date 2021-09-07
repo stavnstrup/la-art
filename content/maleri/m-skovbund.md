@@ -8,7 +8,8 @@ price: "3800"
 rasterWidth: 2987
 rasterHeight: 2273
 fileName: "IMG_1823.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "skovbund"
+type: "art"
 ---

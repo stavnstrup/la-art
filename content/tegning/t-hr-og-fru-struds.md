@@ -8,7 +8,8 @@ price: "800"
 rasterWidth: 2232
 rasterHeight: 3126
 fileName: "IMG_2209.JPG"
-type: "tegning"
+medie: "tegning"
 show: "yes"
 slug: "hr-og-fru-struds"
+type: "art"
 ---

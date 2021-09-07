@@ -8,7 +8,8 @@ price: "2000"
 rasterWidth: 1865
 rasterHeight: 2387
 fileName: "IMG_1839.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "klokker"
+type: "art"
 ---

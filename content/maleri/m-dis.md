@@ -8,7 +8,8 @@ price: "3000"
 rasterWidth: 3362
 rasterHeight: 2725
 fileName: "IMG_2552.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "dis"
+type: "art"
 ---

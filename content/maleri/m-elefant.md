@@ -8,7 +8,8 @@ price: "3200"
 rasterWidth: 3261
 rasterHeight: 2310
 fileName: "IMG_2126.JPG"
-type: "maleri"
+medie: "maleri"
 show: "yes"
 slug: "elefant"
+type: "art"
 ---
