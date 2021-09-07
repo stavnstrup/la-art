@@ -1,4 +1,9 @@
-<p><b>Used default/single/b></b></p>
+<p><b>Used default/single</b></p>
+
+<p>type: {{ .Params.type }}</p>
+<p>layout: {{ layout }}</p>
+
+<h1>{{ .Title }}</h1>
 
 {{ define "main" }}
   {{ .Content }}

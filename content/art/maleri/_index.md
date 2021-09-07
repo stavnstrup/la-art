@@ -1,0 +1,4 @@
+---
+title: 'Malerier'
+layout: art
+---

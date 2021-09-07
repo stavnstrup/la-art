@@ -1,0 +1,16 @@
+<p><b>Used default/list</b></p>
+
+<p>type: {{ .Params.type }}</p>
+<p>layout: {{ .Params.layout }}</p>
+
+<h1>{{ .Title }}</h1>
+
+{{ define "main" }}
+  <h1>all</h1>
+  {{ range .Pages }}
+    <article>
+      <h2>{{ .Title }}</h2>
+      {{ .Content }}
+    </article>
+  {{ end }}
+{{ end }}
