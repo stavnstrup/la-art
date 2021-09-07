@@ -1,7 +1,25 @@
-<p><b>Used art/list</b></p>
 
 {{ define "main" }}
-{{ with .Content }}
-{{ . }}
+
+<p>template: art/list</p>
+<p>type: {{ .Params.type }}</p>
+<p>layout: {{ .Params.layout }}</p>
+
+
+<p>Hello Art List </p>
+
+
+
+{{ $artifacts := .Pages }}
+
+<div>
+
+{{ range $artifacts }}
+<ul>
+    <li><a href="{{.Permalink}}">{{ .Title }}</a></li>    
+</ul>
 {{ end }}
+
+</div>
+
 {{ end }}

@@ -1,8 +1,8 @@
-<p><b>Used art/single</b></p>
-<p><b>Used art/single</b></p>
+{{ define "main" }}
+<p>template: art/single</p>
+<p>type: {{ .Params.type }}</p>
+<p>layout: {{ .Params.layout }}</p>
 
 <h1>{{ .Title }}</h1>
 
-{{ define "main" }}
-  {{ .Content }}
 {{ end }}

@@ -25,7 +25,6 @@ for row in islice(sheet.values, 1, sheet.max_row):
     art['type'] = row[9]
     art['show'] = row[10]
     art['slug'] = row[11]
-    art['layout'] = 'art'
     art_list.append(art)
 
 
