@@ -15,7 +15,8 @@
 <div>
   <ul>
 {{ range $artifacts }}
-    <li><a href="{{.Permalink}}">{{ .Title }}</a></li>    
+    <li><b><a href="{{.Permalink}}">{{ .Title }}</a></b><br/><i>{{.Params.method}},
+    {{.Params.height}} X {{.Params.width}} cm, {{.Params.year}}</i></li>
 {{ end }}
   </ul>
 
