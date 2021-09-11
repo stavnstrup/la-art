@@ -7,7 +7,14 @@
 }
 
 .artifact {
+  border: 0;
   margin: 12px;
+  margin-bottom: 14px;
   padding: 1.43 3%;
   width: 18rem;
+  p {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: 1.3rem;
+  }
 }
