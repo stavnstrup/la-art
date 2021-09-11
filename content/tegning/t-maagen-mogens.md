@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "maagen-mogens"
 type: "art"
+weight: "43"
 ---

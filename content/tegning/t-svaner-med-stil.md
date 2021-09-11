@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "svaner-med-stil"
 type: "art"
+weight: "45"
 ---

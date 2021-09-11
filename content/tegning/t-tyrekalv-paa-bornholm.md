@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "tyrekalv-paa-bornholm"
 type: "art"
+weight: "44"
 ---

@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "vaesener"
 type: "art"
+weight: "24"
 ---

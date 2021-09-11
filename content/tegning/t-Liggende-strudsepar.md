@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "Liggende-strudsepar"
 type: "art"
+weight: "41"
 ---

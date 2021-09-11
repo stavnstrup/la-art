@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "kvinder-i-middelhavet"
 type: "art"
+weight: "48"
 ---

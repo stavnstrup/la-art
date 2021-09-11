@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "elefant"
 type: "art"
+weight: "26"
 ---

@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "fald"
 type: "art"
+weight: "16"
 ---

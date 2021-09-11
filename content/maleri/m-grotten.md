@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "grotten"
 type: "art"
+weight: "4"
 ---

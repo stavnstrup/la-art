@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "traestammer"
 type: "art"
+weight: "40"
 ---

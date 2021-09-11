@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "sovende-klippesten"
 type: "art"
+weight: "37"
 ---

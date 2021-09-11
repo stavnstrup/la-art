@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "klippesten-i-aarsdale"
 type: "art"
+weight: "35"
 ---

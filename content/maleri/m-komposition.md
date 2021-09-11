@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "komposition"
 type: "art"
+weight: "3"
 ---

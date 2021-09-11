@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "hr-og-fru-struds"
 type: "art"
+weight: "42"
 ---

@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "japanisme"
 type: "art"
+weight: "18"
 ---

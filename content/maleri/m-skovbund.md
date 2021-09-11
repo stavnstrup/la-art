@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "skovbund"
 type: "art"
+weight: "9"
 ---

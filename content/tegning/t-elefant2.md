@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "elefant2"
 type: "art"
+weight: "28"
 ---

@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "hammerknuden"
 type: "art"
+weight: "23"
 ---

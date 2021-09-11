@@ -1,0 +1,13 @@
+.galleri {
+  display: flex;
+  flex-flow: row;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.artifact {
+  margin: 12px;
+  padding: 1.43 3%;
+  width: 18rem;
+}

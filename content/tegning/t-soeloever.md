@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "soeloever"
 type: "art"
+weight: "36"
 ---

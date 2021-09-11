@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "daadyr-i-dyrehaven"
 type: "art"
+weight: "39"
 ---

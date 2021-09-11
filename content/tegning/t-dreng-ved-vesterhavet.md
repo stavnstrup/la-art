@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "dreng-ved-vesterhavet"
 type: "art"
+weight: "47"
 ---

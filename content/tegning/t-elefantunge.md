@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "elefantunge"
 type: "art"
+weight: "30"
 ---

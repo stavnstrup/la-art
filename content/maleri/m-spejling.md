@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "spejling"
 type: "art"
+weight: "13"
 ---

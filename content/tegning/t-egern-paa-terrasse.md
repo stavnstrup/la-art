@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "egern-paa-terrasse"
 type: "art"
+weight: "38"
 ---

@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "trilogi"
 type: "art"
+weight: "17"
 ---

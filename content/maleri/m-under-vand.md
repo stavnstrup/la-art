@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "under-vand"
 type: "art"
+weight: "1"
 ---

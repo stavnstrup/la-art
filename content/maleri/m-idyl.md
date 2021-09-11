@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "idyl"
 type: "art"
+weight: "19"
 ---

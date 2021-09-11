@@ -1,8 +1,8 @@
 $primary-font: 'Open Sans', sans-serif;
 $heading-font: 'Prompt', sans-serif;
-$bg-black: #1C1C1C;
-$dark-blue:  #1D3557;
-$dark-orange: #BC6C25;
+$bg-black: #1c1c1c;
+$dark-blue: #1d3557;
+$dark-orange: #bc6c25;
 $link-bl: #283618;
 $desktop-page-sp: 100px;
 $container-padding-sm: 24px;
@@ -14,7 +14,8 @@ $container-padding-lg: 96px;
   box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -30,7 +31,12 @@ footer {
   border: 1px solid black;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: $heading-font;
   font-weight: bold;
   padding: 20px 0;
@@ -40,7 +46,8 @@ p {
   line-height: 2rem;
 }
 
-a, a:visited {
+a,
+a:visited {
   text-decoration: none;
   color: $link-bl;
 }
@@ -61,7 +68,7 @@ a:hover {
   margin: 10px 0;
 }
 
-.icons:hover{
+.icons:hover {
   opacity: 0.5;
 }
 
@@ -89,7 +96,6 @@ a:hover {
   font-family: $heading-font;
 }
 
-
 /* Hero section */
 
 .hero {
@@ -110,7 +116,6 @@ a:hover {
     max-width: 350px;
     margin-left: 20px;
   }
-
 }
 
 .top-nav {
@@ -133,7 +138,7 @@ a:hover {
     margin-right: 80px;
     font-weight: 600;
   }
-  
+
   &__logo {
     font-size: 20px;
     border-right: 1px solid black;
@@ -257,11 +262,10 @@ a:hover {
   }
   &__title {
     font-size: 3rem;
-    padding:0;
+    padding: 0;
     padding-bottom: 20px;
   }
 }
-
 
 .image-footer {
   display: flex;
@@ -323,7 +327,7 @@ a:hover {
     border-radius: 25px;
     margin-right: 10px;
     cursor: pointer;
-  
+
     & .tag-text {
       padding: 5px;
     }
@@ -379,9 +383,9 @@ a:hover {
 // Map style
 
 #map-canvas {
-  width:100%; 
-  height:650px; 
-  border: 4px solid black; 
+  width: 100%;
+  height: 650px;
+  border: 4px solid black;
   margin-top: 20px;
 }
 
@@ -408,7 +412,7 @@ a:hover {
 
 .contact {
   margin-top: 40px;
-  
+
   &__heading {
     font-size: 2rem;
     margin-bottom: 10px;
@@ -455,17 +459,16 @@ a:hover {
 // Media queries
 
 /* Tablet menu */
-@media (min-width: 768px){
-
+@media (min-width: 768px) {
   .post-preview {
     display: flex;
     margin-bottom: 20px;
-  
+
     &__left {
       max-width: 300px;
       max-height: 200px;
     }
-  
+
     &__right {
       margin-left: 20px;
       position: relative;
@@ -506,7 +509,7 @@ a:hover {
     width: 100%;
 
     & .post-front {
-     flex-grow: 1;
+      flex-grow: 1;
       margin-left: 20px;
       width: 30%;
 
@@ -519,16 +522,15 @@ a:hover {
 
 /* Desktop menu */
 @media (min-width: 1025px) {
-
   .post-preview {
     display: flex;
     margin-bottom: 30px;
-  
+
     &__left {
       max-width: 350px;
       max-height: 300px;
     }
-  
+
     &__right {
       margin-left: 20px;
       position: relative;
@@ -566,7 +568,6 @@ a:hover {
     margin: 40px 0 80px 0;
   }
 
-
   .featured {
     margin-top: 40px;
     font-size: 1.5rem;
@@ -591,7 +592,7 @@ a:hover {
   .footer-content {
     display: flex;
 
-    &__left-group{
+    &__left-group {
       width: 60%;
       & p {
         width: 50%;
@@ -602,5 +603,6 @@ a:hover {
       width: 40%;
     }
   }
-
 }
+
+@import 'la-art';

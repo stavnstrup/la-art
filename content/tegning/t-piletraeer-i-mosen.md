@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "piletraeer-i-mosen"
 type: "art"
+weight: "34"
 ---

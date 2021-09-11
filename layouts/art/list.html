@@ -8,18 +8,20 @@
 
 <p>Hello Art List </p>
 
-
-
 {{ $artifacts := .Pages }}
 
-<div>
-  <ul>
-{{ range $artifacts }}
-    <li><b><a href="{{.Permalink}}">{{ .Title }}</a></b><br/><i>{{.Params.method}},
-    {{.Params.height}} X {{.Params.width}} cm, {{.Params.year}}</i></li>
-{{ end }}
-  </ul>
+<div class="container">
 
+  <div class="galleri">
+
+    {{ range $artifacts }}
+    <div class="card artifact">
+      <img src="https://dummyimage.com/300x200.jpg&text={{ replace .Title  ' ' '+' }}"/>
+      <p><b>{{ .Title }}</b><br/><i>{{.Params.method}},
+        {{ .Params.height }} X {{ .Params.width }} cm, {{ .Params.year }}</i></p>
+      </div>
+      {{ end }}
+    </div>
 </div>
 
 {{ end }}

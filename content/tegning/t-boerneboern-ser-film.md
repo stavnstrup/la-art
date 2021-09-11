@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "boerneboern-ser-film"
 type: "art"
+weight: "49"
 ---

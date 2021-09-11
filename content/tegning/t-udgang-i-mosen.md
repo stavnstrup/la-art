@@ -12,4 +12,5 @@ medie: "tegning"
 show: "yes"
 slug: "udgang-i-mosen"
 type: "art"
+weight: "32"
 ---

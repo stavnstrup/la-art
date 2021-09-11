@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "legeplads"
 type: "art"
+weight: "5"
 ---

@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "dis"
 type: "art"
+weight: "22"
 ---

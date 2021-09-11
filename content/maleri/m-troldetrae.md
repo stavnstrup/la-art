@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "troldetrae"
 type: "art"
+weight: "2"
 ---

@@ -12,4 +12,5 @@ medie: "maleri"
 show: "yes"
 slug: "svaneunge-i-mosen"
 type: "art"
+weight: "12"
 ---
