@@ -1,13 +1,6 @@
 
 {{ define "main" }}
 
-<p>template: art/list</p>
-<p>type: {{ .Params.type }}</p>
-<p>layout: {{ .Params.layout }}</p>
-
-
-<p>Hello Art List </p>
-
 {{ $artifacts := .Pages }}
 
 <div class="container">
@@ -17,7 +10,7 @@
     {{ range $artifacts }}
     <div class="card artifact">
       <img src="https://dummyimage.com/300x200.jpg&text={{ replace .Title  ' ' '+' }}"/>
-      <p><b>{{ .Title }}</b><br/><i>{{.Params.method}},
+      <p><strong>{{ .Title }}</strong><br/><i>{{.Params.method}},
         {{ .Params.height }} X {{ .Params.width }} cm, {{ .Params.year }}</i></p>
       </div>
       {{ end }}
