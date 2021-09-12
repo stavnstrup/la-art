@@ -10,8 +10,8 @@
     {{ range $artifacts }}
     <div class="card artifact">
       {{ $image := $.Page.Resources.GetMatch .Params.fileName }}
-      <img alt="{{.Title}}" loading="lazy"
-           src="{{($image.Resize "288x").RelPermalink }}"/>
+      <a href="{{.Permalink}}"><img alt="{{.Title}}" loading="lazy"
+           src="{{($image.Resize "288x").RelPermalink }}" /></a>
       <p><strong>{{ .Title }}</strong><br/><i>{{.Params.method}},
         {{ .Params.height }} X {{ .Params.width }} cm, {{ .Params.year }}</i></p>
       </div>
