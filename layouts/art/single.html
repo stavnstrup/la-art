@@ -1,15 +1,11 @@
 {{ define "main" }}
-<p>template: art/single</p>
-<p>type: {{ .Params.type }}</p>
-<p>layout: {{ .Params.layout }}</p>
-
 
 <div class="container">
 
     
     <h1>{{ .Title }}</h1>
     
-    {{ $image := $.Page.Parent.Resources.GetMatch .Params.fileName }}
+    {{ $image := $.Page.Resources.GetMatch .Params.fileName }}
     
 
 
@@ -21,7 +17,7 @@
 
 
     <img alt="{{.Title}}" loading="lazy"
-    src="{{($image.Resize "288x").RelPermalink }}" />
+    src="{{($image.Resize "1008x").RelPermalink }}" />
 
 </div>
 

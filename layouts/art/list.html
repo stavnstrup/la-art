@@ -5,20 +5,24 @@
 
 <div class="container">
 
-<h1>.Pages</h1>
-
-{{ printf "%#v" $.Resources }}
-
-<h1>Galleri</h1>
+  <h1>{{ .Title }}</h1>
   <div class="galleri">
 
-    {{ range $artifacts }}
+    {{ range .Pages }}
     <div class="card artifact">
-      {{ $image := $.Page.Resources.GetMatch .Params.fileName }}
+      {{ $image := .Resources.GetMatch .Params.fileName }}
       <a href="{{.Permalink}}"><img alt="{{.Title}}" loading="lazy"
-           src="{{($image.Resize "288x").RelPermalink }}" /></a>
+           src="{{($image.Resize "288x").RelPermalink }}" />
       <p><strong>{{ .Title }}</strong><br/><i>{{.Params.method}},
         {{ .Params.height }} X {{ .Params.width }} cm, {{ .Params.year }}</i></p>
+        <p class="price">
+        {{ if ne .Params.price "Privateje"}}
+        DKK {{ lang.FormatNumberCustom 0 .Params.price "- , ." }}
+        {{ else }}
+        <p class="price">Privateje</p></p>
+        {{ end }}
+        </p>
+       </a>
       </div>
       {{ end }}
     </div>

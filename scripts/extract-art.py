@@ -1,6 +1,8 @@
 from collections import OrderedDict
 from itertools import islice
+from os import mkdir
 from openpyxl import load_workbook
+import os
 
 # load the workbook
 wb = load_workbook('LA-ART-data.xlsx')
@@ -29,10 +31,14 @@ for row in islice(sheet.values, 1, sheet.max_row):
     art['weight'] = int(row[12])
     art_list.append(art)
 
+os.mkdir('maleri')
+os.mkdir('tegning')
 
 for art in art_list:
-    prefix = 'm' if art['medie'] == 'maleri' else 't'
-    f = open('{0}-{1}.md'.format(prefix, art['slug']), 'w')
+#    prefix = 'm' if art['medie'] == 'maleri' else 't'
+#    f = open('{0}-{1}.md'.format(prefix, art['slug']), 'w')
+    os.mkdir(art['medie'] + '/' + art['slug'])
+    f = open('{0}/{1}/index.md'.format(art['medie'], art['slug']), 'w')
     f.write("---\n")
     for (key, value) in art.items():
         if key in ['height', 'width', 'year', 'rasterWidth', 'rasterHeight']:
@@ -41,3 +47,9 @@ for art in art_list:
             f.write("{0}: \"{1}\"\n".format(key, value))
     f.write("---\n")
     f.close()
+
+f = open('fiximages.sh', 'w')
+f.write('#!/bin/sh' + "\n")
+for art in art_list:
+    f.write(('mv {0}/{2} {0}/{1}/'+"\n").format(art['medie'], art['slug'], art['fileName']))
+f.close()
