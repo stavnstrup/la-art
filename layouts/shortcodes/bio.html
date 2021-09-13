@@ -1,8 +1,10 @@
-{{ $picture := .Get(0)}}
+{{- $imagename := default (.Get 0) (.Get "image") -}}
 
+
+<p>name:  {{ $imagename }}</p>
 
 <div class="bio">
-  {{ $image := .Resources.Get $picture }}
+  {{ $image := .Resources.Get $imagename }}
 
     <img alt="{{.Title}}" loading="lazy"
            src="{{($image.Resize "288x webp").RelPermalink }}" />
