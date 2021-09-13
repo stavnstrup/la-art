@@ -1,0 +1,12 @@
+{{ $picture := .Get(0)}}
+
+
+<div class="bio">
+  {{ $image := .Resources.Get $picture }}
+
+    <img alt="{{.Title}}" loading="lazy"
+           src="{{($image.Resize "288x webp").RelPermalink }}" />
+
+    <p>Her er noget tekst</p>
+
+</div>
