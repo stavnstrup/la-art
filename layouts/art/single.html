@@ -3,8 +3,27 @@
 <p>type: {{ .Params.type }}</p>
 <p>layout: {{ .Params.layout }}</p>
 
-<h1>{{ .Title }}</h1>
 
+<div class="container">
+
+    
+    <h1>{{ .Title }}</h1>
+    
+    {{ $image := $.Page.Parent.Resources.GetMatch .Params.fileName }}
+    
+
+
+<!--
+    <img alt="{{.Title}}" loading="lazy"
+    src="{{($image.Resize "1000x").RelPermalink }}" />
+-->
+
+
+
+    <img alt="{{.Title}}" loading="lazy"
+    src="{{($image.Resize "288x").RelPermalink }}" />
+
+</div>
 
 
 {{ end }}
