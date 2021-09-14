@@ -19,8 +19,11 @@
         {{ if ne .Params.price "Privateje"}}
         DKK {{ lang.FormatNumberCustom 0 .Params.price "- , ." }}
         {{ else }}
-        <p class="price">Privateje</p></p>
+        <p class="price">Privateje</p>
         {{ end }}
+        {{/*
+          */}}
+          <p>{{.Params.fileName}}</p>
         </p>
        </a>
       </div>
