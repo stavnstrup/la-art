@@ -11,6 +11,5 @@ fileName: "IMG_2139.JPG"
 medie: "maleri"
 show: "yes"
 slug: "universer"
-type: "art"
-weight: "25"
+weight: "270"
 ---

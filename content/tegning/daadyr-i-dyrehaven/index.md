@@ -11,6 +11,5 @@ fileName: "IMG_2737.JPG"
 medie: "tegning"
 show: "yes"
 slug: "daadyr-i-dyrehaven"
-type: "art"
-weight: "39"
+weight: "130"
 ---

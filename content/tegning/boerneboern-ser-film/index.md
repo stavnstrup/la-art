@@ -11,6 +11,5 @@ fileName: "IMG_2220.JPG"
 medie: "tegning"
 show: "yes"
 slug: "boerneboern-ser-film"
-type: "art"
-weight: "49"
+weight: "230"
 ---

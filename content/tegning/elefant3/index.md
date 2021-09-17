@@ -11,6 +11,5 @@ fileName: "IMG_2216.JPG"
 medie: "tegning"
 show: "yes"
 slug: "elefant3"
-type: "art"
-weight: "29"
+weight: "30"
 ---

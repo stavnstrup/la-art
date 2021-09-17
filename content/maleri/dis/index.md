@@ -11,6 +11,5 @@ fileName: "IMG_2552.JPG"
 medie: "maleri"
 show: "yes"
 slug: "dis"
-type: "art"
-weight: "22"
+weight: "220"
 ---

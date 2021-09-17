@@ -11,6 +11,5 @@ fileName: "IMG_2549.JPG"
 medie: "tegning"
 show: "yes"
 slug: "tyrekalv-paa-bornholm"
-type: "art"
-weight: "44"
+weight: "180"
 ---

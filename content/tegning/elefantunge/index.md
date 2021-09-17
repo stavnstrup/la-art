@@ -11,6 +11,5 @@ fileName: "IMG_2735.JPG"
 medie: "tegning"
 show: "yes"
 slug: "elefantunge"
-type: "art"
-weight: "30"
+weight: "40"
 ---

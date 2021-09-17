@@ -11,6 +11,5 @@ fileName: "IMG_1841.JPG"
 medie: "maleri"
 show: "yes"
 slug: "forblaest"
-type: "art"
-weight: "21"
+weight: "210"
 ---

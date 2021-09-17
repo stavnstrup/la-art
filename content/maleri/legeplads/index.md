@@ -11,6 +11,5 @@ fileName: "IMG_2578.JPG"
 medie: "maleri"
 show: "yes"
 slug: "legeplads"
-type: "art"
-weight: "5"
+weight: "50"
 ---

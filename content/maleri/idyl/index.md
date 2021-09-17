@@ -11,6 +11,5 @@ fileName: "IMG_1844.JPG"
 medie: "maleri"
 show: "yes"
 slug: "idyl"
-type: "art"
-weight: "19"
+weight: "190"
 ---

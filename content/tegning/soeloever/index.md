@@ -11,6 +11,5 @@ fileName: "IMG_2210.JPG"
 medie: "tegning"
 show: "yes"
 slug: "soeloever"
-type: "art"
-weight: "36"
+weight: "100"
 ---

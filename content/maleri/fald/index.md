@@ -11,6 +11,5 @@ fileName: "IMG_1849.JPG"
 medie: "maleri"
 show: "yes"
 slug: "fald"
-type: "art"
-weight: "16"
+weight: "160"
 ---

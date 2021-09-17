@@ -11,6 +11,5 @@ fileName: "IMG_2729.JPG"
 medie: "tegning"
 show: "yes"
 slug: "svaner-i-mosen"
-type: "art"
-weight: "46"
+weight: "200"
 ---

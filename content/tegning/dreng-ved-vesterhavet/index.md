@@ -11,6 +11,5 @@ fileName: "IMG_2214.JPG"
 medie: "tegning"
 show: "yes"
 slug: "dreng-ved-vesterhavet"
-type: "art"
-weight: "47"
+weight: "210"
 ---

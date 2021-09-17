@@ -11,6 +11,5 @@ fileName: "IMG_1839.JPG"
 medie: "maleri"
 show: "yes"
 slug: "klokker"
-type: "art"
-weight: "15"
+weight: "150"
 ---

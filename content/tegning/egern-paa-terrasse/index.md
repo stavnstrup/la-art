@@ -11,6 +11,5 @@ fileName: "IMG_2736.JPG"
 medie: "tegning"
 show: "yes"
 slug: "egern-paa-terrasse"
-type: "art"
-weight: "38"
+weight: "120"
 ---

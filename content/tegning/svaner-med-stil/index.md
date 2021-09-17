@@ -11,6 +11,5 @@ fileName: "IMG_2349.JPG"
 medie: "tegning"
 show: "yes"
 slug: "svaner-med-stil"
-type: "art"
-weight: "45"
+weight: "190"
 ---

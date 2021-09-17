@@ -11,6 +11,5 @@ fileName: "IMG_2201.JPG"
 medie: "tegning"
 show: "yes"
 slug: "aender-i-mosen"
-type: "art"
-weight: "31"
+weight: "50"
 ---

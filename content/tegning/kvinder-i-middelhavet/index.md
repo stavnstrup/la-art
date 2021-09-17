@@ -11,6 +11,5 @@ fileName: "IMG_2222.JPG"
 medie: "tegning"
 show: "yes"
 slug: "kvinder-i-middelhavet"
-type: "art"
-weight: "48"
+weight: "220"
 ---

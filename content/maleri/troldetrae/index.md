@@ -11,6 +11,5 @@ fileName: "IMG_1828.JPG"
 medie: "maleri"
 show: "yes"
 slug: "troldetrae"
-type: "art"
-weight: "2"
+weight: "20"
 ---

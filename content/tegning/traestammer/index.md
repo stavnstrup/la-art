@@ -11,6 +11,5 @@ fileName: "IMG_2218.JPG"
 medie: "tegning"
 show: "yes"
 slug: "traestammer"
-type: "art"
-weight: "40"
+weight: "140"
 ---
