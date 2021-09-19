@@ -1,16 +1,16 @@
 ---
-udstilles: "None"
-title: "Elefant 2"
+udstilles: 'None'
+title: 'Elefant 2'
 height: 23
-width: 31.5
-method: "Blyant på papir"
+width: 31,5
+method: 'Blyant på papir'
 year: 2019
-price: "1200"
+price: '1200'
 rasterWidth: 3314
 rasterHeight: 2447
-fileName: "IMG_2217.JPG"
-medie: "tegning"
-show: "yes"
-slug: "elefant2"
-weight: "20"
+fileName: 'IMG_2217.JPG'
+medie: 'tegning'
+show: 'yes'
+slug: 'elefant2'
+weight: '20'
 ---

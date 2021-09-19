@@ -20,7 +20,7 @@
   }
 }
 
-.xxx {
+.xx {
   font-family: lato;
   font-size: 90px;
   font-weight: 300;
@@ -32,4 +32,38 @@
   //  margin-top: 12px;
   //  width: 100%;
   // text-align: center;
+}
+
+.printlabels {
+  margin: 0;
+  padding: 0;
+  margin-top: 2cm;
+  margin-left: 2cm;
+  display: flex;
+  flex-flow: row;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 1cm;
+
+  .label {
+    border: 1px solid grey;
+    width: 10cm;
+    padding-left: 10mm;
+    padding-top: 15mm;
+    padding-bottom: 6mm;
+
+    p {
+      line-height: 1.2rem;
+      margin-bottom: 2px;
+    }
+
+    .bigspace {
+      margin-top: 1.5cm;
+      padding-bottom: 10px;
+    }
+
+    .finalspace {
+      margin-top: 0cm;
+    }
+  }
 }

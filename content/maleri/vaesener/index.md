@@ -1,16 +1,16 @@
 ---
-udstilles: "None"
-title: "Væsener"
+udstilles: 'None'
+title: 'Væsener'
 height: 30
 width: 40
-method: "Akryl på lærred"
+method: 'Akryl på lærred'
 year: 2017
-price: "1200"
+price: '1200'
 rasterWidth: 2628
 rasterHeight: 1975
-fileName: "IMG_1836.JPG"
-medie: "maleri"
-show: "yes"
-slug: "vaesener"
-weight: "240"
+fileName: 'IMG_1836.JPG'
+medie: 'maleri'
+show: 'yes'
+slug: 'vaesener'
+weight: '260'
 ---

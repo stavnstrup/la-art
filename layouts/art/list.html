@@ -12,11 +12,11 @@
       <a href="{{.Permalink}}"><img alt="{{.Title}}" loading="lazy"
            src="{{($image.Resize "288x webp").RelPermalink }}" />
       <p><strong>{{ .Title }}</strong><br/><i>{{.Params.method}},
-      {{ .Params.height }}x{{ .Params.width }} cm, {{ .Params.year }}</i></p>
+      {{ .Params.height }} x {{ .Params.width }} cm, {{ .Params.year }}</i></p>
 
         <p class="price">
         {{ if ne .Params.price "Privateje"}}
-        {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} Kr
+        {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr
         {{ else }}
         Privateje
         {{ end }}

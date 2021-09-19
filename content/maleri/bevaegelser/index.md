@@ -1,16 +1,16 @@
 ---
-udstilles: "x"
-title: "Bevægelser"
+udstilles: 'x'
+title: 'Bevægelser'
 height: 60
 width: 80
-method: "Olie på lærred i ramme"
+method: 'Olie på lærred i ramme'
 year: 2010
-price: "4500"
+price: '4500'
 rasterWidth: 3158
 rasterHeight: 2363
-fileName: "IMG_1789.JPG"
-medie: "maleri"
-show: "yes"
-slug: "bevaegelser"
-weight: "80"
+fileName: 'IMG_1789.JPG'
+medie: 'maleri'
+show: 'yes'
+slug: 'bevaegelser'
+weight: '90'
 ---
