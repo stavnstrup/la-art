@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Væsener"
 height: 30
 width: 40

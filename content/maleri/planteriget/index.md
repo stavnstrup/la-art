@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Planteriget"
 height: 60
 width: 60

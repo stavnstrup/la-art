@@ -1,4 +1,5 @@
 ---
+udstilles: "x"
 title: "Komposition"
 height: 73
 width: 91

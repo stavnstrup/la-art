@@ -1,5 +1,6 @@
 ---
-title: "Grotten"
+udstilles: "x"
+title: "Grotte"
 height: 50
 width: 70
 method: "Akryl på lærred"

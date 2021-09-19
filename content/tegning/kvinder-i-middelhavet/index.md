@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Kvinder i Middelhavet"
 height: 31
 width: 41

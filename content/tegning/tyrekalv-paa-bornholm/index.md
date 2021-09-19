@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Tyrekalv på Bornholm"
 height: 17
 width: 23

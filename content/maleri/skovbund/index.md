@@ -1,4 +1,5 @@
 ---
+udstilles: "x"
 title: "Skovbund"
 height: 60
 width: 80

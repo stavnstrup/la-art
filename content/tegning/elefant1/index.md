@@ -1,4 +1,5 @@
 ---
+udstilles: "x"
 title: "Elefant 1"
 height: 23
 width: 31.5

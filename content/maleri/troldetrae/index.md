@@ -1,4 +1,5 @@
 ---
+udstilles: "x"
 title: "Troldetræ"
 height: 80
 width: 60

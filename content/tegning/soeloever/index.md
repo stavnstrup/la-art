@@ -1,4 +1,5 @@
 ---
+udstilles: "x"
 title: "Søløver"
 height: 23
 width: 17

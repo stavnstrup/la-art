@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Træstammer"
 height: 31.5
 width: 23

@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Elefantunge"
 height: 32
 width: 42

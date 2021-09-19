@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Elefant 3"
 height: 23
 width: 31.5

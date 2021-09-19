@@ -1,4 +1,5 @@
 ---
+udstilles: "x"
 title: "Klipper"
 height: 60
 width: 60

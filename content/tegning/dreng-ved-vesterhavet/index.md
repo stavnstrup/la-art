@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Dreng ved Vesterhavet"
 height: 31.5
 width: 23

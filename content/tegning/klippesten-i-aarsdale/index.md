@@ -1,4 +1,5 @@
 ---
+udstilles: "x"
 title: "Klippesten i Årsdale"
 height: 32
 width: 26

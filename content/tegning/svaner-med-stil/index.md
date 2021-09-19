@@ -1,4 +1,5 @@
 ---
+udstilles: "None"
 title: "Svaner med stil"
 height: 31.5
 width: 23

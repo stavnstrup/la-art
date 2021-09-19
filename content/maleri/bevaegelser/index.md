@@ -1,4 +1,5 @@
 ---
+udstilles: "x"
 title: "Bevægelser"
 height: 60
 width: 80
