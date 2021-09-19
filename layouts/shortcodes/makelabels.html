@@ -1,6 +1,8 @@
 {{ $start := .Get "start" }}
 {{ $end := .Get "end" }}
 
+{{ $debuglabel := 1 }}
+
 <div class="printlabels">
     {{ $udstilles := where site.AllPages "Params.udstilles" "x" }}
     {{ range $i, $page := $udstilles }}
@@ -15,7 +17,7 @@
             {{ end }}
             </p>
             <p class="bigspace" />
-            <p class="web">lisbethaggerbeck.dk - <span style="color:green"> {{$i}}</span></p>
+            <p class="web">lisbethaggerbeck.dk{{ if $debuglabel}} - <span style="color:green"> {{$i}}</span>{{ end }}</p>
             <p class="finalspace"/>
         </div>
     {{ end }}
