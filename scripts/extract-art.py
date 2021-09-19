@@ -15,27 +15,28 @@ art_list = []
 
 for row in islice(sheet.values, 1, sheet.max_row):
     art = OrderedDict()
-    art['title'] = row[0]
-    art['height'] = int(row[1]) if row[1] == int(row[1]) else row[1]
-    art['width'] = int(row[2]) if row[2] == int(row[2]) else row[2]
-    art['method'] = row[3]
-    art['year'] = int(row[4])
-    art['price'] = row[5] if isinstance(row[5], str) else int(row[5])
-    art['rasterWidth'] = int(row[6])
-    art['rasterHeight'] = int(row[7])
-    art['fileName'] = row[8]
-    art['medie'] = row[9]
-    art['show'] = row[10]
-    art['slug'] = row[11]
-    art['weight'] = int(row[12])
+    art['udstilles'] = row[0]
+    art['title'] = row[1]
+    art['height'] = int(row[2]) if row[2] == int(row[2]) else row[2]
+    art['width'] = int(row[3]) if row[3] == int(row[3]) else row[3]
+    art['method'] = row[4]
+    art['year'] = int(row[5])
+    art['price'] = row[6] if isinstance(row[6], str) else int(row[6])
+    art['rasterWidth'] = int(row[7])
+    art['rasterHeight'] = int(row[8])
+    art['fileName'] = row[9]
+    art['medie'] = row[10]
+    art['show'] = row[11]
+    art['slug'] = row[12]
+    art['weight'] = int(row[13])
     art_list.append(art)
 
 os.mkdir('maleri')
 os.mkdir('tegning')
 
 for art in art_list:
-#    prefix = 'm' if art['medie'] == 'maleri' else 't'
-#    f = open('{0}-{1}.md'.format(prefix, art['slug']), 'w')
+    #    prefix = 'm' if art['medie'] == 'maleri' else 't'
+    #    f = open('{0}-{1}.md'.format(prefix, art['slug']), 'w')
     os.mkdir(art['medie'] + '/' + art['slug'])
     f = open('{0}/{1}/index.md'.format(art['medie'], art['slug']), 'w')
     f.write("---\n")
@@ -50,5 +51,6 @@ for art in art_list:
 f = open('fiximages.sh', 'w')
 f.write('#!/bin/sh' + "\n")
 for art in art_list:
-    f.write(('mv {0}/{2} {0}/{1}/'+"\n").format(art['medie'], art['slug'], art['fileName']))
+    f.write(('mv {0}/{2} {0}/{1}/' +
+            "\n").format(art['medie'], art['slug'], art['fileName']))
 f.close()
