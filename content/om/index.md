@@ -1,8 +1,8 @@
 ---
-title: "Om Lisbeth"
+title: 'Om Lisbeth'
 menu:
   main:
-    weight: 30;
+    weight: 40;
 ---
 
-{{ <bio "lisbeth.jpg" > }}
+{{<bio >}}

@@ -1,12 +1,9 @@
-{{- $imagename := default (.Get 0) (.Get "image") -}}
 
-
-<p>name:  {{ $imagename }}</p>
 
 <div class="bio">
-  {{ $image := .Resources.Get $imagename }}
+  {{ $image := .Page.Resources.GetMatch "lisbeth.jpg" }}
 
-    <img alt="{{.Title}}" loading="lazy"
+    <img alt="" loading="lazy"
            src="{{($image.Resize "288x webp").RelPermalink }}" />
 
     <p>Her er noget tekst</p>
