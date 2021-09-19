@@ -1,22 +1,22 @@
+{{ $start := .Get "start" }}
+{{ $end := .Get "end" }}
 
 <div class="printlabels">
-    {{ range site.AllPages }}
-      {{ if and (eq .Params.type "art") ( eq .Params.show "yes" )  }}
-       <div class="label">
-          <p><i>{{.Title}}</i>, {{.Params.year}}</p>
-          <p>{{ .Params.method }}, {{ .Params.height }} x {{ .Params.width }} cm</p>
-          <p class="price">
+    {{ $udstilles := where site.AllPages "Params.udstilles" "x" }}
+    {{ range $i, $page := $udstilles }}
+        <div class="label">
+            <p><i>{{.Title}}</i>, {{.Params.year}}</p>
+            <p>{{ .Params.method }}, {{ .Params.height }} x {{ .Params.width }} cm</p>
+            <p class="price">
             {{ if ne .Params.price "Privateje" }}
-            {{/* .Params.price */}}
-            {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr
+                {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr
             {{ else }}
-            Privateje
+                Privateje
             {{ end }}
             </p>
-          <p class="bigspace" />
-          <p class="web">lisbethaggerbeck.dk</p>
-          <p class="finalspace"/>
-       </div>
-      {{ end }}
+            <p class="bigspace" />
+            <p class="web">lisbethaggerbeck.dk - <span style="color:green"> {{$i}}</span></p>
+            <p class="finalspace"/>
+        </div>
     {{ end }}
 </div>
