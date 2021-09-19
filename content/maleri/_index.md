@@ -1,7 +1,7 @@
 ---
 title: 'Malerier'
-type: art
-
+cascade:
+  - type: art
 
 menu:
   main:
