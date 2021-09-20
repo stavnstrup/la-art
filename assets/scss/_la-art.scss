@@ -34,23 +34,25 @@
   // text-align: center;
 }
 
+//  Designed for Xerox - HVI-B/0.439
+
 .printlabels {
   margin: 0;
   padding: 0;
-  margin-top: 2cm;
-  margin-left: 2cm;
+  margin-top: 13mm;
+  margin-left: 6mm;
   display: flex;
   flex-flow: row;
   flex-grow: 1;
   flex-wrap: wrap;
-  gap: 1cm;
+  width: 180mm;
 
   .label {
     border: 1px solid grey;
-    width: 10cm;
+    width: 90mm;
     padding-left: 10mm;
-    padding-top: 15mm;
-    padding-bottom: 6mm;
+    padding-top: 14mm;
+    padding-bottom: 5mm;
 
     p {
       line-height: 1.2rem;
@@ -58,7 +60,7 @@
     }
 
     .bigspace {
-      margin-top: 1.5cm;
+      margin-top: 3mm;
       padding-bottom: 10px;
     }
 

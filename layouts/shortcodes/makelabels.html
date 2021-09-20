@@ -1,11 +1,14 @@
-{{ $start := .Get "start" }}
-{{ $end := .Get "end" }}
+{{ $start := int (.Get "start") }}
+{{ $end := int (.Get "end") }}
 
-{{ $debuglabel := 1 }}
+{{ $max := add $start 9 }}
+
+{{ $debuglabel := 0 }}
 
 <div class="printlabels">
     {{ $udstilles := where site.AllPages "Params.udstilles" "x" }}
     {{ range $i, $page := $udstilles }}
+        {{ if and (ge $i $start) (le $i $end)}}
         <div class="label">
             <p><i>{{.Title}}</i>, {{.Params.year}}</p>
             <p>{{ .Params.method }}, {{ .Params.height }} x {{ .Params.width }} cm</p>
@@ -20,5 +23,19 @@
             <p class="web">lisbethaggerbeck.dk{{ if $debuglabel}} - <span style="color:green"> {{$i}}</span>{{ end }}</p>
             <p class="finalspace"/>
         </div>
+        {{ end }}
     {{ end }}
+    {{ if lt $end (add $start 9) }}
+      {{ range $num := (seq ( sub $max $end )) }}
+      <div class="label" style="color: white">
+        <p>{{ $num }}</p>
+        <p/>
+        <p class="price">X</p>
+        <p class="bigspace">X</p>
+        <p class="web">X</p>
+        <p class="finalspace">X</p>
+      </div>
+      {{ end }}
+    {{ end }}
+    {{/**/}}
 </div>

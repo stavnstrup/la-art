@@ -2,11 +2,10 @@
 
 <h1>{{ .Title }}</h1>
 
-  <h1>all pages</h1>
-  {{ range .Pages }}
-    <article>
-      <h2>{{ .Title }}</h2>
-      {{ .Content }}
-    </article>
-  {{ end }}
+<ul>
+    {{ range .Pages }}
+    <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+    {{ end }}
+</ul>
+
 {{ end }}
