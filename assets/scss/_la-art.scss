@@ -28,12 +28,6 @@
   text-transform: uppercase;
 }
 
-.price {
-  //  margin-top: 12px;
-  //  width: 100%;
-  // text-align: center;
-}
-
 //  Designed for Xerox - HVI-B/0.439
 
 .printlabels {
@@ -47,6 +41,10 @@
   flex-wrap: wrap;
   width: 180mm;
   font-size: 14px;
+
+  .dummylabel {
+    visibility: hidden;
+  }
 
   .label {
     border: 1px solid grey;
