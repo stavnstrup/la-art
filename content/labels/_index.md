@@ -1,6 +1,7 @@
 ---
 title: Labels til udstillinger
-draft: false
+cascade:
+  - draft: true
 ---
 
 Label er designet til APLI reference 02793.
