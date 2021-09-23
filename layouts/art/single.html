@@ -1,9 +1,5 @@
 {{ define "main" }}
 
-<div class="container">
-
-
-    <h1>{{ .Title }}</h1>
 
     {{ $image := $.Page.Resources.GetMatch .Params.fileName }}
 
@@ -15,7 +11,7 @@
     <img alt="{{.Title}}" loading="lazy"
     src="{{($image.Resize "1008x webp").RelPermalink }}" />
 
-</div>
+
 
 
 {{ end }}

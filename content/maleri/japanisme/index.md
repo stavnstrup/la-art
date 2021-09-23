@@ -3,7 +3,7 @@ udstilles: 'x'
 title: 'Japanisme'
 height: 30
 width: 24
-method: 'Akryl på lærred'
+method: 'Olie på lærred'
 year: 2011
 price: '700'
 rasterWidth: 1621

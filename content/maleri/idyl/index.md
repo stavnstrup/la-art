@@ -3,7 +3,7 @@ udstilles: 'None'
 title: 'Idyl'
 height: 20
 width: 20
-method: 'Akryl på lærred'
+method: 'Olie på lærred'
 year: 2011
 price: '500'
 rasterWidth: 1727

@@ -1,11 +1,6 @@
 ---
-title: "Hello World"
+title: 'Home'
+menu:
+  main:
+    weight: 10
 ---
-
-# Lisbeth Aggerbeck
-
-This is my home page
-
-
-* [Malerier](./maleri)
-* [Tegninger](./tegning)

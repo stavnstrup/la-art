@@ -1,11 +1,35 @@
+{{ $image := .Page.Resources.GetMatch "lisbeth.jpg" }}
 
+<div class="biography">
+  <div class="picture">
+    <img alt="Lisbeth Aggerbeck" loading="lazy" src="{{($image.Resize "400x webp").RelPermalink }}" />
 
-<div class="bio">
-  {{ $image := .Page.Resources.GetMatch "lisbeth.jpg" }}
+    <h3>Kontakt</h3>
 
-    <img alt="" loading="lazy"
-           src="{{($image.Resize "288x webp").RelPermalink }}" />
+    <p>Lisbeth Aggerbeck Woll</p>
+    <p>Pilesvinget 79,<br />
+    2700 Brønshøj</p>
+    <p>lisbethaggerbeck.dk<br />
+    Mobil: 40412109<br />
+    lisbeth@woll.dk</p>
+  </div>
 
-    <p>Her er noget tekst</p>
+  <div class="bio">
+
+    <p>At male og tegne er en vigtig del af mit liv. Det giver mig et rum, hvor begejstring og glæde går hånd i hånd med frustration og utålmodighed, for kreativitet er en løbende proces af ideer, som det tager tid at omsætte.
+    </p>
+<p>
+  Jeg arbejder på at udvikle mig, både i maleriet og tegningen. Jeg læser kunsthistorie, går på malerskole og følger med i udstillinger i Danmark og udlandet. Min inspiration kommer fra det forunderlige og foranderlige i naturen, som jeg forsøger at afspejle og fortolke i en abstrakt og poetisk form. Naturens betydning i vores tidsalder forstærkes af truslen om dens sammenbrud.
+</p>
+
+<p>
+  Jeg har boet i Brønshøj i mange år, og mine sanser næres af de smukke omgivelser som Utterslev Mose, hvor jeg vandrer gennem de skiftende årstider. Dyrehaven og Zoologisk Have er andre kilder til inspiration, ligesom Bornholm med øens uudtømmelige motiver som klipperne og vandet. Og så er der Vesterhavet og Nice med havet og himlen som omdrejningspunkter. 
+</p>
+
+<p>
+  I mine malerier kan de anvendte farver og former fremkalde stemninger af noget, jeg ikke kan beskrive med ord. Noget både i og bag om naturen. Jeg er ikke altid bevidst om, hvad jeg har villet skabe, for værket tager over undervejs. Beskuerens blik er derfor motiverende for mig, og det føjer til glæden, når nogen ser noget i billederne, der taler til dem.
+</p>
+
+  </div>
 
 </div>

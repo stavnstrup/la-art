@@ -33,7 +33,7 @@
 .printlabels {
   margin: 0;
   padding: 0;
-  margin-top: 13mm;
+  margin-top: 9mm;
   margin-left: 6mm;
   display: flex;
   flex-flow: row;
@@ -41,13 +41,14 @@
   flex-wrap: wrap;
   width: 180mm;
   font-size: 14px;
+  background-color: white;
 
   .dummylabel {
     visibility: hidden;
   }
 
   .label {
-    border: 1px solid grey;
+    border: 1px solid rgb(255, 255, 255);
     width: 90mm;
     padding-left: 10mm;
     padding-top: 14mm;
@@ -59,7 +60,7 @@
     }
 
     .bigspace {
-      margin-top: 3mm;
+      margin-top: 3.5mm;
       padding-bottom: 10px;
     }
 
@@ -67,4 +68,19 @@
       margin-top: 0cm;
     }
   }
+}
+
+.biography {
+  display: flex;
+  p {
+    line-height: 1.2rem;
+  }
+  .picture {
+    margin-right: 30px;
+  }
+}
+
+.footer {
+  margin: 10px auto;
+  text-align: center;
 }

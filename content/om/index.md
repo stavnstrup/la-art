@@ -1,8 +1,8 @@
 ---
-title: 'Om Lisbeth'
+title: Om
 menu:
   main:
-    weight: 40;
+    weight: 50;
 ---
 
 {{<bio >}}
