@@ -2,7 +2,7 @@
 title: Om
 menu:
   main:
-    weight: 50;
+    weight: 50
 ---
 
 {{<bio >}}

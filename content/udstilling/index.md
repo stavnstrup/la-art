@@ -1,11 +1,11 @@
 ---
-title: Udstilling
+title: Udstillinger
 menu:
   main:
     weight: 40
 ---
 
-## Udstilling
+## Udstillinger
 
-- Pilegården Brønshøj, Oktober 2021
-- Husum Bibliotek, Nov 2021
+- Kulturhuset Pilegården, Brønshøj, oktober 2021
+- Husum Bibliotek, november-december 2021
