@@ -81,7 +81,7 @@
 }
 
 .footer {
-  margin: 10px auto;
+  margin: 20px auto;
   text-align: center;
 }
 
@@ -91,4 +91,51 @@
   font-family: 'Lato';
   font-size: 76px;
   font-weight: 300;
+  color: rgba($color: #000000, $alpha: 0.55);
 }
+
+h1,
+h2 {
+  font-family: 'Lato';
+  color: rgba($color: #000000, $alpha: 0.55);
+}
+
+// X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+.la-logo {
+  font-family: 'Lato';
+  font-weight: 300;
+  font-size: 24px;
+  color: rgba($color: #000000, $alpha: 0.55);
+}
+
+// Small devices (landscape phones, 576px and up)
+// @include media-breakpoint-up(sm) {
+@media (min-width: 576px) {
+  .la-logo {
+    font-size: 32px;
+  }
+}
+
+// Medium devices (tablets, 768px and up)
+// @include media-breakpoint-up(md) {
+@media (min-width: 768px) {
+  .la-logo {
+    font-size: 60px;
+  }
+}
+
+// Large devices (desktops, 992px and up)
+// @include media-breakpoint-up(lg) { ... }
+@media (min-width: 992px) {
+  .la-logo {
+    font-size: 76px;
+  }
+}
+
+// X-Large devices (large desktops, 1200px and up)
+// @include media-breakpoint-up(xl) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+// @include media-breakpoint-up(xxl) { ... }
