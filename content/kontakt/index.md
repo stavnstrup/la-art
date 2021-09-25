@@ -12,5 +12,5 @@ Pilesvinget 79,
 2700 Brønshøj
 
 Mobil: 40412109  
-Mail: lisbeth@woll.dk  
+lisbeth@woll.dk  
 [lisbethaggerbeck.dk](https://lisbethaggerbeck.dk)
