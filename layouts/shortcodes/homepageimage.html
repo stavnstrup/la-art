@@ -1,0 +1,5 @@
+{{ $image := resources.Get "/images/IMG_1822.JPG"}}
+
+<div class="container">
+  <img src="{{ ($image).RelPermalink }}" style="width: 100%" />
+</div>

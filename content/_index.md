@@ -4,3 +4,5 @@ menu:
   main:
     weight: 10
 ---
+
+{{<homepageimage >}}
