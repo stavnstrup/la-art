@@ -5,4 +5,4 @@ menu:
     weight: 10
 ---
 
-{{<homepageimage >}}
+{{<img src="IMG_1822.JPG" >}}

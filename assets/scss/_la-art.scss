@@ -89,18 +89,27 @@ a:hover {
 }
 
 .biography {
-  display: flex;
-  flex-flow: row;
-  flex-grow: 1;
-  flex-wrap: wrap;
+  // display: flex;
+  // flex-flow: row;
+  // flex-grow: 1;
+  // flex-wrap: wrap;
 
   .picture {
-    //   width: 322px;
-    margin-bottom: 10px;
+    // margin-bottom: 10px;
     //    img {
     //      margin-right: 30px;
     //    }
+    figure {
+      img {
+        width: 100%;
+      }
+    }
   }
+}
+
+.centerImage {
+  margin: 0 auto;
+  display: block;
 }
 
 .footer {

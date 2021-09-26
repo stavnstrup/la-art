@@ -1,12 +1,17 @@
-{{ $image := .Page.Resources.GetMatch "lisbeth.jpg" }}
+---
+title: Om
+menu:
+  main:
+    weight: 50
+---
 
 <div class="container">
   <div class="row biography">
-    <div class="col picture">
-      <img alt="Lisbeth Aggerbeck" loading="lazy" src="{{($image.Resize "400x webp").RelPermalink }}" />
+    <div class="col-6 picture">
+      {{< img src="lisbeth.jpg">}}
     </div>
 
-    <div class="col bio">
+    <div class="col-6 bio">
       <p>
         At male og tegne er en vigtig del af mit liv. Det giver mig et rum, hvor
         begejstring og glæde går hånd i hånd med frustration og utålmodighed,

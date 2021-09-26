@@ -11,7 +11,7 @@
       <a href="{{.Permalink}}">
         {{ with $smallImage }}
           <img alt="{{.Title}}" loading="lazy"
-           src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" />
+           src="{{ .RelPermalink }}">
         {{ end }}
         <p><strong>{{ .Title }}</strong><br/><i>{{.Params.method}},
         {{ .Params.height }} x {{ .Params.width }} cm, {{ .Params.year }}</i></p>

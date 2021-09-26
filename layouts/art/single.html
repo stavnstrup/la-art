@@ -1,17 +1,11 @@
-{{ define "main" }}
-
-
-    {{ $image := $.Page.Resources.GetMatch .Params.fileName }}
+{{ define "main" }} {{ $image := $.Page.Resources.GetMatch .Params.fileName }}
 
 <!--
     <img alt="{{.Title}}" loading="lazy"
     src="{{($image.Resize "1000x").RelPermalink }}" />
 -->
-
-    <img alt="{{.Title}}" loading="lazy"
-    src="{{($image.Resize "1008x webp").RelPermalink }}" />
-
-
-
+<div class="container">
+  <img class="centerImage" alt="{{.Title}}" loading="lazy" src="{{($image.Resize "1008x webp").RelPermalink }}" />
+</div>
 
 {{ end }}
