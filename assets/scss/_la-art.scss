@@ -2,8 +2,19 @@ $primary-font: 'Open Sans', sans-serif;
 $header-font: 'Lato', sans-serif;
 $link-bl: #283618;
 
+html,
+body {
+  height: 100%;
+}
+
 body {
   font-family: $primary-font;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1 0 auto;
 }
 
 a,
@@ -20,11 +31,11 @@ a:hover {
   padding-bottom: 2rem;
 }
 
-.frontpageContainer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+// .frontpageContainer {
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+// }
 
 .galleri {
   display: flex;
@@ -98,13 +109,8 @@ a:hover {
   }
 }
 
-figure {
-  img {
-    width: 100%;
-  }
-}
-
-.stuff {
+figure,
+.imageBox {
   img {
     width: 100%;
   }
@@ -113,16 +119,10 @@ figure {
 .footer {
   margin: 20px auto;
   text-align: center;
+  flex-shrink: 0;
 }
 
 // Customized brand
-
-.la-logo {
-  font-family: 'Lato';
-  font-size: 76px;
-  font-weight: 300;
-  color: rgba($color: #000000, $alpha: 0.55);
-}
 
 h1,
 h2 {

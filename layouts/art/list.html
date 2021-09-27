@@ -13,8 +13,8 @@
           <img alt="{{.Title}}" loading="lazy"
            src="{{ .RelPermalink }}">
         {{ end }}
-        <p><strong>{{ .Title }}</strong><br/><i>{{.Params.method}},
-        {{ .Params.height }} x {{ .Params.width }} cm, {{ .Params.year }}</i></p>
+        <p><strong>{{ .Title }}</strong><br/>{{.Params.method}},
+        {{ .Params.height }} x {{ .Params.width }} cm, {{ .Params.year }}</p>
 
         <p class="price">
         {{ if ne .Params.price "Privateje"}}

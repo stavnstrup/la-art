@@ -6,7 +6,20 @@
 -->
 <div class="container">
   <div class="row">
-    <div class="col-12 stuff">
+    <div class="col-12 imageBox">
+      <div class="row">
+        <div class="col-4">
+          {{ if .NextInSection }}
+          <a href="{{ .NextInSection.Permalink}}">PREV</a>
+          {{ end }}
+        </div>
+        <div class="col-4 text-center">INFO</div>
+        <div class="col-4 text-end">
+          {{ if .PrevInSection }}
+          <a href="{{.PrevInSection.Permalink}}">NEXT</a>
+          {{ end }}
+        </div>
+      </div>
       {{/* <img alt="{{.Title}}" loading="lazy" src="{{($image.Resize "1008x
       webp").RelPermalink }}" /> */}}
       <img src="{{ $image }}" alt="{{.Title}}" />
