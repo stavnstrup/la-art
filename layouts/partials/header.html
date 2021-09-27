@@ -19,7 +19,7 @@
       <ul class="navbar-nav mx-auto">
         {{ range . }}
         <li class="nav-item">
-          <a class="nav-link" href="{{.URL}}">{{.Name}}</a>
+          <a class="nav-link" href="{{.URL}}">{{.Name | upper}}</a>
         </li>
         {{ end }}
       </ul>
