@@ -98,28 +98,16 @@ a:hover {
   }
 }
 
-.biography {
-  // display: flex;
-  // flex-flow: row;
-  // flex-grow: 1;
-  flex-wrap: wrap;
-
-  .picture {
-    // margin-bottom: 10px;
-    //    img {
-    //      margin-right: 30px;
-    //    }
-    figure {
-      img {
-        width: 100%;
-      }
-    }
+figure {
+  img {
+    width: 100%;
   }
 }
 
-.centerImage {
-  margin: 0 auto;
-  display: block;
+.stuff {
+  img {
+    width: 100%;
+  }
 }
 
 .footer {
@@ -210,9 +198,5 @@ h2 {
   .method,
   .year {
     visibility: hidden;
-  }
-
-  .webfoot {
-    padding-top: 5cm;
   }
 }
