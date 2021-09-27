@@ -171,3 +171,38 @@ h2 {
 
 // XX-Large devices (larger desktops, 1400px and up)
 // @include media-breakpoint-up(xxl) { ... }
+
+.artifactList {
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  margin-top: 1cm;
+  margin-left: 1cm;
+
+  h1,
+  h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  table td {
+    padding: 0 12px;
+  }
+  .price {
+    text-align: right;
+  }
+
+  .method,
+  .year {
+    visibility: hidden;
+  }
+
+  .webfoot {
+    padding-top: 5cm;
+  }
+}
