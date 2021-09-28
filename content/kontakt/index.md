@@ -5,7 +5,7 @@ menu:
     weight: 60
 ---
 
-### Kontakt
+## Kontakt
 
 Lisbeth Aggerbeck Woll  
 Pilesvinget 79,  

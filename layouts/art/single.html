@@ -8,13 +8,11 @@
 <div class="container">
   <div class="row">
     <div class="col-12 imageBox">
-      <div class="row">
+      <div class="row arrowBox">
         <div class="col-4">
           {{ if .NextInSection }}
           <a href="{{ .NextInSection.Permalink}}"
-            ><img
-              class="icon d-sm-block float-start"
-              src="/vendor/font-awesome/arrow-circle-left.svg"
+            ><img class="icon" src="/vendor/font-awesome/arrow-circle-left.svg"
           /></a>
           {{ end }}
         </div>

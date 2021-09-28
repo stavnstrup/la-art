@@ -41,9 +41,10 @@ a:hover {
 
 .artifact {
   border: 0;
-  //  margin: 12px;
-  //margin-bottom: 14px;
-  //padding: 1.43 3%;
+  // margin: 4px;
+  margin-bottom: 14px;
+  padding: 1.43 3%;
+  //width: 90vw;
   //  width: 25rem;
   p {
     // font-family: Lato;
@@ -53,60 +54,17 @@ a:hover {
   }
 }
 
-.logo {
-  font-family: lato;
-  font-size: 50px;
-  font-weight: 300;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-//  Designed for Xerox - HVI-B/0.439
-
-.printlabels {
-  margin: 0;
-  padding: 0;
-  margin-top: 9mm;
-  margin-left: 6mm;
-  display: flex;
-  flex-flow: row;
-  flex-grow: 1;
-  flex-wrap: wrap;
-  width: 180mm;
-  font-size: 14px;
-  background-color: white;
-
-  .dummylabel {
-    visibility: hidden;
-  }
-
-  .label {
-    border: 1px solid rgb(255, 255, 255);
-    width: 90mm;
-    padding-left: 10mm;
-    padding-top: 14mm;
-    padding-bottom: 5mm;
-
-    p {
-      line-height: 1.2rem;
-      margin-bottom: 2px;
-    }
-
-    .bigspace {
-      margin-top: 3.5mm;
-      padding-bottom: 10px;
-    }
-
-    .finalspace {
-      margin-top: 0cm;
-    }
-  }
-}
+// .logo {
+//   font-family: lato;
+//   font-size: 50px;
+//   font-weight: 300;
+//   text-align: center;
+//   text-transform: uppercase;
+// }
 
 .icon {
-  margin-left: 0;
-  height: 40px;
-  width: 40px;
+  height: 50px;
+  width: 50px;
 }
 
 figure,
@@ -114,6 +72,10 @@ figure,
   img {
     width: 100%;
   }
+}
+
+.arrowBox {
+  justify-content: space-between; // does not seem to work
 }
 
 .footer {
@@ -130,6 +92,10 @@ h1,
 h2 {
   font-family: 'Lato';
   color: rgba($color: #000000, $alpha: 0.55);
+}
+
+h2 {
+  margin-bottom: 1rem;
 }
 
 // X-Small devices (portrait phones, less than 576px)
@@ -172,6 +138,10 @@ h2 {
 // XX-Large devices (larger desktops, 1400px and up)
 // @include media-breakpoint-up(xxl) { ... }
 
+// *****************************************************************************************
+// The following styles are for pages which creates a list of labels and a list of artifact.
+// *****************************************************************************************
+
 .artifactList {
   font-family: 'Times New Roman', Times, serif;
   color: black;
@@ -200,5 +170,47 @@ h2 {
   .method,
   .year {
     visibility: hidden;
+  }
+}
+
+//  Designed for Xerox - HVI-B/0.439
+
+.printlabels {
+  margin: 0;
+  padding: 0;
+  margin-top: 9mm;
+  margin-left: 6mm;
+  display: flex;
+  flex-flow: row;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  width: 180mm;
+  font-size: 14px;
+  background-color: white;
+
+  .dummylabel {
+    visibility: hidden;
+  }
+
+  .label {
+    border: 1px solid rgb(255, 255, 255);
+    width: 90mm;
+    padding-left: 10mm;
+    padding-top: 14mm;
+    padding-bottom: 5mm;
+
+    p {
+      line-height: 1.2rem;
+      margin-bottom: 2px;
+    }
+
+    .bigspace {
+      margin-top: 3.5mm;
+      padding-bottom: 10px;
+    }
+
+    .finalspace {
+      margin-top: 0cm;
+    }
   }
 }
