@@ -74,6 +74,10 @@ figure,
   }
 }
 
+.navbar-light .navbar-brand {
+  color: rgba($color: #000000, $alpha: 0.55);
+}
+
 .arrowBox {
   justify-content: space-between; // does not seem to work
 }
