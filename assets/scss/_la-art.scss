@@ -31,26 +31,20 @@ a:hover {
   padding-bottom: 2rem;
 }
 
-// .frontpageContainer {
-//   display: flex;
-//   align-items: center;
-//   justify-content: center;
-// }
-
 .galleri {
-  display: flex;
-  flex-flow: row;
-  flex-grow: 1;
-  flex-wrap: wrap;
+  //  display: flex;
+  //  flex-flow: row;
+  //  flex-grow: 1;
+  //  flex-wrap: wrap;
   justify-content: center;
 }
 
 .artifact {
   border: 0;
-  margin: 12px;
+  //  margin: 12px;
   margin-bottom: 14px;
   padding: 1.43 3%;
-  width: 25rem;
+  //  width: 25rem;
   p {
     // font-family: Lato;
     margin-bottom: 0;

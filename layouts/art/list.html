@@ -1,21 +1,34 @@
 
 {{ define "main" }}
 
-  <h2>{{ .Title }}</h2>
-  <div class="galleri">
+{{/* hugo will resize to all of these sizes that are smaller than your original. configure if you like! */}}
+{{ $sizes := (slice "480" "800" "1200" "1500") }}
 
-    {{ range .Pages }}
-    <div class="card artifact">
-      {{ $image := .Resources.GetMatch .Params.fileName }}
-      {{ $smallImage := $image.Resize "352x webp" }}
+
+<h2>{{ .Title }}</h2>
+<div class="galleri row">
+  {{ range .Pages }}
+    <div class="card artifact col-12 col-sm-6 col-md-4 imageBox">
+      {{ $src := .Resources.GetMatch .Params.fileName }}
       <a href="{{.Permalink}}">
-        {{ with $smallImage }}
-          <img alt="{{.Title}}" loading="lazy"
-           src="{{ .RelPermalink }}">
-        {{ end }}
+        <img 
+          {{ if $src }}
+            sizes="(min-width: 35em) 1200px, 100vw"
+            {{/* only srcset images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}} 
+            srcset='
+            {{ range $sizes }}
+              {{ if ge $src.Width . }}{{ ($src.Resize (printf "%sx webp" .)).Permalink }} {{ (printf "%sw" .) }},{{ end }}
+            {{ end }}'
+            {{/* when no support for srcset (old browsers, RSS), we load small (800px) */}}
+            {{/* if image smaller than 800, then load the image itself */}}
+            {{ if ge $src.Width "800" }}src="{{ ($src.Resize "800x").Permalink }}"
+            {{ else }}src="{{ $src.Permalink }}"
+            {{ end }}
+          {{end}}
+          alt="{{ .Title }}"
+        />
         <p><strong>{{ .Title }}</strong><br/>{{.Params.method}},
         {{ .Params.height }} x {{ .Params.width }} cm, {{ .Params.year }}</p>
-
         <p class="price">
         {{ if ne .Params.price "Privateje"}}
         {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr
@@ -27,9 +40,10 @@
           <p>{{.Params.fileName}}</p>
           */}}
         </p>
-       </a>
-      </div>
-      {{ end }}
+      </a>
     </div>
+  {{ end }}
+</div>
+
 
 {{ end }}
