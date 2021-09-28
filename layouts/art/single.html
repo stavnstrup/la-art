@@ -11,7 +11,11 @@
       <div class="row">
         <div class="col-4">
           {{ if .NextInSection }}
-          <a href="{{ .NextInSection.Permalink}}">PREV</a>
+          <a href="{{ .NextInSection.Permalink}}"
+            ><img
+              class="icon d-sm-block float-start"
+              src="/vendor/font-awesome/arrow-circle-left.svg"
+          /></a>
           {{ end }}
         </div>
         <div class="col-4 text-center">
@@ -19,7 +23,11 @@
         </div>
         <div class="col-4 text-end">
           {{ if .PrevInSection }}
-          <a href="{{.PrevInSection.Permalink}}">NEXT</a>
+          <a href="{{.PrevInSection.Permalink}}"
+            ><img
+              class="icon"
+              src="/vendor/font-awesome/arrow-circle-right.svg"
+          /></a>
           {{ end }}
         </div>
       </div>
