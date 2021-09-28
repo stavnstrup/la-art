@@ -4,6 +4,7 @@
     <img alt="{{.Title}}" loading="lazy"
     src="{{($image.Resize "1000x").RelPermalink }}" />
 -->
+
 <div class="container">
   <div class="row">
     <div class="col-12 imageBox">
@@ -13,7 +14,9 @@
           <a href="{{ .NextInSection.Permalink}}">PREV</a>
           {{ end }}
         </div>
-        <div class="col-4 text-center"></div>
+        <div class="col-4 text-center">
+          {{/* <i>{{ .Title }}</i>, {{ .Params.year }} */}}
+        </div>
         <div class="col-4 text-end">
           {{ if .PrevInSection }}
           <a href="{{.PrevInSection.Permalink}}">NEXT</a>
