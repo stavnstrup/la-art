@@ -8,7 +8,7 @@
 <h2>{{ .Title }}</h2>
 <div class="galleri row">
   {{ range .Pages }}
-    <div class="card artifact col-12 col-sm-6 col-md-4 imageBox">
+    <div class="card artifact col-12 col-sm-6 col-md-3 imageBox">
       {{ $src := .Resources.GetMatch .Params.fileName }}
       <a href="{{.Permalink}}">
         <img 
