@@ -9,17 +9,17 @@
   <div class="row">
     <div class="col-12 imageBox">
       <div class="row arrowBox">
-        <div class="col-4">
+        <div class="col">
           {{ if .NextInSection }}
           <a href="{{ .NextInSection.Permalink}}"
             ><img class="icon" src="/vendor/font-awesome/arrow-circle-left.svg"
           /></a>
           {{ end }}
         </div>
-        <div class="col-4 text-center">
-          {{/* <i>{{ .Title }}</i>, {{ .Params.year }} */}}
+        <div class="col-11 text-center">
+          <img src="{{ $image }}" alt="{{.Title}}" />
         </div>
-        <div class="col-4 text-end">
+        <div class="col text-end">
           {{ if .PrevInSection }}
           <a href="{{.PrevInSection.Permalink}}"
             ><img
@@ -31,7 +31,6 @@
       </div>
       {{/* <img alt="{{.Title}}" loading="lazy" src="{{($image.Resize "1008x
       webp").RelPermalink }}" /> */}}
-      <img src="{{ $image }}" alt="{{.Title}}" />
     </div>
   </div>
 </div>

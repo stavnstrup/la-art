@@ -36,6 +36,7 @@ a:hover {
   //  flex-flow: row;
   //  flex-grow: 1;
   //  flex-wrap: wrap;
+  column-gap: 0px;
   justify-content: center;
 }
 
@@ -44,8 +45,8 @@ a:hover {
   // margin: 4px;
   margin-bottom: 14px;
   padding: 1.43 3%;
-  //width: 90vw;
-  //  width: 25rem;
+  //width: 25rem;
+  padding-right: 36px; // This should not be here
   p {
     // font-family: Lato;
     margin-bottom: 0;
