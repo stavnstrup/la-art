@@ -46,26 +46,13 @@ a:hover {
   margin-bottom: 14px;
   padding: 1.43 3%;
   //width: 25rem;
-  padding-right: 30px; // This is bad
+  // padding-right: 30px; // This is bad
   p {
     // font-family: Lato;
     margin-bottom: 0;
     padding-bottom: 0;
     line-height: 1.3rem;
   }
-}
-
-// .logo {
-//   font-family: lato;
-//   font-size: 50px;
-//   font-weight: 300;
-//   text-align: center;
-//   text-transform: uppercase;
-// }
-
-.icon {
-  height: 50px;
-  width: 50px;
 }
 
 .keep-on-page {
@@ -117,6 +104,12 @@ h2 {
   color: rgba($color: #000000, $alpha: 0.55);
 }
 
+.icon {
+  height: 40px;
+  width: 40px;
+  padding-bottom: 5px;
+}
+
 // Small devices (landscape phones, 576px and up)
 // @include media-breakpoint-up(sm) {
 @media (min-width: 576px) {
@@ -129,7 +122,10 @@ h2 {
 // @include media-breakpoint-up(md) {
 @media (min-width: 768px) {
   .la-logo {
-    font-size: 60px;
+    font-size: 56px;
+  }
+  .artifact {
+    padding-right: 30px;
   }
 }
 
@@ -137,7 +133,7 @@ h2 {
 // @include media-breakpoint-up(lg) { ... }
 @media (min-width: 992px) {
   .la-logo {
-    font-size: 76px;
+    font-size: 68px;
   }
 }
 
