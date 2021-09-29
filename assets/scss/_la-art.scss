@@ -46,7 +46,7 @@ a:hover {
   margin-bottom: 14px;
   padding: 1.43 3%;
   //width: 25rem;
-  padding-right: 30px; // This should not be here
+  padding-right: 30px; // This is bad
   p {
     // font-family: Lato;
     margin-bottom: 0;
@@ -66,6 +66,10 @@ a:hover {
 .icon {
   height: 50px;
   width: 50px;
+}
+
+.keep-on-page {
+  min-height: 100vh;
 }
 
 figure,
