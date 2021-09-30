@@ -1,16 +1,17 @@
 ---
-udstilles: "x"
-title: "Komposition"
+id: 3
+udstilles: 'x'
+title: 'Komposition'
 height: 73
 width: 91
-method: "Olie på lærred"
+method: 'Olie på lærred'
 year: 2009
-price: "Privateje"
+price: 'Privateje'
 rasterWidth: 2703
 rasterHeight: 2144
-fileName: "IMG_1822.JPG"
-medie: "maleri"
-show: "yes"
-slug: "komposition"
-weight: "30"
+fileName: 'IMG_1822.JPG'
+medie: 'maleri'
+show: 'yes'
+slug: 'komposition'
+weight: '30'
 ---

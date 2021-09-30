@@ -1,4 +1,5 @@
 ---
+id: 7
 udstilles: 'x'
 title: 'Klipper'
 height: 60

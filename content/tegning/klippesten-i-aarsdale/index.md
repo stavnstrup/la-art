@@ -1,16 +1,17 @@
 ---
-udstilles: "x"
-title: "Klippesten i Årsdale"
+id: 38
+udstilles: 'x'
+title: 'Klippesten i Årsdale'
 height: 32
 width: 26
-method: "Farveblyant på papir"
+method: 'Farveblyant på papir'
 year: 2020
-price: "900"
+price: '900'
 rasterWidth: 2665
 rasterHeight: 3279
-fileName: "IMG_2207.JPG"
-medie: "tegning"
-show: "yes"
-slug: "klippesten-i-aarsdale"
-weight: "90"
+fileName: 'IMG_2207.JPG'
+medie: 'tegning'
+show: 'yes'
+slug: 'klippesten-i-aarsdale'
+weight: '90'
 ---

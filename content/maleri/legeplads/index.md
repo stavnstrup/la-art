@@ -1,4 +1,5 @@
 ---
+id: 6
 udstilles: 'x'
 title: 'Legeplads'
 height: 50
