@@ -14,4 +14,5 @@ medie: 'maleri'
 show: 'yes'
 slug: 'legeplads'
 weight: '60'
+sold: 'yes'
 ---

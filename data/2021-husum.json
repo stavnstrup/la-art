@@ -1,3 +1,6 @@
-{ "location": "Husum Bibliotek",
+{
+    "location": "Husum Bibliotek",
     "period": "30. oct - 30. dec 2021",
-    "assets": [4, 10, 12, 14, 17, 19, 22, 28, 29, 34, 37, 39, 40, 43, 47, 48, 49]}
+    "painting": [4, 10, 12, 14, 17, 19, 22, 28],
+    "drawing": [29, 34, 37, 39, 40, 43, 47, 48, 49]
+}

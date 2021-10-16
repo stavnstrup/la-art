@@ -31,7 +31,7 @@
         {{ .Params.height }} x {{ .Params.width }} cm, {{ .Params.year }}</p>
         <p class="price">
         {{ if ne .Params.price "Privateje"}}
-        {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr
+        {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr {{ if .Params.sold }} SOLGT{{ end }}
         {{ else }}
         Privateje
         {{ end }}

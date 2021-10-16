@@ -1,60 +1,60 @@
+{{ $artifact := 0 }}
+
 <div class="artifactList">
-<h1>Lisbeth Aggerbeck Woll</h1>
+  <h1>Lisbeth Aggerbeck Woll</h1>
 
-<p>Mobil: 40412109<br />
-lisbeth@woll.dk<br />
-lisbethaggerbeck.dk</p>
+  <p>
+    Mobil: 40412109<br />
+    lisbeth@woll.dk<br />
+    lisbethaggerbeck.dk
+  </p>
 
+  {{ with site.Data.udstilling }}
 
-<p><b>VÆRKLISTE, udstilling i Kulturhuset Pilegården, 30. sept. - 28. okt. 2021</b></p>
+  <p>
+    <b>VÆRKLISTE, udstilling i {{ .location }}, {{ .period }}</b>
+  </p>
 
+  {{ if gt (len .painting) 0 }}
 
-<h2>Malerier</h2>
+  <h2>Malerier</h2>
 
-<table>
-{{ range $i, $page := where ( where site.AllPages "Params.udstilles" "x" ) "Params.medie" "maleri" }}
-{{ with $page }}
-<tr>
-  <td class="no">{{add $i 1 }}.</td>
-  <td><i>{{ .Title }}</i></td>
-  <td class="method">{{ .Params.method }}</td>
-  <td>{{ .Params.height }} x {{ .Params.width }} cm</td>
-  <td class="year">{{ .Params.year }}</td>
-  <td class="price">
-    {{ if ne .Params.price "Privateje"}}
-    {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr
-    {{ else }}
-    Privateje
-    {{ end }}
-  </td>
-</tr>
-{{ end }}
-{{ end }}
-</table>
+  <table>
+    {{ range $i, $page := where site.AllPages "Params.medie" "maleri" }} {{ with
+    $page }} {{ if in site.Data.udstilling.painting .Params.id }}
+    <tr>
+      <td class="no">{{add $artifact 1 }}.</td>
+      <td><i>{{ .Title }}</i></td>
+      <td class="method">{{ .Params.method }}</td>
+      <td>{{ .Params.height }} x {{ .Params.width }} cm</td>
+      <td class="year">{{ .Params.year }}</td>
+      <td class="price">
+        {{ if ne .Params.price "Privateje"}} {{ lang.FormatNumberCustom 0
+        .Params.price "- , ." }} kr {{ else }} Privateje {{ end }}
+      </td>
+    </tr>
+    {{ $artifact = add $artifact 1 }} {{ end }} {{ end }} {{ end }}
+  </table>
+  {{ end }} {{ if gt (len .drawing) 0 }}
 
-<h2>Tegninger</h2>
+  <h2>Tegninger</h2>
 
-<table>
-{{ range $i, $page := where ( where site.AllPages "Params.udstilles" "x" ) "Params.medie" "tegning" }}
-{{ with $page }}
-<tr>
-  <td class="no">{{add $i 18 }}.</td>
-  <td><i>{{ .Title }}</i></td>
-  <td class="method">{{ .Params.method }}</td>
-  <td>{{ .Params.height }} x {{ .Params.width }} cm</td>
-  <td class="year">{{ .Params.year }}</td>
-  <td class="price">
-    {{ if ne .Params.price "Privateje"}}
-    {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr
-    {{ else }}
-    Privateje
-    {{ end }}
-  </td>
-</tr>
-{{ end }}
-{{ end }}
-</table>
-{{/*
-<p class="webfoot">lisbethaggerbeck.dk</p>
- */}}
+  <table>
+    {{ range $i, $page := where site.AllPages "Params.medie" "tegning" }} {{
+    with $page }} {{ if in site.Data.udstilling.drawing .Params.id }}
+    <tr>
+      <td class="no">{{add $artifact 1 }}.</td>
+      <td><i>{{ .Title }}</i></td>
+      <td class="method">{{ .Params.method }}</td>
+      <td>{{ .Params.height }} x {{ .Params.width }} cm</td>
+      <td class="year">{{ .Params.year }}</td>
+      <td class="price">
+        {{ if ne .Params.price "Privateje"}} {{ lang.FormatNumberCustom 0
+        .Params.price "- , ." }} kr {{ else }} Privateje {{ end }}
+      </td>
+    </tr>
+    {{ $artifact = add $artifact 1 }} {{ end }} {{ end }} {{ end }}
+  </table>
+
+  {{ end }} {{ end }}
 </div>
