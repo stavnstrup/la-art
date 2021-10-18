@@ -4,29 +4,30 @@
 {{ $max := add $start 9 }}
 
 {{ $debuglabel := 0 }}
+{{ $exibitionArray := union .Site.Data.udstilling.painting .Site.Data.udstilling.drawing }}
 
 <div class="printlabels">
-    {{ $udstilles := where site.AllPages "Params.udstilles" "x" }}
-    {{ range $i, $page := $udstilles }}
-        {{ if and (ge $i $start) (le $i $end)}}
-        <div class="label">
-            <p><i>{{.Title}}</i>, {{.Params.year}}</p>
-            <p>{{ .Params.method }}, {{ .Params.height }} x {{ .Params.width }} cm</p>
-            <p class="price">
-            {{ if ne .Params.price "Privateje" }}
-                {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr
-            {{ else }}
-                Privateje
-            {{ end }}
-            </p>
-            <p class="bigspace" />
-            <p class="web">lisbethaggerbeck.dk{{ if $debuglabel}} - <span style="color:green"> {{$i}}</span>{{ end }}</p>
-            <p class="finalspace" />
-        </div>
-        {{ end }}
+  {{ $exibitionPages := where site.RegularPages .Params.id "in" $exibitionArray }}
+  {{ range $i, $page := $exibitionPages }}
+    {{ if and (ge $i $start) (le $i $end) }}
+      <div class="label">
+        <p><i>{{.Title}}</i>, {{.Params.year}}</p>
+        <p>{{ .Params.method }}, {{ .Params.height }} x {{ .Params.width }} cm</p>
+        <p class="price">
+          {{ if ne .Params.price "Privateje" }} {{ lang.FormatNumberCustom 0
+          .Params.price "- , ." }} kr {{ else }} Privateje {{ end }}
+        </p>
+        <p class="bigspace" />
+        <p class="web">
+          lisbethaggerbeck.dk{{ if $debuglabel}} -
+          <span style="color: green"> {{$i}}</span>{{ end }}
+        </p>
+        <p class="finalspace" />
+      </div>
     {{ end }}
-    {{ if lt $end (add $start 9) }}
-      {{ range $num := (seq ( sub $max $end )) }}
+  {{ end }}
+  {{ if lt $end (add $start 9) }}
+    {{ range $num := (seq (sub $max $end )) }}
       <div class="label dummylabel">
         <p><i>Linux</i>, 2005</p>
         <p>C, Bash, etc, 100 x 100 cm</p>
@@ -35,7 +36,6 @@
         <p class="web">lisbethaggerbeck.dk</p>
         <p class="finalspace" />
       </div>
-      {{ end }}
     {{ end }}
-    {{/**/}}
+  {{ end }}
 </div>
