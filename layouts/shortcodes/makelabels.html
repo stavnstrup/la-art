@@ -6,8 +6,12 @@
 {{ $debuglabel := 0 }}
 {{ $exibitionArray := union .Site.Data.udstilling.painting .Site.Data.udstilling.drawing }}
 
+{{/* Cast all of the elements in the array to type int using apply - 
+     https://discourse.gohugo.io/t/filtering-pages-with-the-in-operator-fails/35196/2 */}}
+{{ $exibitionArray = apply $exibitionArray "int" "." }}
+
 <div class="printlabels">
-  {{ $exibitionPages := where site.RegularPages .Params.id "in" $exibitionArray }}
+  {{ $exibitionPages := where site.RegularPages "Params.id" "in" $exibitionArray }}
   {{ range $i, $page := $exibitionPages }}
     {{ if and (ge $i $start) (le $i $end) }}
       <div class="label">
