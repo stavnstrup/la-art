@@ -1,6 +1,6 @@
-{ 
-    "location": "Kulturhuset Pilegården, Brønshøj",
-    "period": "30. sep - 28. okt 2021",
-    "painting": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 19, 21],
-    "drawing": [29, 34, 35, 36, 37, 38, 39, 44, 45]
+{
+    "location": "Husum Bibliotek",
+    "period": "30. oct - 30. dec 2021",
+    "painting": [4, 10, 12, 14, 17, 19, 22, 28],
+    "drawing": [29, 34, 37, 39, 40, 43, 47, 48, 49]
 }
