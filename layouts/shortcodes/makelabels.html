@@ -1,8 +1,6 @@
 {{ $start := int (.Get "start") }}
 {{ $end := int (.Get "end") }}
 
-{{ $max := add $start 9 }}
-
 {{ $debuglabel := 0 }}
 {{ $exibitionArray := union .Site.Data.udstilling.painting .Site.Data.udstilling.drawing }}
 
@@ -26,18 +24,6 @@
           lisbethaggerbeck.dk{{ if $debuglabel}} -
           <span style="color: green"> {{$i}}</span>{{ end }}
         </p>
-        <p class="finalspace" />
-      </div>
-    {{ end }}
-  {{ end }}
-  {{ if lt $end (add $start 9) }}
-    {{ range $num := (seq (sub $max $end )) }}
-      <div class="label dummylabel">
-        <p><i>Linux</i>, 2005</p>
-        <p>C, Bash, etc, 100 x 100 cm</p>
-        <p class="price">1 kr</p>
-        <p class="bigspace" />
-        <p class="web">lisbethaggerbeck.dk</p>
         <p class="finalspace" />
       </div>
     {{ end }}

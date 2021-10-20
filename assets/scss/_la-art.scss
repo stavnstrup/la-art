@@ -42,13 +42,9 @@ a:hover {
 
 .artifact {
   border: 0;
-  // margin: 4px;
   margin-bottom: 14px;
   padding: 1.43 3%;
-  //width: 25rem;
-  // padding-right: 30px; // This is bad
   p {
-    // font-family: Lato;
     margin-bottom: 0;
     padding-bottom: 0;
     line-height: 1.3rem;
@@ -144,7 +140,7 @@ h2 {
 // @include media-breakpoint-up(xxl) { ... }
 
 // *****************************************************************************************
-// The following styles are for pages which creates a list of labels and a list of artifact.
+// The following styles are for pages which creates a list of artifacts and list of labels.
 // *****************************************************************************************
 
 .artifactList {
@@ -178,34 +174,27 @@ h2 {
   }
 }
 
-//  Designed for Xerox - HVI-B/0.439
+//  Designed for Xerox - HVI-B/0.420
 
 .printlabels {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
   margin-top: 9mm;
   margin-left: 6mm;
   display: grid;
-  grid-template-columns: repeat(3, 180mm);
-
-  // display: flex;
-  // flex-flow: row;
-  // flex-grow: 1;
-  // flex-wrap: wrap;
+  grid-template-columns: 90mm 90mm;
+  grid-gap: 0;
   width: 180mm;
   font-size: 14px;
   background-color: white;
 
-  .dummylabel {
-    visibility: hidden;
-  }
-
   .label {
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid white;
     width: 90mm;
     padding-left: 10mm;
     padding-top: 14mm;
-    padding-bottom: 5mm;
+    min-height: 50.8mm;
 
     p {
       line-height: 1.2rem;
