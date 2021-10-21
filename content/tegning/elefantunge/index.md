@@ -1,6 +1,5 @@
 ---
 id: 32
-udstilles: 'None'
 title: 'Elefantunge'
 height: 32
 width: 42

@@ -1,6 +1,5 @@
 ---
 id: 36
-udstilles: 'x'
 title: 'Gås i mosen'
 height: 32
 width: 26

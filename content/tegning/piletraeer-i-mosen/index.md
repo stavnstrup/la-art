@@ -1,6 +1,5 @@
 ---
 id: 37
-udstilles: 'x'
 title: 'Piletræer i mosen'
 height: 32
 width: 26

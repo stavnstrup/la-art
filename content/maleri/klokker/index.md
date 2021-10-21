@@ -1,6 +1,5 @@
 ---
 id: 17
-udstilles: 'x'
 title: 'Klokker'
 height: 50
 width: 40

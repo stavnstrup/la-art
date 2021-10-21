@@ -1,6 +1,5 @@
 ---
 id: 18
-udstilles: 'None'
 title: 'Trilogi'
 height: 20
 width: 15

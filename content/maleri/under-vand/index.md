@@ -1,6 +1,5 @@
 ---
 id: 1
-udstilles: 'x'
 title: 'Under vand'
 height: 100
 width: 80

@@ -1,6 +1,5 @@
 ---
 id: 42
-udstilles: 'None'
 title: 'Dådyr i Dyrehaven'
 height: 31,5
 width: 23

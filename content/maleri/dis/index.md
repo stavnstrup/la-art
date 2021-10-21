@@ -1,6 +1,5 @@
 ---
 id: 24
-udstilles: 'None'
 title: 'Dis'
 height: 65,5
 width: 80

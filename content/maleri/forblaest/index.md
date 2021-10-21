@@ -1,6 +1,5 @@
 ---
 id: 23
-udstilles: 'None'
 title: 'Forblæst'
 height: 27
 width: 35

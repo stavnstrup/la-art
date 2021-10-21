@@ -1,6 +1,5 @@
 ---
 id: 27
-udstilles: 'None'
 title: 'Universer'
 height: 60
 width: 50

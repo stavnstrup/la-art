@@ -1,6 +1,5 @@
 ---
 id: 9
-udstilles: 'x'
 title: 'Bevægelser'
 height: 60
 width: 80

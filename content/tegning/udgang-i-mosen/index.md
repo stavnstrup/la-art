@@ -1,6 +1,5 @@
 ---
 id: 35
-udstilles: 'x'
 title: 'Udgang i mosen'
 height: 32
 width: 26

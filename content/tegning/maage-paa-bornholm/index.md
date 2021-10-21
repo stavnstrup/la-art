@@ -1,6 +1,5 @@
 ---
 id: 46
-udstilles: 'None'
 title: 'Måge på Bornholm'
 height: 32
 width: 26

@@ -1,6 +1,5 @@
 ---
 id: 20
-udstilles: 'None'
 title: 'Idyl'
 height: 20
 width: 20

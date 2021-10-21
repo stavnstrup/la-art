@@ -1,6 +1,5 @@
 ---
 id: 40
-udstilles: 'None'
 title: 'Sovende klippesten'
 height: 23
 width: 17

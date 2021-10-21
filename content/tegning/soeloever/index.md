@@ -1,6 +1,5 @@
 ---
 id: 39
-udstilles: 'x'
 title: 'Søløver'
 height: 23
 width: 17

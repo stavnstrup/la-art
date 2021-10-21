@@ -1,6 +1,5 @@
 ---
 id: 33
-udstilles: 'None'
 title: 'Gammel hunelefant'
 height: 21
 width: 15

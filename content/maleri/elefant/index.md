@@ -1,6 +1,5 @@
 ---
 id: 28
-udstilles: 'None'
 title: 'Elefant'
 height: 50
 width: 70

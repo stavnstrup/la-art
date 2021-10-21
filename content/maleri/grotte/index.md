@@ -1,6 +1,5 @@
 ---
 id: 4
-udstilles: 'x'
 title: 'Grotte'
 height: 50
 width: 70

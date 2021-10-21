@@ -1,6 +1,5 @@
 ---
 id: 34
-udstilles: 'x'
 title: 'Ænder i mosen'
 height: 32
 width: 26

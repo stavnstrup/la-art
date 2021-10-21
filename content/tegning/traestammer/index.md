@@ -1,6 +1,5 @@
 ---
 id: 43
-udstilles: 'None'
 title: 'Træstammer'
 height: 31,5
 width: 23

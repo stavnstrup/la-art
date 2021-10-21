@@ -1,6 +1,5 @@
 ---
 id: 41
-udstilles: 'None'
 title: 'Egern på terrasse'
 height: '31,5'
 width: 23

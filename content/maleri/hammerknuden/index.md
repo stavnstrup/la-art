@@ -1,6 +1,5 @@
 ---
 id: 25
-udstilles: 'None'
 title: 'Hammerknuden'
 height: 46
 width: 55

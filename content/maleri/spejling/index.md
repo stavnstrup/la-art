@@ -1,6 +1,5 @@
 ---
 id: 15
-udstilles: 'x'
 title: 'Spejling'
 height: 40
 width: 50

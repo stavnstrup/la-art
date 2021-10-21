@@ -1,6 +1,5 @@
 ---
 id: 5
-udstilles: 'x'
 title: 'Svaneunge i mosen'
 height: 50
 width: 40

@@ -1,6 +1,5 @@
 ---
 id: 45
-udstilles: 'x'
 title: 'Liggende strudsepar'
 height: 23
 width: 31,5

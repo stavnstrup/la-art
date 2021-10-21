@@ -1,6 +1,5 @@
 ---
 id: 54
-udstilles: 'None'
 title: 'Børn i Vesterhavet'
 height: 23
 width: 31,5

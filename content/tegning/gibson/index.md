@@ -1,6 +1,5 @@
 ---
 id: 53
-udstilles: 'None'
 title: 'Gibson'
 height: 21
 width: 15

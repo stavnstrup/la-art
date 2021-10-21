@@ -1,6 +1,5 @@
 ---
 id: 19
-udstilles: 'x'
 title: 'Japanisme'
 height: 30
 width: 24

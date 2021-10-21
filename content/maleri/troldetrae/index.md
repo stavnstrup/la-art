@@ -1,6 +1,5 @@
 ---
 id: 2
-udstilles: 'x'
 title: 'Troldetræ'
 height: 80
 width: 60

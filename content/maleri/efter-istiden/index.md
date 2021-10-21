@@ -1,6 +1,5 @@
 ---
 id: 8
-udstilles: 'x'
 title: 'Efter istiden'
 height: 60
 width: 60
