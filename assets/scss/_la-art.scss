@@ -146,7 +146,7 @@ h2 {
 .artifactList {
   font-family: 'Times New Roman', Times, serif;
   color: black;
-  margin-top: 1cm;
+  margin-top: 8mm;
   margin-left: 1cm;
 
   h1,
@@ -165,10 +165,14 @@ h2 {
   table td {
     padding: 0 12px;
   }
-  .price {
+
+  .dimension {
     text-align: right;
   }
 
+  .price {
+    text-align: right;
+  }
   .method,
   .year {
     visibility: hidden;
