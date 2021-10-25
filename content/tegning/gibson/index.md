@@ -12,5 +12,5 @@ fileName: 'IMG_1182.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'gibson'
-weight: '270'
+weight: '280'
 ---

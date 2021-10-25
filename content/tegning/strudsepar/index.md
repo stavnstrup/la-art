@@ -12,6 +12,6 @@ fileName: 'IMG_2209.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'strudsepar'
-weight: '170'
+weight: '160'
 sold: 'yes'
 ---

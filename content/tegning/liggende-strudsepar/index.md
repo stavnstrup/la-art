@@ -12,5 +12,5 @@ fileName: 'IMG_2208.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'Liggende-strudsepar'
-weight: '150'
+weight: '170'
 ---
