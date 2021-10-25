@@ -12,5 +12,5 @@ fileName: 'IMG_2204.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'piletraeer-i-mosen'
-weight: '80'
+weight: '90'
 ---

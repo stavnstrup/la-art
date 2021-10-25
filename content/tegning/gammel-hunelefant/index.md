@@ -12,5 +12,5 @@ fileName: 'IMG_0169.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'gammel-hunelefant'
-weight: '250'
+weight: '50'
 ---

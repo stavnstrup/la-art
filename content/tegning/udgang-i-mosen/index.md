@@ -12,5 +12,5 @@ fileName: 'IMG_2202.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'udgang-i-mosen'
-weight: '60'
+weight: '70'
 ---

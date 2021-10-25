@@ -12,5 +12,5 @@ fileName: 'IMG_2213.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'maage-paa-bornholm'
-weight: '170'
+weight: '180'
 ---

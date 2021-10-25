@@ -12,5 +12,5 @@ fileName: 'IMG_2203.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'gaas-i-mosen'
-weight: '70'
+weight: '80'
 ---

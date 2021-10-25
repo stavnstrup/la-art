@@ -12,5 +12,5 @@ fileName: 'IMG_2984.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'figurer'
-weight: '212'
+weight: '220'
 ---

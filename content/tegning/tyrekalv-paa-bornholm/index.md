@@ -12,5 +12,5 @@ fileName: 'IMG_2549.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'tyrekalv-paa-bornholm'
-weight: '180'
+weight: '190'
 ---

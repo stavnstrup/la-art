@@ -12,5 +12,5 @@ fileName: 'IMG_2211.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'sovende-klippesten'
-weight: '110'
+weight: '120'
 ---

@@ -12,5 +12,5 @@ fileName: 'IMG_2816.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'boern-i-vesterhavet'
-weight: '240'
+weight: '280'
 ---

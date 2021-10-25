@@ -12,5 +12,5 @@ fileName: 'IMG_2986.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'rummet'
-weight: '214'
+weight: '230'
 ---

@@ -12,5 +12,5 @@ fileName: 'IMG_2207.JPG'
 medie: 'tegning'
 show: 'yes'
 slug: 'klippesten-i-aarsdale'
-weight: '90'
+weight: '100'
 ---
