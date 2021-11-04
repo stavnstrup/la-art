@@ -6,6 +6,7 @@ CNAME
 .idea/
 .vscode/
 node_modules/
+.hugo_build.lock
 
 # auto-generated tag files
 tags
