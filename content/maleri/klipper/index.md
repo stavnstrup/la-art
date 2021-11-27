@@ -12,5 +12,5 @@ fileName: 'IMG_1826.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'klipper'
-weight: '70'
+weight: '90'
 ---

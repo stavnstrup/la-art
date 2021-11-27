@@ -12,5 +12,5 @@ fileName: 'IMG_1840.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'trilogi'
-weight: '180'
+weight: '210'
 ---

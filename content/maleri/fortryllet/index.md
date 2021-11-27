@@ -12,5 +12,5 @@ fileName: 'IMG_1817.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'fortryllet'
-weight: '160'
+weight: '130'
 ---

@@ -12,5 +12,5 @@ fileName: 'IMG_1824.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'hammerknuden'
-weight: '250'
+weight: '150'
 ---

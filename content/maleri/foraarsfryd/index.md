@@ -12,5 +12,5 @@ fileName: 'IMG_9735.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'foraarsfryd'
-weight: '210'
+weight: '240'
 ---

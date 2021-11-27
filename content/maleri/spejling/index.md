@@ -12,5 +12,5 @@ fileName: 'IMG_1814.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'spejling'
-weight: '150'
+weight: '180'
 ---

@@ -12,5 +12,5 @@ fileName: 'IMG_1823.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'skovbund'
-weight: '100'
+weight: '120'
 ---

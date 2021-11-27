@@ -12,5 +12,5 @@ fileName: 'IMG_2994.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'en-rejse'
-weight: '135'
+weight: '100'
 ---

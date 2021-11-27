@@ -8,7 +8,7 @@ year: 2021
 price: '3000'
 fileName: 'IMG_2552.JPG'
 medie: 'maleri'
-draft: 'yes'
+draft: true
 slug: 'dis'
 weight: '240'
 ---

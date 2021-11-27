@@ -12,5 +12,5 @@ fileName: 'IMG_1825.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'planteriget'
-weight: '130'
+weight: '260'
 ---

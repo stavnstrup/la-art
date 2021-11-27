@@ -12,5 +12,5 @@ fileName: 'IMG_1838.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'efter-istiden'
-weight: '80'
+weight: '110'
 ---

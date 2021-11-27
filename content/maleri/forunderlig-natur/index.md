@@ -12,5 +12,5 @@ fileName: 'IMG_2966.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'forunderlig-natur'
-weight: '65'
+weight: '80'
 ---

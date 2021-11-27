@@ -12,5 +12,5 @@ fileName: 'IMG_1842.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'japanisme'
-weight: '190'
+weight: '200'
 ---

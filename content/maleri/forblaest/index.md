@@ -8,7 +8,7 @@ year: 2019
 price: '1200'
 fileName: 'IMG_1841.JPG'
 medie: 'maleri'
-draft: 'yes'
+draft: true
 slug: 'forblaest'
 weight: '230'
 ---

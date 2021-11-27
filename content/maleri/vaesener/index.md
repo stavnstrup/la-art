@@ -12,5 +12,5 @@ fileName: 'IMG_1836.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'vaesener'
-weight: '260'
+weight: '270'
 ---

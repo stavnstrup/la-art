@@ -12,5 +12,5 @@ fileName: 'IMG_2812.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'eufori'
-weight: '120'
+weight: '170'
 ---
