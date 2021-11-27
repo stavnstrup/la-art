@@ -1,6 +1,6 @@
 ---
 id: 58
-title: 'En Rejse'
+title: 'En rejse'
 height: 50
 width: 60
 method: 'Akryl på lærred'
