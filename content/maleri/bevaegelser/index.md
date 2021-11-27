@@ -12,6 +12,5 @@ fileName: 'IMG_1789.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'bevaegelser'
-weight: '140
-'
+weight: '140'
 ---
