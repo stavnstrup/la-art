@@ -8,7 +8,7 @@ year: 2021
 price: '2800'
 rasterWidth: 0
 rasterHeight: 0
-fileName: 'IMG_2994.JPG'
+fileName: 'IMG_3116.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'en-rejse'
