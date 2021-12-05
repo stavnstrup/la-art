@@ -12,5 +12,5 @@ fileName: 'IMG_1833.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'svaneunge-i-mosen'
-weight: '60'
+weight: '290'
 ---
