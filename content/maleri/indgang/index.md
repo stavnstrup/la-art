@@ -10,5 +10,5 @@ fileName: 'IMG_3163.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'indgang'
-weight: '111'
+weight: '113'
 ---

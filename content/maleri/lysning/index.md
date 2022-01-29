@@ -10,5 +10,5 @@ fileName: 'IMG_3240.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'lysning'
-weight: '121'
+weight: '125'
 ---
