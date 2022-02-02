@@ -8,6 +8,6 @@ year: 2022
 price: '5400'
 fileName: 'IMG_3274.JPG'
 medie: 'maleri'
-slug: 'paa_vandring'
+slug: 'paa-vandring'
 weight: '35'
 ---
