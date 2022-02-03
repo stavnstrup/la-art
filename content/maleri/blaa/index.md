@@ -1,0 +1,14 @@
+---
+id: 63
+title: 'Blå'
+height: 60
+width: 50
+method: 'Akryl på lærred'
+year: 2022
+price: '3300'
+fileName: 'IMG_.JPG'
+medie: 'maleri'
+draft: true
+slug: 'blaa'
+weight: '34'
+---
