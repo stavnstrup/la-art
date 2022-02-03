@@ -9,5 +9,5 @@ price: '5400'
 fileName: 'IMG_3274.JPG'
 medie: 'maleri'
 slug: 'paa-vandring'
-weight: '35'
+weight: '33'
 ---
