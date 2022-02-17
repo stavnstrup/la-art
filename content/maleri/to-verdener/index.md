@@ -5,7 +5,7 @@ height: 50
 width: 50
 method: 'Akryl på lærred'
 year: 2022
-price: '4000'
+price: '3000'
 fileName: 'IMG_3330.JPG'
 medie: 'maleri'
 slug: 'to-verdener'
