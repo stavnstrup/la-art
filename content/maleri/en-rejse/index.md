@@ -5,7 +5,7 @@ height: 50
 width: 60
 method: 'Akryl på lærred'
 year: 2021
-price: '2800'
+price: '3300'
 rasterWidth: 0
 rasterHeight: 0
 fileName: 'IMG_3116.JPG'

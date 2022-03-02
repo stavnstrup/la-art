@@ -5,7 +5,7 @@ height: 80
 width: 60
 method: 'Akryl på lærred'
 year: 2020
-price: '3400'
+price: '4200'
 rasterWidth: 2322
 rasterHeight: 3120
 fileName: 'IMG_9735.JPG'

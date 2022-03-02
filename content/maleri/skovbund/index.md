@@ -5,7 +5,7 @@ height: 60
 width: 80
 method: 'Akryl på lærred'
 year: 2019
-price: '3800'
+price: '4500'
 rasterWidth: 2987
 rasterHeight: 2273
 fileName: 'IMG_1823.JPG'

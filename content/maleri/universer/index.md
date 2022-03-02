@@ -5,7 +5,7 @@ height: 60
 width: 50
 method: 'Akryl på lærred'
 year: 2021
-price: '2500'
+price: '3300'
 fileName: 'IMG_2139.JPG'
 medie: 'maleri'
 show: 'yes'
