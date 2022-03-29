@@ -10,5 +10,5 @@ fileName: 'IMG_2138.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'gul'
-weight: '35'
+weight: '37'
 ---

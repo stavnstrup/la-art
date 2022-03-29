@@ -9,5 +9,5 @@ price: '3300'
 fileName: 'IMG_3284.JPG'
 medie: 'maleri'
 slug: 'blaa'
-weight: '34'
+weight: '36'
 ---

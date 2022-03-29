@@ -9,5 +9,5 @@ price: '1200'
 fileName: 'IMG_3474.JPG'
 medie: 'maleri'
 slug: 'groen'
-weight: '36'
+weight: '38'
 ---

@@ -12,5 +12,5 @@ fileName: 'IMG_2547.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'grotten'
-weight: '40'
+weight: '35'
 ---
