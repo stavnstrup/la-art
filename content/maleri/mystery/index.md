@@ -1,8 +1,8 @@
 ---
 id: 66
 title: 'Mystery'
-height: 80
-width: 60
+height: 60
+width: 80
 method: 'Akryl på lærred'
 year: 2022
 price: '5000'
