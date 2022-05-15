@@ -11,6 +11,7 @@ rasterHeight: 2310
 fileName: 'IMG_2126.JPG'
 medie: 'maleri'
 show: 'yes'
+draft: true
 slug: 'elefant'
 weight: '300'
 ---
