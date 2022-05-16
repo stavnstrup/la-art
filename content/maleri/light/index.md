@@ -1,7 +1,7 @@
 ---
 id: 67
 title: 'Light'
-height: 30
+height: 20
 width: 20
 method: 'Akryl på lærred'
 year: 2022
