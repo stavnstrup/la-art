@@ -12,5 +12,5 @@ fileName: 'IMG_1822.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'komposition'
-weight: '30'
+weight: '2'
 ---
