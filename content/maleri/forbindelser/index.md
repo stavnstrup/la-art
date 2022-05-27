@@ -6,7 +6,7 @@ width: 80
 method: 'Olie på lærred'
 year: 2022
 price: '5200'
-fileName: 'IMG_3789.JPG'
+fileName: 'IMG_3780.JPG'
 medie: 'maleri'
 show: 'yes'
 slug: 'forbindelser'
