@@ -1,16 +1,14 @@
 ---
-id: 26
-title: 'Væsener'
-height: 30
-width: 40
-method: 'Akryl på lærred'
-year: 2017
-price: '1200'
-rasterWidth: 2628
-rasterHeight: 1975
-fileName: 'IMG_1836.JPG'
+id: 70
+title: 'Forbindelser'
+height: 60
+width: 80
+method: 'Olie på lærred'
+year: 2022
+price: '5200'
+fileName: 'IMG_3789.JPG'
 medie: 'maleri'
 show: 'yes'
-slug: 'vaesener'
-weight: '270'
+slug: 'forbindelser'
+weight: '33'
 ---
