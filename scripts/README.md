@@ -2,7 +2,7 @@
 
 | Script           | Description                      |
 | ---------------- | -------------------------------- |
-| `extract-art.py` | Extract art data from excel file |
+| `csv2md.py`      | Extract art data from csv file   |
 
 # Requirements
 
