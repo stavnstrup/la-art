@@ -1,16 +1,14 @@
 ---
 id: 18
-title: 'Trilogi'
-height: 20
+title: "Trilogi"
+heigth: 20
 width: 15
-method: 'Akryl på lærred'
+method: "Akryl på lærred"
 year: 2018
-price: '1500'
-rasterWidth: 2941
-rasterHeight: 1397
-fileName: 'IMG_1840.JPG'
-medie: 'maleri'
-show: 'yes'
-slug: 'trilogi'
-weight: '210'
+price: "1500"
+fileName: "IMG_1840.JPG"
+medie: "maleri"
+draft: "no"
+slug: "trilogi"
+weight: "320"
 ---

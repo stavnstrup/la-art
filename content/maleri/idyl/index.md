@@ -1,16 +1,14 @@
 ---
 id: 20
-title: 'Idyl'
-height: 20
+title: "Idyl"
+heigth: 20
 width: 20
-method: 'Olie på lærred'
+method: "Olie på lærred"
 year: 2011
-price: '500'
-rasterWidth: 1727
-rasterHeight: 1721
-fileName: 'IMG_1844.JPG'
-medie: 'maleri'
-show: 'yes'
-slug: 'idyl'
-weight: '220'
+price: "500"
+fileName: "IMG_1844.JPG"
+medie: "maleri"
+draft: "no"
+slug: "idyl"
+weight: "330"
 ---

@@ -1,16 +1,14 @@
 ---
 id: 1
-title: 'Under vand'
-height: 100
+title: "Under vand"
+heigth: 100
 width: 80
-method: 'Akryl på lærred'
+method: "Akryl på lærred"
 year: 2021
-price: '6200'
-rasterWidth: 2088
-rasterHeight: 2620
-fileName: 'IMG_1843.JPG'
-medie: 'maleri'
-show: 'yes'
-slug: 'under-vand'
-weight: '10'
+price: "6200"
+fileName: "IMG_1843.JPG"
+medie: "maleri"
+draft: "no"
+slug: "under-vand"
+weight: "20"
 ---

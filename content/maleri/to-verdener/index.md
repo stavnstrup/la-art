@@ -1,13 +1,14 @@
 ---
 id: 64
-title: 'To verdener'
-height: 50
+title: "To verdener"
+heigth: 50
 width: 50
-method: 'Akryl på lærred'
+method: "Akryl på lærred"
 year: 2022
-price: '3000'
-fileName: 'IMG_3330.JPG'
-medie: 'maleri'
-slug: 'to-verdener'
-weight: '73'
+price: "3000"
+fileName: "IMG_3330.JPG"
+medie: "maleri"
+draft: "no"
+slug: "to-verdener"
+weight: "130"
 ---

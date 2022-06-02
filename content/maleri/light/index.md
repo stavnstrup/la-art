@@ -1,14 +1,14 @@
 ---
 id: 67
-title: 'Light'
-height: 20
+title: "Light"
+heigth: 20
 width: 20
-method: 'Akryl på lærred'
+method: "Akryl på lærred"
 year: 2022
-price: '800'
-fileName: 'IMG_3726.JPG'
-medie: 'maleri'
-show: 'yes'
-slug: 'light'
-weight: '126'
+price: "800"
+fileName: "IMG_3726.JPG"
+medie: "maleri"
+draft: "no"
+slug: "light"
+weight: "230"
 ---

@@ -1,14 +1,14 @@
 ---
 id: 8
-title: 'Efter istiden'
-height: 60
+title: "Efter istiden"
+heigth: 60
 width: 60
-method: 'Olie på lærred'
+method: "Olie på lærred"
 year: 2010
-price: '3200'
-fileName: 'IMG_1838.JPG'
-medie: 'maleri'
-show: 'yes'
-slug: 'efter-istiden'
-weight: '110'
+price: "3200"
+fileName: "IMG_1838.JPG"
+medie: "maleri"
+draft: "no"
+slug: "efter-istiden"
+weight: "170"
 ---
