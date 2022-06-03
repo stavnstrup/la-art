@@ -1,7 +1,7 @@
 ---
 id: 17
 title: "Klokker"
-heigth: 50
+height: 50
 width: 40
 method: "Akryl på lærred"
 year: 2021

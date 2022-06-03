@@ -1,7 +1,7 @@
 ---
 id: 9
 title: "Bevægelser"
-heigth: 60
+height: 60
 width: 80
 method: "Olie på lærred i ramme"
 year: 2010

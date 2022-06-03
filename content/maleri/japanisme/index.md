@@ -1,7 +1,7 @@
 ---
 id: 19
 title: "Japanisme"
-heigth: 30
+height: 30
 width: 24
 method: "Olie på lærred"
 year: 2011

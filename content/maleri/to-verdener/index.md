@@ -1,7 +1,7 @@
 ---
 id: 64
 title: "To verdener"
-heigth: 50
+height: 50
 width: 50
 method: "Akryl på lærred"
 year: 2022

@@ -1,7 +1,7 @@
 ---
 id: 18
 title: "Trilogi"
-heigth: 20
+height: 20
 width: 15
 method: "Akryl på lærred"
 year: 2018

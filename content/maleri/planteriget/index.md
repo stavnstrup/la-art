@@ -1,7 +1,7 @@
 ---
 id: 13
 title: "Planteriget"
-heigth: 60
+height: 60
 width: 60
 method: "Olie på lærred"
 year: 2010

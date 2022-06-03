@@ -1,7 +1,7 @@
 ---
 id: 68
 title: "Symphony"
-heigth: 20
+height: 20
 width: 20
 method: "Akryl på lærred"
 year: 2022

@@ -1,7 +1,7 @@
 ---
 id: 5
 title: "Svaneunge i mosen"
-heigth: 50
+height: 50
 width: 40
 method: "Olie på lærred"
 year: 2008

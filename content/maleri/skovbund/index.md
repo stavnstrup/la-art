@@ -1,7 +1,7 @@
 ---
 id: 10
 title: "Skovbund"
-heigth: 60
+height: 60
 width: 80
 method: "Akryl på lærred"
 year: 2019

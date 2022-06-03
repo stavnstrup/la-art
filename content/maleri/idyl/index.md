@@ -1,7 +1,7 @@
 ---
 id: 20
 title: "Idyl"
-heigth: 20
+height: 20
 width: 20
 method: "Olie på lærred"
 year: 2011

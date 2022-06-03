@@ -1,7 +1,7 @@
 ---
 id: 66
 title: "Mystery"
-heigth: 60
+height: 60
 width: 80
 method: "Akryl på lærred"
 year: 2022

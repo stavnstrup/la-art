@@ -1,7 +1,7 @@
 ---
 id: 22
 title: "Fald"
-heigth: 70
+height: 70
 width: 50
 method: "Akryl på lærred"
 year: 2019

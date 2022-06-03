@@ -1,7 +1,7 @@
 ---
 id: 63
 title: "Blå"
-heigth: 60
+height: 60
 width: 50
 method: "Akryl på lærred"
 year: 2022

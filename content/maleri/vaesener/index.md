@@ -1,7 +1,7 @@
 ---
 id: 26
 title: "Væsener"
-heigth: 30
+height: 30
 width: 40
 method: "Akryl på lærred"
 year: 2017

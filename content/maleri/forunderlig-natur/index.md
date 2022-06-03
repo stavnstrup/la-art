@@ -1,7 +1,7 @@
 ---
 id: 55
 title: "Forunderlig natur"
-heigth: 70
+height: 70
 width: 50
 method: "Akryl på lærred"
 year: 2021

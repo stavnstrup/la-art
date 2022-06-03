@@ -8,7 +8,7 @@ import os
 markdownPath = '../content/'
 
 def validated(r):
-   return ( str.isnumeric(r["id"]) and r["title"] and str.isnumeric(r["heigth"]) and
+   return ( str.isnumeric(r["id"]) and r["title"] and str.isnumeric(r["height"]) and
             str.isnumeric(r["width"]) and r["method"] and str.isnumeric(r["year"]) and
             str.isnumeric(r["price"]) and r["fileName"] and r["medie"] and r["draft"] and
             r["slug"] and str.isnumeric(r["order"]) )
@@ -33,7 +33,7 @@ with open('LA-ART-data - maleri.csv', mode='r') as csv_file:
             f.write("---\n")
             f.write('id: {0}\n'.format(row["id"]))
             f.write('title: "{0}"\n'.format(row["title"]))
-            f.write('heigth: {0}\n'.format(row["heigth"]))
+            f.write('height: {0}\n'.format(row["height"]))
             f.write('width: {0}\n'.format(row["width"]))
             f.write('method: "{0}"\n'.format(row["method"]))
             f.write('year: {0}\n'.format(row["year"]))

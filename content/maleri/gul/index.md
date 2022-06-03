@@ -1,7 +1,7 @@
 ---
 id: 14
 title: "Gul"
-heigth: 50
+height: 50
 width: 60
 method: "Akryl på lærred"
 year: 2021

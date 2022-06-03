@@ -1,7 +1,7 @@
 ---
 id: 3
 title: "Komposition"
-heigth: 73
+height: 73
 width: 91
 method: "Olie på lærred"
 year: 2009

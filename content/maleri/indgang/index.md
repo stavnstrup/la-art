@@ -1,7 +1,7 @@
 ---
 id: 61
 title: "Indgang"
-heigth: 40
+height: 40
 width: 30
 method: "Akryl på lærred"
 year: 2021

@@ -1,7 +1,7 @@
 ---
 id: 2
 title: "Troldetræ"
-heigth: 80
+height: 80
 width: 60
 method: "Olie på lærred"
 year: 2015

@@ -1,7 +1,7 @@
 ---
 id: 4
 title: "Grotte"
-heigth: 50
+height: 50
 width: 70
 method: "Akryl på lærred"
 year: 2021

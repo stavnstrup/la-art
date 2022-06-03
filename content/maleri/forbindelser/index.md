@@ -1,7 +1,7 @@
 ---
 id: 70
 title: "Forbindelser"
-heigth: 60
+height: 60
 width: 80
 method: "Olie på lærred"
 year: 2022

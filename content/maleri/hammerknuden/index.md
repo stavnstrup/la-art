@@ -1,7 +1,7 @@
 ---
 id: 25
 title: "Hammerknuden"
-heigth: 46
+height: 46
 width: 55
 method: "Akryl på lærred"
 year: 2018

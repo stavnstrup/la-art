@@ -1,7 +1,7 @@
 ---
 id: 60
 title: "Lysning"
-heigth: 30
+height: 30
 width: 40
 method: "Akryl på lærred"
 year: 2021

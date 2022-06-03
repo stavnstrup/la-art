@@ -1,7 +1,7 @@
 ---
 id: 12
 title: "Eufori"
-heigth: 30
+height: 30
 width: 30
 method: "Akryl på lærred"
 year: 2021

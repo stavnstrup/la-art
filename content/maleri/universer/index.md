@@ -1,7 +1,7 @@
 ---
 id: 27
 title: "Universer"
-heigth: 60
+height: 60
 width: 50
 method: "Akryl på lærred"
 year: 2021

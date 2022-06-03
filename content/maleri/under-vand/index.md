@@ -1,7 +1,7 @@
 ---
 id: 1
 title: "Under vand"
-heigth: 100
+height: 100
 width: 80
 method: "Akryl på lærred"
 year: 2021

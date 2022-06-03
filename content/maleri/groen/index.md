@@ -1,7 +1,7 @@
 ---
 id: 65
 title: "Grøn"
-heigth: 30
+height: 30
 width: 24
 method: "Akryl på lærred"
 year: 2022

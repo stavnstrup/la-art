@@ -1,7 +1,7 @@
 ---
 id: 6
 title: "Legeplads"
-heigth: 50
+height: 50
 width: 40
 method: "Akryl på lærred"
 year: 2021

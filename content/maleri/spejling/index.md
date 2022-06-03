@@ -1,7 +1,7 @@
 ---
 id: 15
 title: "Spejling"
-heigth: 40
+height: 40
 width: 50
 method: "Akryl på lærred"
 year: 2018

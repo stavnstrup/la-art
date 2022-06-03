@@ -1,7 +1,7 @@
 ---
 id: 62
 title: "På vandring"
-heigth: 80
+height: 80
 width: 60
 method: "Akryl på lærred"
 year: 2022
