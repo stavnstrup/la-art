@@ -13,5 +13,4 @@ medie: 'tegning'
 show: 'yes'
 slug: 'strudsepar'
 weight: '160'
-sold: 'yes'
 ---
