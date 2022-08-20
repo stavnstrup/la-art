@@ -1,6 +1,6 @@
 ---
 id: 73
-title: 'Harmoni i Farve'
+title: 'Harmoni i farve'
 height: 32
 width: 24
 method: 'Akryl på Hahnemühle papir'

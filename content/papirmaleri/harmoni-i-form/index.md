@@ -1,6 +1,6 @@
 ---
 id: 72
-title: 'Harmoni i Form'
+title: 'Harmoni i form'
 height: 32
 width: 24
 method: 'Akryl på Hahnemühle papir'
