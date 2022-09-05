@@ -3,6 +3,8 @@
 import csv
 import os
 
+# Run this script from the script directory
+
 # Markdown path must end with /
 # markdownPath = './'
 markdownPath = '../content/'
