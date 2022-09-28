@@ -12,7 +12,7 @@ contentDir = "content/dk"
 defaultContentLanguage = "dk"
 defaultContentLanguageInSubdir = false
 
-disableLanguages = ["en1"]
+disableLanguages = ["en"]
 
 
 [languages]

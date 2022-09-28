@@ -21,6 +21,7 @@ with open('LA-ART-data - maleri.csv', mode='r') as csv_file:
     line_count = 0
 
     os.makedirs(markdownPath + 'maleri', exist_ok=True)
+    os.makedirs(markdownPath + 'papirmaleri', exist_ok=True)
     os.makedirs(markdownPath + 'tegning', exist_ok=True)
 
     # Iterate through each row in worksheet and fetch values
