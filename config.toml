@@ -5,3 +5,27 @@ title = "LA ART"
 timeZone = "Europe/Copenhagen"
 
 enableGitInfo = true
+
+
+# Language settings
+contentDir = "content/dk"
+defaultContentLanguage = "dk"
+defaultContentLanguageInSubdir = false
+
+disableLanguages = ["en1"]
+
+
+[languages]
+[languages.dk]
+languageName = "Dansk"
+# Weight used for sorting.
+weight = 1
+languagedirection = "ltr"
+
+
+[languages.en]
+languageName = "English"
+# Weight used for sorting.
+weight = 2
+contentDir = "content/en"
+languagedirection = "ltr"

@@ -7,7 +7,7 @@ import os
 
 # Markdown path must end with /
 # markdownPath = './'
-markdownPath = '../content/'
+markdownPath = '../content/dk/'
 
 def validated(r):
    return ( str.isnumeric(r["id"]) and r["title"] and str.isnumeric(r["height"]) and
