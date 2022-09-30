@@ -8,15 +8,15 @@ enableGitInfo = true
 
 
 # Language settings
-contentDir = "content/dk"
-defaultContentLanguage = "dk"
+contentDir = "content/da"
+defaultContentLanguage = "da"
 defaultContentLanguageInSubdir = false
 
 disableLanguages = ["  "]
 
 
 [languages]
-[languages.dk]
+[languages.da]
 languageName = "Dansk"
 # Weight used for sorting.
 weight = 1
