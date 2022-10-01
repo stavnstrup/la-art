@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2022
 price: "3300"
-fileName: "IMG_3284.JPG"
+fileName: "2022-blaa.jpg"
 medie: "painting"
 draft: "no"
 slug: "blaa"

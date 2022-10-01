@@ -6,7 +6,7 @@ width: 15
 method: "Pencil on paper"
 year: 2019
 price: "Privateje"
-fileName: "IMG_0169.JPG"
+fileName: "2019-gammel-hunelefant.jpg"
 medie: "drawing"
 draft: "no"
 slug: "gammel-hunelefant"

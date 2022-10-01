@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2021
 price: "3500"
-fileName: "IMG_2966.JPG"
+fileName: "2021-forunderlig-natur.jpg"
 medie: "painting"
 draft: "no"
 slug: "forunderlig-natur"

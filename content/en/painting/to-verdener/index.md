@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2022
 price: "3000"
-fileName: "IMG_3330.JPG"
+fileName: "2022-to-verdener.jpg"
 medie: "painting"
 draft: "no"
 slug: "to-verdener"

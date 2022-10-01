@@ -6,7 +6,7 @@ width: 17
 method: "Blyant på papir"
 year: 2020
 price: "600"
-fileName: "IMG_2211.JPG"
+fileName: "2020-sovende-klippesten.jpg"
 medie: "drawing"
 draft: "no"
 slug: "sovende-klippesten"

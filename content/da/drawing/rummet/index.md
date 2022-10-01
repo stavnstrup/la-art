@@ -6,7 +6,7 @@ width: 23
 method: "Caran d'Ache på papir"
 year: 2021
 price: "800"
-fileName: "IMG_2986.JPG"
+fileName: "2021-rummet.jpg"
 medie: "drawing"
 draft: "no"
 slug: "rummet"

@@ -6,7 +6,7 @@ width: 30
 method: "Akryl på lærred"
 year: 2021
 price: "2100"
-fileName: "IMG_3163.JPG"
+fileName: "2021-indgang.jpg"
 medie: "painting"
 draft: "no"
 slug: "indgang"

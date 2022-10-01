@@ -6,7 +6,7 @@ width: 31,5
 method: "Blyant på papir"
 year: 2019
 price: "1200"
-fileName: "IMG_2216.JPG"
+fileName: "2019-elefant3.jpg"
 medie: "drawing"
 draft: "no"
 slug: "elefant3"

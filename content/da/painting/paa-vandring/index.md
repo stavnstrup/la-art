@@ -6,7 +6,7 @@ width: 60
 method: "Akryl på lærred"
 year: 2022
 price: "5400"
-fileName: "IMG_3274.JPG"
+fileName: "2022-paa-vandring.jpg"
 medie: "painting"
 draft: "no"
 slug: "paa-vandring"

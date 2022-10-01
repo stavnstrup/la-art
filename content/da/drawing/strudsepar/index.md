@@ -6,7 +6,7 @@ width: 23
 method: "Caran d'Ache på papir"
 year: 2019
 price: "800"
-fileName: "IMG_2209.JPG"
+fileName: "2019-strudsepar.jpg"
 medie: "drawing"
 draft: "no"
 slug: "strudsepar"

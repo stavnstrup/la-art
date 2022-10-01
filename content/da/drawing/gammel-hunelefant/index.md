@@ -6,7 +6,7 @@ width: 15
 method: "Blyant på papir"
 year: 2019
 price: "Privateje"
-fileName: "IMG_0169.JPG"
+fileName: "2019-gammel-hunelefant.jpg"
 medie: "drawing"
 draft: "no"
 slug: "gammel-hunelefant"

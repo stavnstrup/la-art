@@ -6,7 +6,7 @@ width: 80
 method: "Oil on canvas"
 year: 2022
 price: "5200"
-fileName: "IMG_3780.JPG"
+fileName: "2022-forbindelser.jpg"
 medie: "painting"
 draft: "no"
 slug: "forbindelser"

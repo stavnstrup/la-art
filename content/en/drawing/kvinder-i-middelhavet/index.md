@@ -6,7 +6,7 @@ width: 41
 method: "Crayon on paper"
 year: 2019
 price: "Privateje"
-fileName: "IMG_2222.JPG"
+fileName: "2019-kvinder-i-middelhavet.jpg"
 medie: "drawing"
 draft: "no"
 slug: "kvinder-i-middelhavet"

@@ -6,7 +6,7 @@ width: 60
 method: "Oil on canvas"
 year: 2010
 price: "2800"
-fileName: "IMG_1825.JPG"
+fileName: "2010-planteriget.jpg"
 medie: "painting"
 draft: "no"
 slug: "planteriget"

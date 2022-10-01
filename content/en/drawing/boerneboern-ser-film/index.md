@@ -6,7 +6,7 @@ width: 41,5
 method: "Pencil on paper"
 year: 2019
 price: "Privateje"
-fileName: "IMG_2220.JPG"
+fileName: "2019-boerneboern-ser-film.jpg"
 medie: "drawing"
 draft: "no"
 slug: "boerneboern-ser-film"

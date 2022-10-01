@@ -6,7 +6,7 @@ width: 60
 method: "Olie på lærred"
 year: 2015
 price: "3200"
-fileName: "IMG_1838.JPG"
+fileName: "2015-efter-istiden.jpg"
 medie: "painting"
 draft: "no"
 slug: "efter-istiden"

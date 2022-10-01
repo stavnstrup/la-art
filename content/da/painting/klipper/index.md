@@ -6,7 +6,7 @@ width: 60
 method: "Olie på lærred"
 year: 2010
 price: "3200"
-fileName: "IMG_1826.JPG"
+fileName: "2010-klipper.jpg"
 medie: "painting"
 draft: "no"
 slug: "klipper"

@@ -6,7 +6,7 @@ width: 23
 method: "Pencil on paper"
 year: 2020
 price: "700"
-fileName: "IMG_2218.JPG"
+fileName: "2020-traestammer.jpg"
 medie: "drawing"
 draft: "no"
 slug: "traestammer"

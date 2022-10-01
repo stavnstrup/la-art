@@ -6,7 +6,7 @@ width: 23
 method: "Crayon on paper"
 year: 2021
 price: "700"
-fileName: "IMG_2349.JPG"
+fileName: "2021-svaner-med-stil.jpg"
 medie: "drawing"
 draft: "no"
 slug: "svaner-med-stil"

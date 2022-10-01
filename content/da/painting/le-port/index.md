@@ -6,7 +6,7 @@ width: 30
 method: "Akryl på lærred"
 year: 2021
 price: "1200"
-fileName: "IMG_2803.JPG"
+fileName: "2021-le-port.jpg"
 medie: "painting"
 draft: "no"
 slug: "le-port"

@@ -6,7 +6,7 @@ width: 24
 method: "Akryl på Hahnemühle papir"
 year: 2022
 price: "750"
-fileName: "IMG_4336.JPG"
+fileName: "2022-harmoni-i-form.jpg"
 medie: "paperpainting"
 draft: "no"
 slug: "harmoni-i-form"

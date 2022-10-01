@@ -6,7 +6,7 @@ width: 91
 method: "Olie på lærred"
 year: 2009
 price: "Privateje"
-fileName: "IMG_1822.JPG"
+fileName: "2009-komposition.jpg"
 medie: "painting"
 draft: "no"
 slug: "komposition"

@@ -6,7 +6,7 @@ width: 15
 method: "Acrylic on canvas"
 year: 2018
 price: "1500"
-fileName: "IMG_1840.JPG"
+fileName: "2018-trilogi.jpg"
 medie: "painting"
 draft: "no"
 slug: "trilogi"

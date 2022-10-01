@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2019
 price: "3500"
-fileName: "IMG_1849.JPG"
+fileName: "2019-fald.jpg"
 medie: "painting"
 draft: "no"
 slug: "fald"

@@ -5,4 +5,4 @@ menu:
     weight: 10
 ---
 
-{{<img src="composition.jpg" alt="Komposition af Lisbeth Aggerbeck">}}
+{{<img src="2009-komposition.jpg" alt="Komposition af Lisbeth Aggerbeck">}}

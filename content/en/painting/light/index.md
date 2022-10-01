@@ -6,7 +6,7 @@ width: 20
 method: "Acrylic on canvas"
 year: 2022
 price: "800"
-fileName: "IMG_3726.JPG"
+fileName: "2022-light.jpg"
 medie: "painting"
 draft: "no"
 slug: "light"

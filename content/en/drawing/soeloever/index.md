@@ -6,7 +6,7 @@ width: 17
 method: "Pencil on paper"
 year: 2020
 price: "600"
-fileName: "IMG_2210.JPG"
+fileName: "2020-soeloever.jpg"
 medie: "drawing"
 draft: "no"
 slug: "soeloever"

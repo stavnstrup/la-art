@@ -6,7 +6,7 @@ width: 40
 method: "Acrylic on canvas"
 year: 2021
 price: "Privateje"
-fileName: "IMG_2578.JPG"
+fileName: "2021-legeplads.jpg"
 medie: "painting"
 draft: "no"
 slug: "legeplads"

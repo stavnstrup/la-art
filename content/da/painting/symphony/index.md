@@ -6,7 +6,7 @@ width: 20
 method: "Akryl på lærred"
 year: 2022
 price: "800"
-fileName: "IMG_3719.JPG"
+fileName: "2022-symphony.jpg"
 medie: "painting"
 draft: "no"
 slug: "symphony"

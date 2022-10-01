@@ -6,7 +6,7 @@ width: 23
 method: "Farveblyant på papir"
 year: 2020
 price: "Privateje"
-fileName: "IMG_2214.JPG"
+fileName: "2020-dreng-ved-vesterhavet.jpg"
 medie: "drawing"
 draft: "no"
 slug: "dreng-ved-vesterhavet"

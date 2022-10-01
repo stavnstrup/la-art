@@ -6,7 +6,7 @@ width: 31,5
 method: "Pencil on paper"
 year: 2019
 price: "1200"
-fileName: "IMG_2215.JPG"
+fileName: "2019-elefant1.jpg"
 medie: "drawing"
 draft: "no"
 slug: "elefant1"
