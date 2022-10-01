@@ -1,0 +1,14 @@
+---
+id: 62
+title: "Wandering"
+height: 80
+width: 60
+method: "Acrylic on canvas"
+year: 2022
+price: "5400"
+fileName: "IMG_3274.JPG"
+medie: "painting"
+draft: "no"
+slug: "paa-vandring"
+weight: "40"
+---
