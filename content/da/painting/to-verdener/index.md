@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2022
 price: "3000"
 fileName: "IMG_3330.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "to-verdener"
 weight: "130"

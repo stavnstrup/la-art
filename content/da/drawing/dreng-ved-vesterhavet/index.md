@@ -1,16 +1,14 @@
 ---
 id: 50
-title: 'Dreng ved Vesterhavet'
+title: "Dreng ved Vesterhavet"
 height: 31,5
 width: 23
-method: 'Farveblyant på papir'
+method: "Farveblyant på papir"
 year: 2020
-price: 'Privateje'
-rasterWidth: 2096
-rasterHeight: 2889
-fileName: 'IMG_2214.JPG'
-medie: 'tegning'
-show: 'yes'
-slug: 'dreng-ved-vesterhavet'
-weight: '240'
+price: "Privateje"
+fileName: "IMG_2214.JPG"
+medie: "drawing"
+draft: "no"
+slug: "dreng-ved-vesterhavet"
+weight: "240"
 ---

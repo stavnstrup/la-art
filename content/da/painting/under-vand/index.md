@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2021
 price: "6200"
 fileName: "IMG_1843.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "under-vand"
 weight: "20"

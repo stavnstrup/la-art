@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2022
 price: "1200"
 fileName: "IMG_3474.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "groen"
 weight: "100"

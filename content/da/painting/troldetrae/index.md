@@ -7,7 +7,7 @@ method: "Olie på lærred"
 year: 2015
 price: "Privateje"
 fileName: "IMG_1828.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "troldetrae"
 weight: "30"

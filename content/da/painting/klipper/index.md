@@ -7,7 +7,7 @@ method: "Olie på lærred"
 year: 2010
 price: "3200"
 fileName: "IMG_1826.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "klipper"
 weight: "150"

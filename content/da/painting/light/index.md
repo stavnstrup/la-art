@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2022
 price: "800"
 fileName: "IMG_3726.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "light"
 weight: "230"

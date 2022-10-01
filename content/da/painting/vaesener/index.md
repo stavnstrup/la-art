@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2017
 price: "1200"
 fileName: "IMG_1836.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "vaesener"
 weight: "370"

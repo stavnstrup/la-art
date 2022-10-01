@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2018
 price: "2200"
 fileName: "IMG_1814.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "spejling"
 weight: "300"

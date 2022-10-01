@@ -7,7 +7,7 @@ method: "Olie på lærred"
 year: 2008
 price: "2400"
 fileName: "IMG_1833.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "svaneunge-i-mosen"
 weight: "380"

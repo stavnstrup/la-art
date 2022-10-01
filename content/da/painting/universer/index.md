@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2021
 price: "3300"
 fileName: "IMG_2139.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "universer"
 weight: "210"

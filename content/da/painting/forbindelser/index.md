@@ -7,7 +7,7 @@ method: "Olie på lærred"
 year: 2022
 price: "5200"
 fileName: "IMG_3780.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "forbindelser"
 weight: "50"

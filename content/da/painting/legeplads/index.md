@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2021
 price: "Privateje"
 fileName: "IMG_2578.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "legeplads"
 weight: "120"

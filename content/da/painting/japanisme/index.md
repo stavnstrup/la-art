@@ -7,7 +7,7 @@ method: "Olie på lærred"
 year: 2011
 price: "700"
 fileName: "IMG_1842.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "japanisme"
 weight: "310"

@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2021
 price: "5200"
 fileName: "IMG_3103.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "mennesket-og-naturen"
 weight: "110"

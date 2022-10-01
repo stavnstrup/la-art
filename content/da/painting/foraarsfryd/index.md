@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2020
 price: "4200"
 fileName: "IMG_9735.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "foraarsfryd"
 weight: "340"

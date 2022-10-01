@@ -7,7 +7,7 @@ method: "Olie på lærred"
 year: 2010
 price: "2800"
 fileName: "IMG_1825.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "planteriget"
 weight: "360"

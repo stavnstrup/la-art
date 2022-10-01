@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2018
 price: "2000"
 fileName: "IMG_1824.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "hammerknuden"
 weight: "290"

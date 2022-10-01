@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2021
 price: "3500"
 fileName: "IMG_2966.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "forunderlig-natur"
 weight: "140"

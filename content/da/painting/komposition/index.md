@@ -7,7 +7,7 @@ method: "Olie på lærred"
 year: 2009
 price: "Privateje"
 fileName: "IMG_1822.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "komposition"
 weight: "10"

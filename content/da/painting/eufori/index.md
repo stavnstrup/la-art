@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2021
 price: "1200"
 fileName: "IMG_2812.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "eufori"
 weight: "260"

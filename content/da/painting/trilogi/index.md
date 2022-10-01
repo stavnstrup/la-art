@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2018
 price: "1500"
 fileName: "IMG_1840.JPG"
-medie: "maleri"
+medie: "painting"
 draft: "no"
 slug: "trilogi"
 weight: "320"
