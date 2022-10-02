@@ -10,5 +10,5 @@ fileName: "2022-elefant-i-solskin.jpg"
 medie: "paperpainting"
 draft: "no"
 slug: "elefant-i-solskin"
-weight: "40"
+weight: "100"
 ---
