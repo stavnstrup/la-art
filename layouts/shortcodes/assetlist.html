@@ -6,7 +6,8 @@
   <p>
     Mobil: 40 41 21 09<br />
     lisbeth@woll.dk<br />
-    lisbethaggerbeck.dk
+    lisbethaggerbeck.dk<br />
+    instagram.com/lisbethaggerbeck
   </p>
 
   {{ with site.Data.udstilling }}
@@ -16,9 +17,9 @@
     <table style="@media print { width: 100%; }">
     {{ if gt (len .painting) 0 }}
       <tr><td colspan="3"><h2>Malerier</h2></td></tr>
-      {{ range $i, $page := where site.AllPages "Params.medie" "maleri" }}
+      {{ range $i, $page := where site.AllPages "Params.medie" "painting" }}
         {{ with  $page }}
-          {{ if in site.Data.udstilling.painting .Params.id }}
+          {{ if and (in site.Data.udstilling.painting .Params.id) (eq .Language.Lang "da") }}
             <tr>
               <td class="no">{{add $artifact 1 }}.</td>
               <td><i>{{ .Title }}</i></td>
@@ -38,9 +39,9 @@
 
     {{ if gt (len .drawing) 0 }}
       <tr><td colspan="3"><h2 style="padding-top: 15px;">Tegninger</h2></td></tr>
-      {{ range $i, $page := where site.AllPages "Params.medie" "tegning" }}
+      {{ range $i, $page := where site.AllPages "Params.medie" "drawing" }}
         {{ with $page }}
-          {{ if in site.Data.udstilling.drawing .Params.id }}
+          {{ if and (in site.Data.udstilling.drawing .Params.id) (eq .Language.Lang "da") }}
             <tr>
               <td class="no">{{add $artifact 1 }}.</td>
               <td><i>{{ .Title }}</i></td>

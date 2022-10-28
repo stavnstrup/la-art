@@ -1,5 +1,5 @@
 {{ define "main" }}
-
+{{ .Content }}
 <ul>
     {{ range .Pages }}
     <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
