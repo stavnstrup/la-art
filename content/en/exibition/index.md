@@ -7,7 +7,7 @@ menu:
 
 ## Exibitions
 
-- Den gule Villa, Dirch Passers Allé 2, Frederiksberg, November 5, 2022 - February 2, 2023
+- Den gule Villa, Dirch Passers Allé 2, Frederiksberg, November 2022 - February 2023
 - [Galeria Azur, Berlin, October - November 2022](https://galeriaazur.art/de/)
 - Klippestedet, Brønshøj, July 2022 - 
 - Husum Bibliotek, November 2021 - February 2022
