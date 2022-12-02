@@ -1,8 +1,8 @@
 ---
 id: 78
 title: "Blå engel"
-height: 32
-width: 24
+height: 24
+width: 32
 method: "Akryl på Hahnemühle papir"
 year: 2022
 price: "Privateje"

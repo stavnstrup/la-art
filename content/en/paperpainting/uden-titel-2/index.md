@@ -1,8 +1,8 @@
 ---
 id: 82
 title: "Untitled 2"
-height: 32
-width: 24
+height: 24
+width: 32
 method: "Acrylic on Hahnemühle paper"
 year: 2022
 price: "750"
