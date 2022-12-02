@@ -10,5 +10,5 @@ fileName: "2022-indian-summer.jpg"
 medie: "paperpainting"
 draft: "no"
 slug: "indian-summer"
-weight: "50"
+weight: "90"
 ---
