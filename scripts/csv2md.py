@@ -42,7 +42,7 @@ for language in languages:
                 if line_count == 0:
                     line_count += 1
                 os.makedirs(lngPath + '/' + row["medie"] + '/' + row["slug"], exist_ok=True)
-                if (row["medie"] == 'painting' or row["medie"] == 'drawing' or row["medie"] == 'paperpainting') and row["slug"] != '' and row["draft"] == 'no':
+                if (row["medie"] == 'painting' or row["medie"] == 'drawing' or row["medie"] == 'paperpainting') and row["slug"] != '':
                     f = open('{0}/{1}/{2}/index.md'.format(lngPath, row["medie"], row["slug"]), 'w')
                     f.write("---\n")
                     f.write('id: {0}\n'.format(row["id"]))
