@@ -8,7 +8,7 @@ year: 2010
 price: "4500"
 fileName: "2010-bevaegelser.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "bevaegelser"
-weight: "270"
+weight: "280"
 ---

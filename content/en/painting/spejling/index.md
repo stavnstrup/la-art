@@ -8,7 +8,7 @@ year: 2018
 price: "2200"
 fileName: "2018-spejling.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "spejling"
-weight: "300"
+weight: "310"
 ---

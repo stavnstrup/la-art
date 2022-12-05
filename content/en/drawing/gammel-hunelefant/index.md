@@ -8,7 +8,7 @@ year: 2019
 price: "Privateje"
 fileName: "2019-gammel-hunelefant.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "gammel-hunelefant"
 weight: "270"
 ---

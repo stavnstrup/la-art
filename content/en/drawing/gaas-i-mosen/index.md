@@ -8,7 +8,7 @@ year: 2020
 price: "900"
 fileName: "2020-gaas-i-mosen.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "gaas-i-mosen"
 weight: "80"
 ---

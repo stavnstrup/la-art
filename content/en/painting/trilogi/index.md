@@ -8,7 +8,7 @@ year: 2018
 price: "1500"
 fileName: "2018-trilogi.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "trilogi"
-weight: "320"
+weight: "330"
 ---

@@ -8,7 +8,7 @@ year: 2018
 price: "2000"
 fileName: "2018-hammerknuden.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "hammerknuden"
-weight: "290"
+weight: "300"
 ---

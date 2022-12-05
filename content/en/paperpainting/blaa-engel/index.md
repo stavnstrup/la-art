@@ -8,7 +8,7 @@ year: 2022
 price: "Privateje"
 fileName: "2022-blue-angel.jpg"
 medie: "paperpainting"
-draft: "no"
+draft: "false"
 slug: "blaa-engel"
 weight: "110"
 ---

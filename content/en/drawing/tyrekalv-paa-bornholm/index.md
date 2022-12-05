@@ -8,7 +8,7 @@ year: 2020
 price: "600"
 fileName: "2020-tyrekalv-paa-bornholm.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "tyrekalv-paa-bornholm"
 weight: "190"
 ---

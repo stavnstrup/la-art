@@ -8,7 +8,7 @@ year: 2020
 price: "Privateje"
 fileName: "2020-gibson.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "gibson"
 weight: "280"
 ---

@@ -8,7 +8,7 @@ year: 2022
 price: "3300"
 fileName: "2022-blaa.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "blaa"
-weight: "90"
+weight: "100"
 ---

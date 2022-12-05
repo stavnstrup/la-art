@@ -8,7 +8,7 @@ year: 2015
 price: "Privateje"
 fileName: "2015-troldetrae.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "troldetrae"
 weight: "30"
 ---

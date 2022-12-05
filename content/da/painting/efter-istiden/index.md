@@ -8,7 +8,7 @@ year: 2015
 price: "3200"
 fileName: "2015-efter-istiden.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "efter-istiden"
-weight: "170"
+weight: "180"
 ---

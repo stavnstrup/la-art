@@ -8,7 +8,7 @@ year: 2019
 price: "4500"
 fileName: "2019-skovbund.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "skovbund"
-weight: "200"
+weight: "210"
 ---

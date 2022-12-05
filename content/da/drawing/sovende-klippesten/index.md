@@ -8,7 +8,7 @@ year: 2020
 price: "600"
 fileName: "2020-sovende-klippesten.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "sovende-klippesten"
 weight: "120"
 ---

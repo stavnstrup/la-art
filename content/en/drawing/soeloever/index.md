@@ -8,7 +8,7 @@ year: 2020
 price: "600"
 fileName: "2020-soeloever.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "soeloever"
 weight: "110"
 ---

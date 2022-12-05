@@ -8,7 +8,7 @@ year: 2021
 price: "2100"
 fileName: "2021-lysning.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "lysning"
-weight: "220"
+weight: "230"
 ---

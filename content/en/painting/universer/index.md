@@ -8,7 +8,7 @@ year: 2021
 price: "3300"
 fileName: "2021-universer.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "universer"
-weight: "210"
+weight: "220"
 ---

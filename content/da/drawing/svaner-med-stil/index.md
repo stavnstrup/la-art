@@ -8,7 +8,7 @@ year: 2021
 price: "700"
 fileName: "2021-svaner-med-stil.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "svaner-med-stil"
 weight: "200"
 ---

@@ -8,7 +8,7 @@ year: 2020
 price: "900"
 fileName: "2020-klippesten-i-aarsdale.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "klippesten-i-aarsdale"
 weight: "100"
 ---

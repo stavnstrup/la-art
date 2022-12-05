@@ -8,7 +8,7 @@ year: 2022
 price: "3000"
 fileName: "2022-to-verdener.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "to-verdener"
-weight: "130"
+weight: "140"
 ---

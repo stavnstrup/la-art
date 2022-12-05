@@ -8,7 +8,7 @@ year: 2022
 price: "800"
 fileName: "2022-symphony.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "symphony"
-weight: "240"
+weight: "250"
 ---

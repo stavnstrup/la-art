@@ -8,7 +8,7 @@ year: 2020
 price: "Privateje"
 fileName: "2020-dreng-ved-vesterhavet.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "dreng-ved-vesterhavet"
 weight: "240"
 ---

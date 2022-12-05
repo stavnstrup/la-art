@@ -8,7 +8,7 @@ year: 2009
 price: "Privateje"
 fileName: "2009-komposition.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "komposition"
 weight: "10"
 ---

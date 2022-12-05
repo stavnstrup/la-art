@@ -8,7 +8,7 @@ year: 2020
 price: "700"
 fileName: "2020-traestammer.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "traestammer"
 weight: "150"
 ---

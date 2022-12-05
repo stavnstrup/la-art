@@ -8,7 +8,7 @@ year: 2021
 price: "6200"
 fileName: "2021-under-vand.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "under-vand"
 weight: "20"
 ---

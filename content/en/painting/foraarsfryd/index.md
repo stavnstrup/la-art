@@ -8,7 +8,7 @@ year: 2020
 price: "4200"
 fileName: "2020-foraarsfryd.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "foraarsfryd"
-weight: "340"
+weight: "350"
 ---

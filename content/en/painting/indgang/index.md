@@ -8,7 +8,7 @@ year: 2021
 price: "2100"
 fileName: "2021-indgang.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "indgang"
-weight: "190"
+weight: "200"
 ---

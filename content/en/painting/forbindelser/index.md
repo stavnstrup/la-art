@@ -8,7 +8,7 @@ year: 2022
 price: "5200"
 fileName: "2022-forbindelser.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "forbindelser"
-weight: "50"
+weight: "60"
 ---

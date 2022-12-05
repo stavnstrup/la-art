@@ -8,7 +8,7 @@ year: 2021
 price: "5200"
 fileName: "2021-mennesket-og-naturen.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "mennesket-og-naturen"
-weight: "110"
+weight: "120"
 ---

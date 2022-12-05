@@ -8,7 +8,7 @@ year: 2021
 price: "3500"
 fileName: "2021-forunderlig-natur.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "forunderlig-natur"
-weight: "140"
+weight: "150"
 ---

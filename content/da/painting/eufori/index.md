@@ -8,7 +8,7 @@ year: 2021
 price: "1200"
 fileName: "2021-eufori.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "eufori"
-weight: "260"
+weight: "270"
 ---

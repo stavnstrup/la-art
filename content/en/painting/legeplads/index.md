@@ -8,7 +8,7 @@ year: 2021
 price: "Privateje"
 fileName: "2021-legeplads.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "legeplads"
-weight: "120"
+weight: "130"
 ---

@@ -8,7 +8,7 @@ year: 2022
 price: "2200"
 fileName: "2022-elefant-i-solskin.jpg"
 medie: "paperpainting"
-draft: "no"
+draft: "false"
 slug: "elefant-i-solskin"
 weight: "140"
 ---

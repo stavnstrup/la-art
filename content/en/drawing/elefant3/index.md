@@ -8,7 +8,7 @@ year: 2019
 price: "1200"
 fileName: "2019-elefant3.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "elefant3"
 weight: "30"
 ---

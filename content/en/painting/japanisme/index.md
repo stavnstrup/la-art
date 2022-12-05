@@ -8,7 +8,7 @@ year: 2011
 price: "700"
 fileName: "2011-japanisme.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "japanisme"
-weight: "310"
+weight: "320"
 ---

@@ -8,7 +8,7 @@ year: 2021
 price: "3300"
 fileName: "2021-en-rejse.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "en-rejse"
-weight: "160"
+weight: "170"
 ---

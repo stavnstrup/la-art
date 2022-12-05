@@ -8,7 +8,7 @@ year: 2022
 price: "1200"
 fileName: "2022-groen.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "groen"
-weight: "100"
+weight: "110"
 ---

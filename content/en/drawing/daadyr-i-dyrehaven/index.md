@@ -8,7 +8,7 @@ year: 2021
 price: "700"
 fileName: "2021-daadyr-i-dyrehaven.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "daadyr-i-dyrehaven"
 weight: "140"
 ---

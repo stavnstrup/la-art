@@ -8,7 +8,7 @@ year: 2022
 price: "750"
 fileName: "2022-untitled-1.jpg"
 medie: "paperpainting"
-draft: "no"
+draft: "false"
 slug: "uden-titel-1"
 weight: "50"
 ---

@@ -8,7 +8,7 @@ year: 2010
 price: "3200"
 fileName: "2010-klipper.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "klipper"
-weight: "150"
+weight: "160"
 ---

@@ -8,7 +8,7 @@ year: 2021
 price: "1200"
 fileName: "2021-le-port.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "le-port"
-weight: "350"
+weight: "360"
 ---

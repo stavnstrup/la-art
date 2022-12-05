@@ -8,7 +8,7 @@ year: 2019
 price: "3500"
 fileName: "2019-fald.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "fald"
-weight: "180"
+weight: "190"
 ---

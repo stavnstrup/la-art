@@ -8,7 +8,7 @@ year: 2010
 price: "2800"
 fileName: "2010-planteriget.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "planteriget"
-weight: "360"
+weight: "370"
 ---

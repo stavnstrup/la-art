@@ -8,7 +8,7 @@ year: 2022
 price: "750"
 fileName: "2022-efteraar.jpg"
 medie: "paperpainting"
-draft: "TRUE"
+draft: "true"
 slug: "efteraar"
 weight: "130"
 ---

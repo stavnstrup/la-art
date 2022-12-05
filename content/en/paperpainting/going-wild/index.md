@@ -8,7 +8,7 @@ year: 2022
 price: "750"
 fileName: "2022-going-wild.jpg"
 medie: "paperpainting"
-draft: "no"
+draft: "false"
 slug: "going-wild"
 weight: "40"
 ---

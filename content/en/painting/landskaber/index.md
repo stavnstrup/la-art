@@ -8,7 +8,7 @@ year: 2022
 price: "3800"
 fileName: "2022-landskaber.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "landskaber"
-weight: "45"
+weight: "50"
 ---

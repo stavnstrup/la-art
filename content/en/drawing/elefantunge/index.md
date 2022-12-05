@@ -8,7 +8,7 @@ year: 2019
 price: "1200"
 fileName: "2019-elefantunge.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "elefantunge"
 weight: "40"
 ---

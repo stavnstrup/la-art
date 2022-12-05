@@ -8,7 +8,7 @@ year: 2019
 price: "Privateje"
 fileName: "2019-kvinder-i-middelhavet.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "kvinder-i-middelhavet"
 weight: "250"
 ---

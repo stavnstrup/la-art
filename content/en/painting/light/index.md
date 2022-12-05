@@ -8,7 +8,7 @@ year: 2022
 price: "800"
 fileName: "2022-light.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "light"
-weight: "230"
+weight: "240"
 ---

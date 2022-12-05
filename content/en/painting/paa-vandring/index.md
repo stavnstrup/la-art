@@ -8,7 +8,7 @@ year: 2022
 price: "5400"
 fileName: "2022-paa-vandring.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "paa-vandring"
 weight: "40"
 ---

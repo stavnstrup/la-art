@@ -8,7 +8,7 @@ year: 2017
 price: "1200"
 fileName: "2017-vaesener.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "vaesener"
-weight: "370"
+weight: "380"
 ---

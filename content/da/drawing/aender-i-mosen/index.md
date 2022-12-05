@@ -8,7 +8,7 @@ year: 2020
 price: "900"
 fileName: "2020-aender-i-mosen.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "aender-i-mosen"
 weight: "60"
 ---

@@ -8,7 +8,7 @@ year: 2020
 price: "750"
 fileName: "2020-maage-paa-bornholm.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "maage-paa-bornholm"
 weight: "180"
 ---

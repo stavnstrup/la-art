@@ -8,7 +8,7 @@ year: 2019
 price: "Privateje"
 fileName: "2019-boern-i-vesterhavet.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "boern-i-vesterhavet"
 weight: "290"
 ---

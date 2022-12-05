@@ -8,7 +8,7 @@ year: 2021
 price: "800"
 fileName: "2021-figurer.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "figurer"
 weight: "220"
 ---

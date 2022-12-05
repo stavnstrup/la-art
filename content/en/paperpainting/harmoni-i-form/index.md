@@ -8,7 +8,7 @@ year: 2022
 price: "750"
 fileName: "2022-harmoni-i-form.jpg"
 medie: "paperpainting"
-draft: "no"
+draft: "false"
 slug: "harmoni-i-form"
 weight: "10"
 ---

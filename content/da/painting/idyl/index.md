@@ -8,7 +8,7 @@ year: 2011
 price: "500"
 fileName: "2011-idyl.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "idyl"
-weight: "330"
+weight: "340"
 ---

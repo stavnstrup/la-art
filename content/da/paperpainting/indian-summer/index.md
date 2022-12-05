@@ -8,7 +8,7 @@ year: 2022
 price: "750"
 fileName: "2022-indian-summer.jpg"
 medie: "paperpainting"
-draft: "no"
+draft: "false"
 slug: "indian-summer"
 weight: "90"
 ---

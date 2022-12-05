@@ -8,7 +8,7 @@ year: 2019
 price: "Privateje"
 fileName: "2019-boerneboern-ser-film.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "boerneboern-ser-film"
 weight: "260"
 ---

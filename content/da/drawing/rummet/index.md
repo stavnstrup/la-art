@@ -8,7 +8,7 @@ year: 2021
 price: "800"
 fileName: "2021-rummet.jpg"
 medie: "drawing"
-draft: "no"
+draft: "false"
 slug: "rummet"
 weight: "230"
 ---

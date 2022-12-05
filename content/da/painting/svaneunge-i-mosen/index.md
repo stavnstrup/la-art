@@ -8,7 +8,7 @@ year: 2008
 price: "2400"
 fileName: "2008-svaneunge-i-mosen.jpg"
 medie: "painting"
-draft: "no"
+draft: "false"
 slug: "svaneunge-i-mosen"
-weight: "380"
+weight: "390"
 ---
