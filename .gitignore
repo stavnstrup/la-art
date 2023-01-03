@@ -7,6 +7,9 @@ CNAME
 .vscode/
 node_modules/
 .hugo_build.lock
+scripts/
+maleri.md
+
 
 # auto-generated tag files
 tags
