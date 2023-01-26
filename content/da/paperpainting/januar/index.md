@@ -10,5 +10,5 @@ fileName: "2023-january.jpg"
 medie: "paperpainting"
 draft: "false"
 slug: "januar"
-weight: "123"
+weight: "140"
 ---
