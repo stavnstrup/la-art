@@ -10,5 +10,5 @@ fileName: "2021-grotte.jpg"
 medie: "painting"
 draft: "false"
 slug: "grotte"
-weight: "80"
+weight: "90"
 ---

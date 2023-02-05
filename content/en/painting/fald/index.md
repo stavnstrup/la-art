@@ -10,5 +10,5 @@ fileName: "2019-fald.jpg"
 medie: "painting"
 draft: "false"
 slug: "fald"
-weight: "190"
+weight: "200"
 ---

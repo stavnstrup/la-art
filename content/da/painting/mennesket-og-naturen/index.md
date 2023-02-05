@@ -10,5 +10,5 @@ fileName: "2021-mennesket-og-naturen.jpg"
 medie: "painting"
 draft: "false"
 slug: "mennesket-og-naturen"
-weight: "120"
+weight: "130"
 ---

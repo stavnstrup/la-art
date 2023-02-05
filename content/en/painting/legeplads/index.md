@@ -10,5 +10,5 @@ fileName: "2021-legeplads.jpg"
 medie: "painting"
 draft: "false"
 slug: "legeplads"
-weight: "130"
+weight: "140"
 ---

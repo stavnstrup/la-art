@@ -10,5 +10,5 @@ fileName: "2021-forunderlig-natur.jpg"
 medie: "painting"
 draft: "false"
 slug: "forunderlig-natur"
-weight: "150"
+weight: "160"
 ---

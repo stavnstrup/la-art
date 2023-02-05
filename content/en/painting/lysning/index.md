@@ -10,5 +10,5 @@ fileName: "2021-lysning.jpg"
 medie: "painting"
 draft: "false"
 slug: "lysning"
-weight: "230"
+weight: "240"
 ---

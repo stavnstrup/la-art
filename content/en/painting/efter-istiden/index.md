@@ -10,5 +10,5 @@ fileName: "2015-efter-istiden.jpg"
 medie: "painting"
 draft: "false"
 slug: "efter-istiden"
-weight: "180"
+weight: "190"
 ---

@@ -10,5 +10,5 @@ fileName: "2020-foraarsfryd.jpg"
 medie: "painting"
 draft: "false"
 slug: "foraarsfryd"
-weight: "350"
+weight: "360"
 ---

@@ -1,14 +1,14 @@
 ---
-id: 71
-title: "Landscapes"
+id: 91
+title: "Hope"
 height: 60
 width: 60
 method: "Acrylic on canvas"
-year: 2022
+year: 2023
 price: "3200"
-fileName: "2022-landskaber.jpg"
+fileName: "2023-haab.jpg"
 medie: "painting"
 draft: "false"
-slug: "landskaber"
-weight: "50"
+slug: "haab"
+weight: "60"
 ---

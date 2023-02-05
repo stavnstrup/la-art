@@ -10,5 +10,5 @@ fileName: "2021-en-rejse.jpg"
 medie: "painting"
 draft: "false"
 slug: "en-rejse"
-weight: "170"
+weight: "180"
 ---
