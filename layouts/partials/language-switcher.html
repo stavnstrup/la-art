@@ -1,0 +1,13 @@
+{{ if .Site.IsMultiLingual }}
+  {{ range .Site.Languages }}
+  {{ if eq . $.Site.Language }}
+  <li class="nav-item dropdown"><a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="{{ i18n "ariaLanguage" }}{{ .LanguageName }}">{{ .LanguageName | upper }}</a>
+  {{ end }}
+  {{ end }}
+    <ul class="dropdown-menu" aria-labelledby="dropdown-title">
+    {{ range $.Translations }}
+      <li><a class="dropdown-item" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}" aria-label="{{ i18n "ariaTranslation" }}{{ .Language.LanguageName }}">{{ .Language.LanguageName | upper }}</a></li>
+    {{ end }}
+    </ul>
+  </li>
+{{ end }}
