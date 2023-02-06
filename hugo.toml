@@ -6,6 +6,7 @@ timeZone = "Europe/Copenhagen"
 
 enableGitInfo = true
 
+disableKinds = [ 'taxonomy', 'term' ]
 
 # Language settings
 contentDir = "content/da"
