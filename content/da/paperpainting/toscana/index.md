@@ -10,5 +10,5 @@ fileName: "2023-tuscany.jpg"
 medie: "paperpainting"
 draft: "false"
 slug: "toscana"
-weight: "150"
+weight: "160"
 ---

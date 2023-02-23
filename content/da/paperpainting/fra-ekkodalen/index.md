@@ -10,5 +10,5 @@ fileName: "2022-from-ekkodalen.jpg"
 medie: "paperpainting"
 draft: "false"
 slug: "fra-ekkodalen"
-weight: "160"
+weight: "200"
 ---
