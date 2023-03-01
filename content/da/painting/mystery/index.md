@@ -10,5 +10,5 @@ fileName: "2022-mystery.jpg"
 medie: "painting"
 draft: "false"
 slug: "mystery"
-weight: "80"
+weight: "180"
 ---

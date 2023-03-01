@@ -10,5 +10,5 @@ fileName: "2021-klokker.jpg"
 medie: "painting"
 draft: "false"
 slug: "klokker"
-weight: "240"
+weight: "90"
 ---

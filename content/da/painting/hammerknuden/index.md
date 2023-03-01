@@ -10,5 +10,5 @@ fileName: "2018-hammerknuden.jpg"
 medie: "painting"
 draft: "false"
 slug: "hammerknuden"
-weight: "310"
+weight: "360"
 ---

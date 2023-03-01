@@ -10,5 +10,5 @@ fileName: "2022-groen.jpg"
 medie: "painting"
 draft: "false"
 slug: "groen"
-weight: "120"
+weight: "310"
 ---
