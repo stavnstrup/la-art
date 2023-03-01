@@ -2,7 +2,7 @@
 {{ $end := int (.Get "end") }}
 
 {{ $debuglabel := 0 }}
-{{ $exibitionArray := union .Site.Data.udstilling.painting .Site.Data.udstilling.drawing }}
+{{ $exibitionArray := union .Site.Data.udstilling.painting .Site.Data.udstilling.paperpainting .Site.Data.udstilling.drawing }}
 
 {{/* Cast all of the elements in the array to type int using apply - 
      https://discourse.gohugo.io/t/filtering-pages-with-the-in-operator-fails/35196/2 */}}
