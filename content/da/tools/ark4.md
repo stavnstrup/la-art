@@ -1,0 +1,7 @@
+---
+title: Ark 4 - maleri el. tegning nr. 30 - 39
+weight: 4
+type: labels
+---
+
+{{<makelabels start="30" end="39" >}}
