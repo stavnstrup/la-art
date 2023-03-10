@@ -1,5 +1,6 @@
 ---
 title: Tegninger
+description: 'Tegninger af Lisbeth Aggerbeck'
 cascade:
 - type: art
 

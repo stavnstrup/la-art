@@ -1,5 +1,6 @@
 ---
 title: 'Paintings on paper'
+description: 'Paperpaintings by Lisbeth Aggerbeck'
 cascade:
   - type: art
 

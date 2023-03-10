@@ -1,5 +1,6 @@
 ---
 title: 'Papirmalerier'
+description: 'Papirmalerier af Lisbeth Aggerbeck'
 cascade:
   - type: art
 

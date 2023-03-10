@@ -1,5 +1,6 @@
 ---
 title: 'Paintings'
+description: 'Paintings by Lisbeth Aggerbeck'
 cascade:
   - type: art
 

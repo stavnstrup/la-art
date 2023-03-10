@@ -1,5 +1,6 @@
 ---
 title: Exibitions
+description: 'Exibitions with Lisbeth Aggerbeck'
 menu:
   main:
     weight: 40

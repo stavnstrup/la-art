@@ -1,5 +1,6 @@
 ---
 title: 'Malerier'
+description: 'Malerier af Lisbeth Aggerbeck'
 cascade:
   - type: art
 

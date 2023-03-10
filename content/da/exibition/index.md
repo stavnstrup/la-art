@@ -1,5 +1,6 @@
 ---
 title: Udstillinger
+description: 'Udstillinger med Lisbeths Aggerbecks kunst'
 menu:
   main:
     weight: 40
