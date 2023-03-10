@@ -1,5 +1,6 @@
 ---
 title: 'Home'
+description: 'Officiel website for Lisbeth'
 menu:
   main:
     weight: 10

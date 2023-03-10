@@ -1,5 +1,6 @@
 ---
 title: 'Home'
+description: 'Official website of Lisbeth Aggerbeck'
 menu:
   main:
     weight: 10

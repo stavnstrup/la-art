@@ -1,6 +1,7 @@
 baseURL = "https://lisbethaggerbeck.dk"
 languageCode = "da-dk"
 title = "LA ART"
+description = "Official website of Lisbeth Aggerbeck"
 
 timeZone = "Europe/Copenhagen"
 
