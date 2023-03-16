@@ -29,13 +29,14 @@
         />
         <p><strong>{{ .Title }}</strong><br/>{{.Params.method}},
         {{ .Params.height }} x {{ .Params.width }} cm, {{ .Params.year }}</p>
+
         <p class="price">
-        {{ if ne .Params.price "Privateje" }}
+        {{ if ne .Params.status "privat" }}
         {{/* 
         {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr {{ if .Params.sold }} SOLGT{{ end }}
         */}}
         {{ else }}
-        Privateje
+        {{ i18n "privat" . }}
         {{ end }}
         </p>
         {{/*
