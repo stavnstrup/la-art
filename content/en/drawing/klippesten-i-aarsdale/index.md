@@ -6,6 +6,7 @@ width: 26
 method: "Crayon on paper"
 year: 2020
 price: "900"
+status: ""
 fileName: "2020-klippesten-i-aarsdale.jpg"
 medie: "drawing"
 draft: "false"

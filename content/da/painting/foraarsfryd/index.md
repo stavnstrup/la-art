@@ -6,6 +6,7 @@ width: 60
 method: "Akryl på lærred"
 year: 2020
 price: "4200"
+status: ""
 fileName: "2020-foraarsfryd.jpg"
 medie: "painting"
 draft: "false"

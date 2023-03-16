@@ -6,6 +6,7 @@ width: 60
 method: "Oil on canvas"
 year: 2010
 price: "3200"
+status: ""
 fileName: "2010-klipper.jpg"
 medie: "painting"
 draft: "false"

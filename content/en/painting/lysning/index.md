@@ -6,6 +6,7 @@ width: 40
 method: "Acrylic on canvas"
 year: 2021
 price: "2100"
+status: ""
 fileName: "2021-lysning.jpg"
 medie: "painting"
 draft: "false"

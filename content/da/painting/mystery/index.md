@@ -6,6 +6,7 @@ width: 80
 method: "Akryl på lærred"
 year: 2022
 price: "5000"
+status: ""
 fileName: "2022-mystery.jpg"
 medie: "painting"
 draft: "false"

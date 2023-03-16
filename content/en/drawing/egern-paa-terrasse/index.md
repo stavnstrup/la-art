@@ -6,6 +6,7 @@ width: 23
 method: "Pencil on paper"
 year: 2021
 price: "700"
+status: ""
 fileName: "2021-egern-paa-terrasse.jpg"
 medie: "drawing"
 draft: "false"

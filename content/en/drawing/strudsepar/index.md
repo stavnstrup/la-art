@@ -5,7 +5,8 @@ height: 31,5
 width: 23
 method: "Caran d'Ache on paper"
 year: 2019
-price: "Privateje"
+price: "800"
+status: "privat"
 fileName: "2019-strudsepar.jpg"
 medie: "drawing"
 draft: "false"

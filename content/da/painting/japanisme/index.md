@@ -6,6 +6,7 @@ width: 24
 method: "Olie på lærred"
 year: 2011
 price: "700"
+status: ""
 fileName: "2011-japanisme.jpg"
 medie: "painting"
 draft: "false"

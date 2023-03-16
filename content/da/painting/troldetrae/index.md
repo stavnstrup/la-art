@@ -6,6 +6,7 @@ width: 60
 method: "Olie på lærred"
 year: 2015
 price: "Privateje"
+status: "privat"
 fileName: "2015-troldetrae.jpg"
 medie: "painting"
 draft: "false"

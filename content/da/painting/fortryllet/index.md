@@ -6,6 +6,7 @@ width: 50
 method: "Akryl på lærred"
 year: 2018
 price: "2300"
+status: ""
 fileName: "2018-fortryllet.jpg"
 medie: "painting"
 draft: "false"

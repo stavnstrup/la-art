@@ -5,7 +5,8 @@ height: 50
 width: 40
 method: "Acrylic on canvas"
 year: 2021
-price: "Privateje"
+price: "2000"
+status: "privat"
 fileName: "2021-legeplads.jpg"
 medie: "painting"
 draft: "false"

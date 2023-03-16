@@ -6,6 +6,7 @@ width: 42
 method: "Caran d'Ache på papir"
 year: 2019
 price: "1200"
+status: ""
 fileName: "2019-elefantunge.jpg"
 medie: "drawing"
 draft: "false"

@@ -6,6 +6,7 @@ width: 23
 method: "Crayon on paper"
 year: 2021
 price: "700"
+status: ""
 fileName: "2021-svaner-i-mosen.jpg"
 medie: "drawing"
 draft: "false"

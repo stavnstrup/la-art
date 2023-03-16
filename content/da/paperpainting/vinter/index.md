@@ -6,6 +6,7 @@ width: 32
 method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "750"
+status: ""
 fileName: "2023-winter.jpg"
 medie: "paperpainting"
 draft: "false"

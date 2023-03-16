@@ -6,6 +6,7 @@ width: 15
 method: "Akryl på lærred"
 year: 2018
 price: "1500"
+status: ""
 fileName: "2018-trilogi.jpg"
 medie: "painting"
 draft: "false"

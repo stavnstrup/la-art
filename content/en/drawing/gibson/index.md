@@ -5,7 +5,8 @@ height: 21
 width: 15
 method: "Pencil on paper"
 year: 2020
-price: "Privateje"
+price: "700"
+status: "privat"
 fileName: "2020-gibson.jpg"
 medie: "drawing"
 draft: "false"

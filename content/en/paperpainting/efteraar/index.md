@@ -6,6 +6,7 @@ width: 24
 method: "Acrylic on Hahnemühle paper"
 year: 2022
 price: "750"
+status: ""
 fileName: "2022-efteraar.jpg"
 medie: "paperpainting"
 draft: "true"

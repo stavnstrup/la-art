@@ -6,6 +6,7 @@ width: 60
 method: "Olie på lærred"
 year: 2010
 price: "2800"
+status: ""
 fileName: "2010-planteriget.jpg"
 medie: "painting"
 draft: "false"

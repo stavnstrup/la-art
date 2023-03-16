@@ -6,6 +6,7 @@ width: 17
 method: "Pencil on paper"
 year: 2020
 price: "600"
+status: ""
 fileName: "2020-sovende-klippesten.jpg"
 medie: "drawing"
 draft: "false"

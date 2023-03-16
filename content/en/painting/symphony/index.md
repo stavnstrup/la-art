@@ -6,6 +6,7 @@ width: 20
 method: "Acrylic on canvas"
 year: 2022
 price: "800"
+status: ""
 fileName: "2022-symphony.jpg"
 medie: "painting"
 draft: "false"

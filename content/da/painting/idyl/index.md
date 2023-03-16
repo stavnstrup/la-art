@@ -6,6 +6,7 @@ width: 20
 method: "Olie på lærred"
 year: 2011
 price: "500"
+status: ""
 fileName: "2011-idyl.jpg"
 medie: "painting"
 draft: "false"
