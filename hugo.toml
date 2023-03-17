@@ -16,6 +16,8 @@ defaultContentLanguageInSubdir = false
 
 disableLanguages = ["  "]
 
+[params]
+showPrices =  false
 
 [languages]
 [languages.da]

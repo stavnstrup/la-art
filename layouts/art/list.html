@@ -32,21 +32,17 @@
 
         <p class="price">
         {{ if ne .Params.status "privat" }}
-        {{/* 
-        {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr {{ if .Params.sold }} SOLGT{{ end }}
-        */}}
+          {{ if .Site.Params.ShowPrices }}
+            {{ lang.FormatNumberCustom 0 .Params.price "- , ." }} kr {{ if .Params.sold }} SOLGT{{ end }}
+          {{ end }}
         {{ else }}
-        {{ i18n "privat" . }}
+          {{ i18n "privat" . }}
         {{ end }}
         </p>
-        {{/*
-          <p>{{.Params.fileName}}</p>
-          */}}
         </p>
       </a>
     </div>
   {{ end }}
 </div>
-
-
+{{ printf "%#v" .Site}}
 {{ end }}
