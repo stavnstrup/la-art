@@ -1,6 +1,6 @@
 ---
 id: 59
-title: "Human Being and Nature"
+title: "Man and Nature"
 height: 80
 width: 60
 method: "Acrylic on canvas"
