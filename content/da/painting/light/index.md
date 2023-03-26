@@ -6,6 +6,7 @@ width: 20
 method: "Akryl på lærred"
 year: 2022
 price: "800"
+exPrice: ""
 status: ""
 fileName: "2022-light.jpg"
 medie: "painting"

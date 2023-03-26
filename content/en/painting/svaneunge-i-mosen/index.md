@@ -6,6 +6,7 @@ width: 40
 method: "Oil on canvas"
 year: 2008
 price: "2400"
+exPrice: ""
 status: ""
 fileName: "2008-svaneunge-i-mosen.jpg"
 medie: "painting"

@@ -6,6 +6,7 @@ width: 60
 method: "Oil on canvas"
 year: 2015
 price: "Privateje"
+exPrice: ""
 status: "privat"
 fileName: "2015-troldetrae.jpg"
 medie: "painting"

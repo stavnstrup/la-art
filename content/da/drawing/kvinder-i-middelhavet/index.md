@@ -6,6 +6,7 @@ width: 41
 method: "Farveblyant på papir"
 year: 2019
 price: "700"
+exPrice: ""
 status: "privat"
 fileName: "2019-kvinder-i-middelhavet.jpg"
 medie: "drawing"

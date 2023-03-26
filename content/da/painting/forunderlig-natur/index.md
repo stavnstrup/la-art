@@ -6,6 +6,7 @@ width: 50
 method: "Akryl på lærred"
 year: 2021
 price: "3500"
+exPrice: ""
 status: ""
 fileName: "2021-forunderlig-natur.jpg"
 medie: "painting"

@@ -6,6 +6,7 @@ width: 30
 method: "Akryl på Hahnemühle papir"
 year: 2022
 price: "750"
+exPrice: ""
 status: ""
 fileName: "2022-from-ekkodalen.jpg"
 medie: "paperpainting"

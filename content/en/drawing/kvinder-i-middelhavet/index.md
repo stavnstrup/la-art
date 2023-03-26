@@ -6,6 +6,7 @@ width: 41
 method: "Crayon on paper"
 year: 2019
 price: "700"
+exPrice: ""
 status: "privat"
 fileName: "2019-kvinder-i-middelhavet.jpg"
 medie: "drawing"

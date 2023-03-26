@@ -6,6 +6,7 @@ width: 31,5
 method: "Pencil on paper"
 year: 2019
 price: "700"
+exPrice: ""
 status: "privat"
 fileName: "2019-boern-i-vesterhavet.jpg"
 medie: "drawing"

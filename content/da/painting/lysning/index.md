@@ -6,6 +6,7 @@ width: 40
 method: "Akryl på lærred"
 year: 2021
 price: "2100"
+exPrice: ""
 status: ""
 fileName: "2021-lysning.jpg"
 medie: "painting"

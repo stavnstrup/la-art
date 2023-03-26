@@ -6,6 +6,7 @@ width: 41,5
 method: "Blyant på papir"
 year: 2019
 price: "700"
+exPrice: ""
 status: "privat"
 fileName: "2019-boerneboern-ser-film.jpg"
 medie: "drawing"

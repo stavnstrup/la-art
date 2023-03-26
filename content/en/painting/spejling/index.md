@@ -6,6 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2018
 price: "2200"
+exPrice: ""
 status: ""
 fileName: "2018-spejling.jpg"
 medie: "painting"

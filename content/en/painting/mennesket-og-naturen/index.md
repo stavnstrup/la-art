@@ -6,6 +6,7 @@ width: 60
 method: "Acrylic on canvas"
 year: 2021
 price: "5200"
+exPrice: ""
 status: ""
 fileName: "2021-mennesket-og-naturen.jpg"
 medie: "painting"

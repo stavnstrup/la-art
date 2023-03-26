@@ -6,6 +6,7 @@ width: 91
 method: "Oil on canvas"
 year: 2009
 price: "Privateje"
+exPrice: ""
 status: "privat"
 fileName: "2009-komposition.jpg"
 medie: "painting"

@@ -6,6 +6,7 @@ width: 23
 method: "Pencil on paper"
 year: 2020
 price: "700"
+exPrice: ""
 status: ""
 fileName: "2020-traestammer.jpg"
 medie: "drawing"

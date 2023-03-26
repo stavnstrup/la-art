@@ -6,6 +6,7 @@ width: 24
 method: "Akryl på lærred"
 year: 2022
 price: "1200"
+exPrice: ""
 status: ""
 fileName: "2022-groen.jpg"
 medie: "painting"

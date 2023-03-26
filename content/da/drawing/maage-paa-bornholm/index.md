@@ -6,6 +6,7 @@ width: 26
 method: "Farveblyant på papir"
 year: 2020
 price: "750"
+exPrice: ""
 status: ""
 fileName: "2020-maage-paa-bornholm.jpg"
 medie: "drawing"

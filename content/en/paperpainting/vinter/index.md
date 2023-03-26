@@ -6,6 +6,7 @@ width: 32
 method: "Acrylic on Hahnemühle paper"
 year: 2023
 price: "750"
+exPrice: ""
 status: ""
 fileName: "2023-winter.jpg"
 medie: "paperpainting"

@@ -6,6 +6,7 @@ width: 26
 method: "Blyant på papir"
 year: 2020
 price: "900"
+exPrice: ""
 status: ""
 fileName: "2020-gaas-i-mosen.jpg"
 medie: "drawing"

@@ -6,6 +6,7 @@ width: 80
 method: "Akryl på lærred"
 year: 2021
 price: "6200"
+exPrice: ""
 status: ""
 fileName: "2021-under-vand.jpg"
 medie: "painting"

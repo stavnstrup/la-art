@@ -52,6 +52,7 @@ for language in languages:
                     f.write('method: "{0}"\n'.format(row["method-" + language]))
                     f.write('year: {0}\n'.format(row["year"]))
                     f.write('price: "{0}"\n'.format(row["price"]))
+                    f.write('exPrice: "{0}"\n'.format(row["exPrice"]))
                     f.write('status: "{0}"\n'.format(row["status"]))
                     f.write('fileName: "{0}"\n'.format(row["fileName"]))
                     f.write('medie: "{0}"\n'.format(row["medie"]))

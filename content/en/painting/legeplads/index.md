@@ -6,6 +6,7 @@ width: 40
 method: "Acrylic on canvas"
 year: 2021
 price: "2000"
+exPrice: ""
 status: "privat"
 fileName: "2021-legeplads.jpg"
 medie: "painting"

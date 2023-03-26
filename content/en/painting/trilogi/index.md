@@ -6,6 +6,7 @@ width: 15
 method: "Acrylic on canvas"
 year: 2018
 price: "1500"
+exPrice: ""
 status: ""
 fileName: "2018-trilogi.jpg"
 medie: "painting"

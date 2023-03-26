@@ -16,8 +16,8 @@
         <p><i>{{.Title}}</i>, {{.Params.year}}</p>
         <p>{{ .Params.method }}, {{ .Params.height }} x {{ .Params.width }} cm</p>
         <p class="price">
-          {{ if ne .Params.price "Privateje" }} {{ lang.FormatNumberCustom 0
-          .Params.price "- , ." }} kr {{ else }} Privateje {{ end }}
+          {{ if ne .Params.status "privat" }} {{ lang.FormatNumberCustom 0
+          (default .Params.price .Params.exPrice ) "- , ." }} kr {{ else }} {{ i18n "privat" . }} {{ end }}
         </p>
         <p class="bigspace" />
         <p class="web">
