@@ -27,11 +27,11 @@
               <td class="dimension">{{ .Params.height }} x {{ .Params.width }} cm</td>
               <td class="year">{{ .Params.year }}</td>
               <td class="price">
-              {{ if ne .Params.status "privat" }}
-                  {{ lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." }} kr
-              {{ else }}
-                {{ i18n "privat" . }}
-              {{ end }}
+                {{- if eq .Params.status "privat" -}}
+                  {{- i18n "privat" . -}}
+                {{- else -}}
+                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." -}} kr
+                {{- end -}}
               </td>
             </tr>
             {{ $artifact = add $artifact 1 }}
@@ -52,11 +52,11 @@
               <td class="dimension">{{ .Params.height }} x {{ .Params.width }} cm</td>
               <td class="year">{{ .Params.year }}</td>
               <td class="price">
-                {{ if ne .Params.status "privat"}} {{ lang.FormatNumberCustom 0
-                (default .Params.price .Params.exPrice) "- , ." }} kr
-                {{ else }}
-                  {{ i18n "privat" }}
-                {{ end }}
+                {{- if eq .Params.status "privat" -}}
+                  {{- i18n "privat" -}}
+                {{- else -}}
+                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." -}} kr
+                {{- end -}}
               </td>
             </tr>
             {{ $artifact = add $artifact 1 }}
@@ -77,8 +77,11 @@
               <td class="dimension">{{ .Params.height }} x {{ .Params.width }} cm</td>
               <td class="year">{{ .Params.year }}</td>
               <td class="price">
-                {{ if ne .Params.status "privat"}} {{ lang.FormatNumberCustom 0
-                (default .Params.price .Params.exPrice) "- , ." }} kr {{ else }} Privateje {{ end }}
+                {{- if eq .Params.status "privat" -}}
+                  {{- i18n "privat" -}}
+                {{- else -}}
+                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." }} kr
+                {{- end -}}
               </td>
             </tr>
             {{ $artifact = add $artifact 1 }}
