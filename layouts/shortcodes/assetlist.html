@@ -30,7 +30,7 @@
                 {{- if eq .Params.status "privat" -}}
                   {{- i18n "privat" . -}}
                 {{- else -}}
-                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." -}} kr
+                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." }} kr.
                 {{- end -}}
               </td>
             </tr>
@@ -55,7 +55,7 @@
                 {{- if eq .Params.status "privat" -}}
                   {{- i18n "privat" -}}
                 {{- else -}}
-                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." -}} kr
+                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." }} kr.
                 {{- end -}}
               </td>
             </tr>
@@ -80,7 +80,7 @@
                 {{- if eq .Params.status "privat" -}}
                   {{- i18n "privat" -}}
                 {{- else -}}
-                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." }} kr
+                  {{- lang.FormatNumberCustom 0 (default .Params.price .Params.exPrice) "- , ." }} kr.
                 {{- end -}}
               </td>
             </tr>
