@@ -10,20 +10,20 @@
       {{ $src := .Resources.GetMatch .Params.fileName }}
       <a href="{{.Permalink}}">
         <img
-          {{ if $src }}
+          {{- if $src }}
             sizes="(min-width: 35em) 1200px, 100vw"
             {{/* only srcset images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}} 
             srcset='
-            {{ range $sizes }}
-              {{ if ge $src.Width . }}{{ ($src.Resize (printf "%sx webp" .)).Permalink }} {{ (printf "%sw" .) }},{{ end }}
-            {{ end }}'
+            {{- range $sizes }}
+              {{ if ge $src.Width . }}{{- ($src.Resize (printf "%sx webp" .)).Permalink }} {{ (printf "%sw" .) -}},{{- end -}}
+            {{- end -}}'
             {{/* when no support for srcset (old browsers, RSS), we load small (800px) */}}
             {{/* if image smaller than 800, then load the image itself */}}
-            {{ if ge $src.Width "800" }}src="{{ ($src.Resize "800x").Permalink }}"
-            {{ else }}src="{{ $src.Permalink }}"
+            {{- if ge $src.Width "800" }}src="{{ ($src.Resize "800x").Permalink -}}"
+            {{- else }}src="{{ $src.Permalink }}"
             {{ end }}
-          {{end}}
-          alt="{{ .Title }}"
+          {{ end }}
+          alt="{{ .Title }}" loading="lazy"
         />
         <p><strong>{{ .Title }}</strong><br/>{{.Params.method}},
         {{ .Params.height }} x {{ .Params.width }} cm, {{ .Params.year }}</p>
@@ -39,6 +39,6 @@
         </p>
       </a>
     </div>
-  {{ end }}
+  {{- end -}}
 </div>
 {{ end }}
