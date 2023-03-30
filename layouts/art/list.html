@@ -19,7 +19,7 @@
             {{- end -}}'
             {{/* when no support for srcset (old browsers, RSS), we load small (800px) */}}
             {{/* if image smaller than 800, then load the image itself */}}
-            {{- if ge $src.Width "800" }}src="{{ ($src.Resize "800x").Permalink -}}"
+            {{- if ge $src.Width "800" }}src="{{ ($src.Resize "800x webp").Permalink -}}"
             {{- else }}src="{{ $src.Permalink }}"
             {{ end }}
           {{ end }}
