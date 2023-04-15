@@ -6,7 +6,7 @@ width: 30
 method: "Akryl på lærred"
 year: 2021
 price: "2100"
-exPrice: "2000"
+exPrice: "1500"
 status: ""
 fileName: "2021-indgang.jpg"
 medie: "painting"
