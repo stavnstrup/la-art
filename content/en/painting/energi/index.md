@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2023
 price: "2200"
-exPrice: ""
+exPrice: "2000"
 status: ""
 fileName: "2023-energi.jpg"
 medie: "painting"
