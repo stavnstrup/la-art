@@ -1,5 +1,8 @@
 ---
-title: Labels til udstillinger
+title: Labels
+menu:
+  main:
+    weight: 62
 cascade:
   - draft: true
 ---
