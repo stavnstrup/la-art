@@ -2,3 +2,10 @@
 
 [privat]
 other = "Private collection"
+
+[name]
+other = "Name"
+
+
+[message]
+other = "Message"
