@@ -8,7 +8,7 @@ menu:
 
 ## Udstillinger
 
-- [Bellahøj Kirke, 1. maj - 30. juni 2023](https://bellahoejkirke.dk/)
+- [Bellahøj Kirke, 1. maj - 30. juni 2023](https://bellahoejkirke.dk/event/17241622)
 - Den gule Villa, Frederiksberg, november 2022 - februar 2023
 - [Artsy, oktober 2022 - september 2023](https://www.artsy.net/galeria-azur/artist/lisbeth-aggerbeck)
 - [Artsper, oktober 2022 - september 2023](https://www.artsper.com/us/contemporary-artists/denmark/109065/lisbeth-aggerbeck)
