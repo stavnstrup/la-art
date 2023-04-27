@@ -12,5 +12,5 @@ fileName: "2023-relationer.jpg"
 medie: "painting"
 draft: "false"
 slug: "relationer"
-weight: "126"
+weight: "150"
 ---

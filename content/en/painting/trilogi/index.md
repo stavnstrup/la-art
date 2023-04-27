@@ -12,5 +12,5 @@ fileName: "2018-trilogi.jpg"
 medie: "painting"
 draft: "false"
 slug: "trilogi"
-weight: "290"
+weight: "320"
 ---

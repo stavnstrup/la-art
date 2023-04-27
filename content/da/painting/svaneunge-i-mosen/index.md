@@ -12,5 +12,5 @@ fileName: "2008-svaneunge-i-mosen.jpg"
 medie: "painting"
 draft: "false"
 slug: "svaneunge-i-mosen"
-weight: "400"
+weight: "430"
 ---

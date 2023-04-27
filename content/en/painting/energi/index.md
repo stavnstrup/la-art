@@ -12,5 +12,5 @@ fileName: "2023-energi.jpg"
 medie: "painting"
 draft: "false"
 slug: "energi"
-weight: "123"
+weight: "140"
 ---

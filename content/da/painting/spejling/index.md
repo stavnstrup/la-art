@@ -12,5 +12,5 @@ fileName: "2018-spejling.jpg"
 medie: "painting"
 draft: "false"
 slug: "spejling"
-weight: "260"
+weight: "290"
 ---
