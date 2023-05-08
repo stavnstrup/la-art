@@ -7,7 +7,7 @@ method: "Acrylic on paper in frame and glass"
 year: 2022
 price: "2200"
 exPrice: "1000"
-status: ""
+status: "privat"
 fileName: "2022-elefant-i-solskin.jpg"
 medie: "paperpainting"
 draft: "false"
