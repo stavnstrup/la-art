@@ -6,7 +6,7 @@ width: 23
 method: "Blyant på papir"
 year: 2021
 price: "700"
-exPrice: ""
+exPrice: "300"
 status: ""
 fileName: "2021-daadyr-i-dyrehaven.jpg"
 medie: "drawing"

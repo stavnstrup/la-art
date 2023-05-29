@@ -6,7 +6,7 @@ width: 20
 method: "Oil on canvas"
 year: 2011
 price: "500"
-exPrice: ""
+exPrice: "300"
 status: ""
 fileName: "2011-idyl.jpg"
 medie: "painting"
