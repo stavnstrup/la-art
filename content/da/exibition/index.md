@@ -8,7 +8,7 @@ menu:
 
 ## Udstillinger
 
-- [Frederiksbergdage 2023, 3. juni 2023](https://frbdage.frederiksberg.dk/)
+- [Frederiksbergdage 2023, 3. juni 2023](https://frbdage.frederiksberg.dk/events/kultunaut/full/16486969/Byfest_p_Betty_Nansens_Plads?tmplid=arrmore&ArrNr=16486969)
 - [Bellahøj Kirke, 1. maj - 30. juni 2023](https://bellahoejkirke.dk/blog/123475/kunstudstilling-forarsfryd-lisbeth-aggerbeck-udstiller-i-bellahoj-kirke-i-maj/juni)
 - Den gule Villa, Frederiksberg, november 2022 - februar 2023
 - [Artsy, oktober 2022 - september 2023](https://www.artsy.net/galeria-azur/artist/lisbeth-aggerbeck)
