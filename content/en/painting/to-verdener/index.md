@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2022
 price: "3000"
-exPrice: ""
+exPrice: "1500"
 status: ""
 fileName: "2022-to-verdener.jpg"
 medie: "painting"

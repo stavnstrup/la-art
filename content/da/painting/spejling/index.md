@@ -6,7 +6,7 @@ width: 50
 method: "Akryl på lærred"
 year: 2018
 price: "2200"
-exPrice: ""
+exPrice: "1400"
 status: ""
 fileName: "2018-spejling.jpg"
 medie: "painting"

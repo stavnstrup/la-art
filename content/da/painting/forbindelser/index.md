@@ -6,7 +6,7 @@ width: 80
 method: "Olie på lærred"
 year: 2022
 price: "5200"
-exPrice: ""
+exPrice: "3000"
 status: ""
 fileName: "2022-forbindelser.jpg"
 medie: "painting"
