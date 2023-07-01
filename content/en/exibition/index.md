@@ -8,7 +8,7 @@ menu:
 
 ## Exibitions
 
-- Lindehaven, Frederiksberg, July 2023 - ?
+- Lindehaven, Frederiksberg, July 2023 - 
 - [Frederiksbergdage 2023, June 3, 2023](https://frbdage.frederiksberg.dk/events/kultunaut/full/16486969/Byfest_p_Betty_Nansens_Plads?tmplid=arrmore&ArrNr=16486969)
 - [Bellahøj Church, May - July 2023](https://bellahoejkirke.dk/blog/123475/kunstudstilling-forarsfryd-lisbeth-aggerbeck-udstiller-i-bellahoj-kirke-i-maj/juni)
 - Den gule Villa, Frederiksberg, November 2022 - February 2023
