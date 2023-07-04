@@ -12,5 +12,5 @@ fileName: "2022-light.jpg"
 medie: "painting"
 draft: "false"
 slug: "light"
-weight: "380"
+weight: "390"
 ---

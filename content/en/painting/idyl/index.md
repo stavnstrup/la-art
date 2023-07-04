@@ -12,5 +12,5 @@ fileName: "2011-idyl.jpg"
 medie: "painting"
 draft: "false"
 slug: "idyl"
-weight: "360"
+weight: "370"
 ---

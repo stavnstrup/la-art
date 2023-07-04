@@ -12,5 +12,5 @@ fileName: "2017-vaesener.jpg"
 medie: "painting"
 draft: "false"
 slug: "vaesener"
-weight: "420"
+weight: "430"
 ---
