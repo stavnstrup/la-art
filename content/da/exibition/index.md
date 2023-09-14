@@ -8,7 +8,8 @@ menu:
 
 ## Udstillinger
 
-- Lindehaven, Frederiksberg, juli 2023 -
+- Bellahøj Kirke, februar - marts 2024
+- Lindehaven, Frederiksberg, juli 2023
 - Frederiksbergdage 2023, 3. juni 2023
 - Bellahøj Kirke, maj - juli 2023
 - Den gule Villa, Frederiksberg, november 2022 - februar 2023
