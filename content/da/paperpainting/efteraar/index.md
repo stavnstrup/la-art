@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2022-efteraar.jpg"
 medie: "paperpainting"
-draft: "true"
+draft: "True"
 slug: "efteraar"
 weight: "240"
 ---

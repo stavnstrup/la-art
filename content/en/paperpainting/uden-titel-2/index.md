@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2022-untitled-2.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "uden-titel-2"
 weight: "60"
 ---

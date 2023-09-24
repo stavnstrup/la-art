@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2022-harmoni-i-figur.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "harmoni-i-figur"
 weight: "30"
 ---

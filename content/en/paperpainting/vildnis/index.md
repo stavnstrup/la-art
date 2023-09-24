@@ -10,7 +10,7 @@ exPrice: "700"
 status: "privat"
 fileName: "2022-wilderness.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "vildnis"
 weight: "200"
 ---

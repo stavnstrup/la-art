@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2022-harmoni-i-farve.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "harmoni-i-farve"
 weight: "20"
 ---

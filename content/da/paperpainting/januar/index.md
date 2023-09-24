@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2023-january.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "januar"
 weight: "150"
 ---

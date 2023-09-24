@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2015-efter-istiden.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "efter-istiden"
 weight: "80"
 ---

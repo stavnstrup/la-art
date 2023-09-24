@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2022-christmas.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "jul"
 weight: "130"
 ---

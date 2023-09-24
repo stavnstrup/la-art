@@ -10,7 +10,7 @@ exPrice: "300"
 status: ""
 fileName: "2022-light.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "light"
 weight: "390"
 ---

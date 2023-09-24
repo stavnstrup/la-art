@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2010-klipper.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "klipper"
 weight: "260"
 ---

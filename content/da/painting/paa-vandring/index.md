@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2022-paa-vandring.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "paa-vandring"
 weight: "40"
 ---

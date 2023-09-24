@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2020-maage-paa-bornholm.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "maage-paa-bornholm"
 weight: "180"
 ---

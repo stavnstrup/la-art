@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-gul.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "gul"
 weight: "120"
 ---

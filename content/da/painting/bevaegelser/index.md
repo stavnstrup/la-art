@@ -10,7 +10,7 @@ exPrice: "3500"
 status: ""
 fileName: "2010-bevaegelser.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "bevaegelser"
 weight: "310"
 ---

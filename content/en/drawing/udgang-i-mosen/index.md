@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2020-udgang-i-mosen.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "udgang-i-mosen"
 weight: "70"
 ---

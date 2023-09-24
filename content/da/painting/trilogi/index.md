@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2018-trilogi.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "trilogi"
 weight: "330"
 ---

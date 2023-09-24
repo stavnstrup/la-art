@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2020-gibson.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "gibson"
 weight: "280"
 ---

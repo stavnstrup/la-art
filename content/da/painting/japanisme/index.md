@@ -10,7 +10,7 @@ exPrice: "350"
 status: ""
 fileName: "2011-japanisme.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "japanisme"
 weight: "320"
 ---

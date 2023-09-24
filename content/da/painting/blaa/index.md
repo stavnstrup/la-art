@@ -10,7 +10,7 @@ exPrice: "1700"
 status: ""
 fileName: "2022-blaa.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "blaa"
 weight: "340"
 ---

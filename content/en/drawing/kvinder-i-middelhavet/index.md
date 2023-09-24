@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2019-kvinder-i-middelhavet.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "kvinder-i-middelhavet"
 weight: "250"
 ---

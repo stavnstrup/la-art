@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2010-planteriget.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "planteriget"
 weight: "420"
 ---

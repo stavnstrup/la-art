@@ -10,7 +10,7 @@ exPrice: "400"
 status: ""
 fileName: "2023-peace.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "peace"
 weight: "170"
 ---

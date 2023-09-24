@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2022-indian-summer.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "indian-summer"
 weight: "90"
 ---

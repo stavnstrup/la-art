@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2019-liggende-strudsepar.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "liggende-strudsepar"
 weight: "170"
 ---

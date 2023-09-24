@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2022-groen.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "groen"
 weight: "350"
 ---

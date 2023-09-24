@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-universer.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "universer"
 weight: "200"
 ---

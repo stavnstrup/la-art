@@ -10,7 +10,7 @@ exPrice: "1400"
 status: ""
 fileName: "2018-spejling.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "spejling"
 weight: "300"
 ---

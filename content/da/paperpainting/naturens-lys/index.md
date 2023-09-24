@@ -10,7 +10,7 @@ exPrice: "250"
 status: ""
 fileName: "2023-naturens-lys.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "naturens-lys"
 weight: "230"
 ---

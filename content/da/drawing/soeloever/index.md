@@ -10,7 +10,7 @@ exPrice: "250"
 status: ""
 fileName: "2020-soeloever.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "soeloever"
 weight: "110"
 ---

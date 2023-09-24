@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2021-legeplads.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "legeplads"
 weight: "60"
 ---

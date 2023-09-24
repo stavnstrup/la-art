@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2019-boern-i-vesterhavet.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "boern-i-vesterhavet"
 weight: "290"
 ---

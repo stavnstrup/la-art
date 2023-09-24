@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-lysning.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "lysning"
 weight: "410"
 ---

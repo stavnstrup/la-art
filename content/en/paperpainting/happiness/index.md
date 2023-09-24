@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2022-happiness.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "happiness"
 weight: "100"
 ---

@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2020-aender-i-mosen.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "aender-i-mosen"
 weight: "60"
 ---

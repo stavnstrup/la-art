@@ -10,7 +10,7 @@ exPrice: "1000"
 status: "privat"
 fileName: "2022-elefant-i-solskin.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "elefant-i-solskin"
 weight: "250"
 ---

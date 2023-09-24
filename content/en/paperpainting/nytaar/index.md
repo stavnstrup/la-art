@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2022-new-year.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "nytaar"
 weight: "120"
 ---

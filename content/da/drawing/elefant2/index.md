@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2019-elefant2.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "elefant2"
 weight: "20"
 ---

@@ -10,7 +10,7 @@ exPrice: "300"
 status: ""
 fileName: "2021-figurer.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "figurer"
 weight: "220"
 ---

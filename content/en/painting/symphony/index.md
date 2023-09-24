@@ -10,7 +10,7 @@ exPrice: "300"
 status: ""
 fileName: "2022-symphony.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "symphony"
 weight: "380"
 ---

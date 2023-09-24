@@ -10,7 +10,7 @@ exPrice: "1000"
 status: ""
 fileName: "2021-eufori.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "eufori"
 weight: "280"
 ---

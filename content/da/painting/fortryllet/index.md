@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2018-fortryllet.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "fortryllet"
 weight: "170"
 ---

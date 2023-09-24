@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2023-tuscany.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "toscana"
 weight: "160"
 ---

@@ -10,7 +10,7 @@ exPrice: "3200"
 status: ""
 fileName: "2020-foraarsfryd.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "foraarsfryd"
 weight: "290"
 ---

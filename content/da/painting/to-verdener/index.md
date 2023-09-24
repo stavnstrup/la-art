@@ -10,7 +10,7 @@ exPrice: "1500"
 status: ""
 fileName: "2022-to-verdener.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "to-verdener"
 weight: "250"
 ---

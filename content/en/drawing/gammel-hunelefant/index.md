@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2019-gammel-hunelefant.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "gammel-hunelefant"
 weight: "270"
 ---

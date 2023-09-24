@@ -10,7 +10,7 @@ exPrice: "3000"
 status: ""
 fileName: "2023-haab.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "haab"
 weight: "100"
 ---

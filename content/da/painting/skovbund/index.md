@@ -10,7 +10,7 @@ exPrice: "3000"
 status: ""
 fileName: "2019-skovbund.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "skovbund"
 weight: "180"
 ---

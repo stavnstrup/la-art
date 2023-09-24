@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-under-vand.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "under-vand"
 weight: "20"
 ---

@@ -10,7 +10,7 @@ exPrice: "3000"
 status: ""
 fileName: "2022-mystery.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "mystery"
 weight: "220"
 ---

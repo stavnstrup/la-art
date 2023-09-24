@@ -10,7 +10,7 @@ exPrice: "300"
 status: ""
 fileName: "2021-daadyr-i-dyrehaven.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "daadyr-i-dyrehaven"
 weight: "140"
 ---

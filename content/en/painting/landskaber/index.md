@@ -10,7 +10,7 @@ exPrice: "3000"
 status: ""
 fileName: "2022-landskaber.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "landskaber"
 weight: "110"
 ---

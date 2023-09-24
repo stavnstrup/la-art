@@ -10,7 +10,7 @@ exPrice: "300"
 status: ""
 fileName: "2020-traestammer.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "traestammer"
 weight: "150"
 ---

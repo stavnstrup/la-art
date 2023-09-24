@@ -10,7 +10,7 @@ exPrice: "400"
 status: ""
 fileName: "2023-en-route.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "paa-vej"
 weight: "135"
 ---

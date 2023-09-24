@@ -10,7 +10,7 @@ exPrice: "3000"
 status: ""
 fileName: "2022-forbindelser.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "forbindelser"
 weight: "210"
 ---

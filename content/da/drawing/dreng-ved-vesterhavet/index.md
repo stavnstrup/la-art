@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2020-dreng-ved-vesterhavet.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "dreng-ved-vesterhavet"
 weight: "240"
 ---

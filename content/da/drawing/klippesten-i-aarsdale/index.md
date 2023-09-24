@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2020-klippesten-i-aarsdale.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "klippesten-i-aarsdale"
 weight: "100"
 ---

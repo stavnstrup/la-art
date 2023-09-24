@@ -10,7 +10,7 @@ exPrice: "1500"
 status: ""
 fileName: "2021-indgang.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "indgang"
 weight: "240"
 ---

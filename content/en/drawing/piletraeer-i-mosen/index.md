@@ -10,7 +10,7 @@ exPrice: ""
 status: " "
 fileName: "2020-piletraeer-i-mosen.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "piletraeer-i-mosen"
 weight: "90"
 ---

@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2023-winter.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "vinter"
 weight: "140"
 ---

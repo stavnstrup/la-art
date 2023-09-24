@@ -10,7 +10,7 @@ exPrice: "3000"
 status: ""
 fileName: "2019-fald.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "fald"
 weight: "230"
 ---

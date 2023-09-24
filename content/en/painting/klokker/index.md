@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-klokker.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "klokker"
 weight: "90"
 ---

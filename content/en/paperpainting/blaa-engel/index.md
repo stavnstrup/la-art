@@ -10,7 +10,7 @@ exPrice: "700"
 status: "privat"
 fileName: "2022-blue-angel.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "blaa-engel"
 weight: "190"
 ---

@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2022-from-ekkodalen.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "fra-ekkodalen"
 weight: "210"
 ---

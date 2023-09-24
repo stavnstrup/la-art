@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2020-gaas-i-mosen.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "gaas-i-mosen"
 weight: "80"
 ---

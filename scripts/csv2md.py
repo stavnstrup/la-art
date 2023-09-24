@@ -18,7 +18,7 @@ mediafiles = ['LA-ART-data - painting.csv',
 def validated(r):
    return ( str.isnumeric(r["id"]) and r["title"] and str.isnumeric(r["height"]) and
             str.isnumeric(r["width"]) and r["method"] and str.isnumeric(r["year"]) and
-            str.isnumeric(r["price"]) and r["fileName"] and r["medie"] and r["draft"] and
+            str.isnumeric(r["price"]) and r["fileName"] and r["medie"] and r["publish"] and
             r["slug"] and str.isnumeric(r["order"]) )
 
 
@@ -56,7 +56,7 @@ for language in languages:
                     f.write('status: "{0}"\n'.format(row["status"]))
                     f.write('fileName: "{0}"\n'.format(row["fileName"]))
                     f.write('medie: "{0}"\n'.format(row["medie"]))
-                    f.write('draft: "{0}"\n'.format(row["draft"]))
+                    f.write('draft: "{0}"\n'.format(row["publish"] == 'no'))
                     f.write('slug: "{0}"\n'.format(row["slug"]))
                     f.write('weight: "{0}"\n'.format(row["order"]))
                     f.write("---\n")

@@ -10,7 +10,7 @@ exPrice: "350"
 status: ""
 fileName: "2021-le-port.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "le-port"
 weight: "360"
 ---

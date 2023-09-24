@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2023-blue-rocks.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "blue-rocks"
 weight: "220"
 ---

@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-mennesket-og-naturen.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "mennesket-og-naturen"
 weight: "50"
 ---

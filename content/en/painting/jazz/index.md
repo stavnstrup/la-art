@@ -10,7 +10,7 @@ exPrice: "1200"
 status: ""
 fileName: "2023-jazz.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "jazz"
 weight: "160"
 ---

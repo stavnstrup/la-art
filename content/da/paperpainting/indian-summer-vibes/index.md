@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2023-indian-summer-vibes.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "indian-summer-vibes"
 weight: "180"
 ---

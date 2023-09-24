@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-grotte.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "grotte"
 weight: "70"
 ---

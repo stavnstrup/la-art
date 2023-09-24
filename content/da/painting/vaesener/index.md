@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2017-vaesener.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "vaesener"
 weight: "430"
 ---

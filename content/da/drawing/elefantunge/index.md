@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2019-elefantunge.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "elefantunge"
 weight: "40"
 ---

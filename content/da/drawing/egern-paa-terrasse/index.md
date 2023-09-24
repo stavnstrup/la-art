@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-egern-paa-terrasse.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "egern-paa-terrasse"
 weight: "130"
 ---

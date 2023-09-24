@@ -10,7 +10,7 @@ exPrice: "1400"
 status: ""
 fileName: "2008-svaneunge-i-mosen.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "svaneunge-i-mosen"
 weight: "440"
 ---

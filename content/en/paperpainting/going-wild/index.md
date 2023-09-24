@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2022-going-wild.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "going-wild"
 weight: "40"
 ---

@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2023-stoicism.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "stoicism"
 weight: "110"
 ---

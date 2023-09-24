@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-en-rejse.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "en-rejse"
 weight: "190"
 ---

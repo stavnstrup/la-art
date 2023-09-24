@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2019-strudsepar.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "strudsepar"
 weight: "160"
 ---

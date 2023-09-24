@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2015-troldetrae.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "troldetrae"
 weight: "30"
 ---

@@ -10,7 +10,7 @@ exPrice: "850"
 status: ""
 fileName: "2022-harmoni-i-form.jpg"
 medie: "paperpainting"
-draft: "false"
+draft: "False"
 slug: "harmoni-i-form"
 weight: "10"
 ---

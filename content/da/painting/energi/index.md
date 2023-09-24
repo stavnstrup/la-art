@@ -10,7 +10,7 @@ exPrice: "2000"
 status: ""
 fileName: "2023-energi.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "energi"
 weight: "140"
 ---

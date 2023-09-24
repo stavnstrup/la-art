@@ -10,7 +10,7 @@ exPrice: ""
 status: "privat"
 fileName: "2009-komposition.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "komposition"
 weight: "10"
 ---

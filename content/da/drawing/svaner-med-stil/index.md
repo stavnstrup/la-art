@@ -10,7 +10,7 @@ exPrice: ""
 status: ""
 fileName: "2021-svaner-med-stil.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "svaner-med-stil"
 weight: "200"
 ---

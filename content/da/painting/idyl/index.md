@@ -10,7 +10,7 @@ exPrice: "300"
 status: ""
 fileName: "2011-idyl.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "idyl"
 weight: "370"
 ---

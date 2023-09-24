@@ -10,7 +10,7 @@ exPrice: "1200"
 status: ""
 fileName: "2023-relationer.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "relationer"
 weight: "150"
 ---

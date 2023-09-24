@@ -10,7 +10,7 @@ exPrice: "2500"
 status: ""
 fileName: "2021-forunderlig-natur.jpg"
 medie: "painting"
-draft: "false"
+draft: "False"
 slug: "forunderlig-natur"
 weight: "270"
 ---

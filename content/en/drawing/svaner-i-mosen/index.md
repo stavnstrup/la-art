@@ -10,7 +10,7 @@ exPrice: "400"
 status: "privat"
 fileName: "2021-svaner-i-mosen.jpg"
 medie: "drawing"
-draft: "false"
+draft: "False"
 slug: "svaner-i-mosen"
 weight: "210"
 ---
