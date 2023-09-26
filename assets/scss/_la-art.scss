@@ -87,12 +87,13 @@ figure,
 // Customized brand
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: 'Lato';
   color: rgba($color: #000000, $alpha: 0.55);
 }
 
-h2 {
+h2, h3 {
   margin-bottom: 1rem;
 }
 
