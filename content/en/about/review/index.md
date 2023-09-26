@@ -1,8 +1,6 @@
 ---
 title: Reviews
 description: 'Reviews of the art by Lisbeth Aggerbeck'
-
-    
 ---
 
 ### Review in “101 KUNSTNERE 2023/24”  
