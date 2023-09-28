@@ -9,7 +9,7 @@ menu:
 ## Exibitions
 
 - Bellahøj Church, February - Marts 2024
-- Lindehaven, Frederiksberg, July 2023
+- Lindehaven, Frederiksberg, July 2023 - 
 - Frederiksbergdage 2023, June 3, 2023
 - Bellahøj Church, May - July 2023
 - Den gule Villa, Frederiksberg, November 2022 - February 2023
