@@ -14,7 +14,7 @@ contentDir = "content/da"
 defaultContentLanguage = "da"
 defaultContentLanguageInSubdir = false
 
-disableLanguages = ["  "]
+disableLanguages = [" "]
 
 [params]
 showPrices =  false

@@ -18,9 +18,22 @@
       <ul class="navbar-nav mx-auto">
       {{ with site.Menus.main}}
         {{ range . }}
+        {{ if .HasChildren }}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="{{.URL}}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{.Name | upper}} </a>
+          <ul class="dropdown-menu">
+            {{ range .Children }}
+            <li>
+              <a class="dropdown-item" href="{{ .URL }}">{{ .Name | upper}}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </li>
+        {{ else }}
         <li class="nav-item">
           <a class="nav-link" href="{{.URL}}">{{.Name | upper}}</a>
         </li>
+        {{ end }}
         {{ end }}
       {{ end}}
       {{ partial "language-switcher.html" . }}

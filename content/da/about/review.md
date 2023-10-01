@@ -1,6 +1,10 @@
 ---
 title: Anmeldelser
 description: 'Anmeldelser af Lisbeths Aggerbecks kunst'
+menu:
+  main:
+    weight: 2
+    parent: Om
 ---
 
 ### Anmeldelse i “101 KUNSTNERE 2023/24”  
