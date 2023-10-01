@@ -5,7 +5,7 @@ height: 30
 width: 30
 method: "Akryl på lærred"
 year: 2021
-price: "1200"
+price: "500"
 exPrice: "350"
 status: ""
 fileName: "2021-le-port.jpg"
