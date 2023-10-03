@@ -11,6 +11,7 @@ menu:
 
 **Af Tom Jørgensen, kunsthistoriker, kunstanmelder på *Jyllands-Posten* og redaktør af *Kunstavisen*.** 
 
+{{<  figure src="../front-101-artists.jpg" class="left101" >}}
 Billedtitler kan være mere eller mindre præcise og mere eller mindre forklarende. I Lisbeth Aggerbecks tilfælde passer de exceptionelt godt til stemningen i hendes malerier. Ja, faktisk til hele hendes tilgang til kunst.
 
 Tre malerier beviser denne påstand.

@@ -225,3 +225,16 @@ h2, h3 {
     }
   }
 }
+
+.left101 {
+  width: 100%;
+  padding: 0;
+}
+
+@media (min-width: 992px) {
+  .left101 {
+    width: 624px;
+    float: left;
+    margin-right: 24px;
+  }
+}
