@@ -9,7 +9,7 @@ menu:
 ## Exibitions
 
 - Bellahøj Church, February - Marts 2024
-- Brønshøj Library: book reception, exhibition and conversation with art historian Susanne Vestergaard, 27 October 2023
+- Brønshøj Library: book reception, exhibition and conversation with Susanne Vestergaard, MA in Art History, 27 October 2023
 - Lindehaven, Frederiksberg, July 2023 - 
 - Frederiksbergdage 2023, 3 June 2023
 - Bellahøj Church, May - July 2023

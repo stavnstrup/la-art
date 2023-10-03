@@ -9,7 +9,7 @@ menu:
 ## Udstillinger
 
 - Bellahøj Kirke, februar - marts 2024
-- Brønshøj Bibliotek: bogreception, udstilling og samtale med kunsthistoriker Susanne Vestergaard, 27. oktober 2023
+- Brønshøj Bibliotek: bogreception, udstilling og samtale med Susanne Vestergaard, cand.mag. i kunsthistorie,  27. oktober 2023
 - Lindehaven, Frederiksberg, juli 2023 -
 - Frederiksbergdage 2023, 3. juni 2023
 - Bellahøj Kirke, maj - juli 2023
