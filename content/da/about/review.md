@@ -23,3 +23,5 @@ Læst på denne måde passer ”Mennesket og naturen” som fod i hose. Det er d
 Den dobbelthed, der ligger i så mange af Lisbeth Aggerbecks billedtitler, finder man også i ”Legeplads”. Igen, der ligger nok en rigtig fysisk legeplads bag motivet. Men det konkrete maleri og maleriet som sådan bliver også en legeplads for kunstneren, der med et barns nysgerrighed og umiddelbare glæde undersøger omgivelserne, prøver dem af, eksperimenterer, bygger op, river ned, for til slut, nu med den voksne malers sans for den rigtige komposition, at lade maleriet være færdigt. Færdigt på en måde, der forhåbentligt ikke er udtømmende og tør, men lader barnets begejstring og forundring over alt det fantastiske derude være intakt.
 
 Hvis man ser alle Lisbeth Aggerbecks malerier med dette in mente, vil man værdsætte hendes intense blik for og samhørighed med landskabet og naturen. Hendes friske malemåde og stærke naturfølelse vækker genklang hos beskueren, der instinktivt mindes egne oplevelser. Bedre udgangspunkt for en god kunstoplevelse findes vel ikke.
+
+[Se bogen hos forlaget Frydenlund](https://www.frydenlund.dk/101-kunstnere-2023-24-20862)

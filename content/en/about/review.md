@@ -23,3 +23,5 @@ Read in this way, "Man and Nature" fits like a glove. Lisbeth Aggerbeck shows ma
 The duality that lies in so many of Lisbeth Aggerbeck's paintings is also found in "Playground". Again, there is probably a real physical playground behind the motif, but the painting also becomes a playground for the artist who with the curiosity and immediate joy of a child investigates the surroundings, tries them out, experiments, builds them up and tears them down, because in the end, now with the adult painter's sense of the proper composition, lets the painting be finished. All done in a way that isn't exhaustive and boring but leaves the child's excitement and wonder at all the amazing things intact.
 
 Looking at Lisbeth Aggerbeck's paintings with this in mind, you will appreciate her intense study of and cohesiveness in landscape and nature. Her fresh way of painting and intense feelings for nature resonates with the viewer who instinctively recalls their own experiences. There is probably no better starting point for a good art experience.
+
+[See the book at the publisher Frydenlund](https://www.frydenlund.dk/101-kunstnere-2023-24-20862)
