@@ -11,6 +11,7 @@ menu:
 
 **By Tom Jørgensen, art historian, art critic at *Jyllands-Posten* and editor of *Kunstavisen*.**
 
+{{<  figure src="../front-101-artists.jpg" class="left101" >}}
 The titles of paintings may be more or less precise and more or less explanatory. In Lisbeth Aggerbeck's case, the titles fit the mood of her paintings exceptionally well. Yes, in fact her whole approach to art.
 
 Three paintings prove this.
