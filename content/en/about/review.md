@@ -24,4 +24,4 @@ The duality that lies in so many of Lisbeth Aggerbeck's paintings is also found 
 
 Looking at Lisbeth Aggerbeck's paintings with this in mind, you will appreciate her intense study of and cohesiveness in landscape and nature. Her fresh way of painting and intense feelings for nature resonates with the viewer who instinctively recalls their own experiences. There is probably no better starting point for a good art experience.
 
-[See the book at the publisher Frydenlund](https://www.frydenlund.dk/101-kunstnere-2023-24-20862)
+[See the book at the publisher Frydenlund here.](https://www.frydenlund.dk/101-kunstnere-2023-24-20862)
