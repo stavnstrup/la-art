@@ -1,16 +1,16 @@
 ---
-id: 101
-title: "På vej"
+id: 104
+title: "Vandrende and"
 height: 21
 width: 15
 method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "400"
-exPrice: "400"
+exPrice: ""
 status: ""
-fileName: "2023-en-route.jpg"
+fileName: "2023-vandrende-and.jpg"
 medie: "paperpainting"
 draft: "False"
-slug: "paa-vej"
-weight: "140"
+slug: "vandrende-and"
+weight: "203"
 ---

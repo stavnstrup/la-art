@@ -1,16 +1,16 @@
 ---
-id: 101
-title: "På vej"
+id: 105
+title: "Halloween"
 height: 21
 width: 15
 method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "400"
-exPrice: "400"
+exPrice: ""
 status: ""
-fileName: "2023-en-route.jpg"
+fileName: "2023-halloween.jpg"
 medie: "paperpainting"
 draft: "False"
-slug: "paa-vej"
-weight: "140"
+slug: "halloween"
+weight: "206"
 ---
