@@ -24,4 +24,6 @@ Den dobbelthed, der ligger i så mange af Lisbeth Aggerbecks billedtitler, finde
 
 Hvis man ser alle Lisbeth Aggerbecks malerier med dette in mente, vil man værdsætte hendes intense blik for og samhørighed med landskabet og naturen. Hendes friske malemåde og stærke naturfølelse vækker genklang hos beskueren, der instinktivt mindes egne oplevelser. Bedre udgangspunkt for en god kunstoplevelse findes vel ikke.
 
+---
+
 [Se bogen hos forlaget Frydenlund her.](https://www.frydenlund.dk/101-kunstnere-2023-24-20862)
