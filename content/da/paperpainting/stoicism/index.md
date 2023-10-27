@@ -7,7 +7,7 @@ method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "850"
 exPrice: "850"
-status: ""
+status: "privat"
 fileName: "2023-stoicism.jpg"
 medie: "paperpainting"
 draft: "False"
