@@ -9,6 +9,7 @@ menu:
 ## Udstillinger
 
 - Bellahøj Kirke, februar - marts 2024
+- Topsoe - november 2023
 - [Brønshøj Bibliotek: bogreception, udstilling og samtale med Susanne Vestergaard, cand.mag. i kunsthistorie,  27. oktober 2023](https://bibliotek.kk.dk/arrangementer/udstillinger/moed-den-lokale-kunstner-lisbeth-aggerbeck-woll)
 - Lindehaven, Frederiksberg, juli 2023 -
 - Frederiksbergdage 2023, 3. juni 2023
