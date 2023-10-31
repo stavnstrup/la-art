@@ -1,6 +1,6 @@
 ---
 id: 82
-title: "Untitled 2"
+title: ""
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"

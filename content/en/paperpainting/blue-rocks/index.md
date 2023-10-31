@@ -1,6 +1,6 @@
 ---
 id: 99
-title: "Blue Rocks"
+title: ""
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"

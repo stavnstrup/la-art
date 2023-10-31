@@ -1,6 +1,6 @@
 ---
 id: 73
-title: "Harmony in Colour"
+title: ""
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"

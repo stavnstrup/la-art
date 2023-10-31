@@ -1,6 +1,6 @@
 ---
 id: 77
-title: "Autumn"
+title: ""
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"

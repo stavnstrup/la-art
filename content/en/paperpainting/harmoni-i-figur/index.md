@@ -1,6 +1,6 @@
 ---
 id: 74
-title: "Harmony in Shape"
+title: ""
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"

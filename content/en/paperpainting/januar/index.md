@@ -1,12 +1,12 @@
 ---
 id: 88
-title: "January"
+title: "x"
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"
 year: 2023
 price: "750"
-exPrice: ""
+exPrice: "850"
 status: ""
 fileName: "2023-january.jpg"
 medie: "paperpainting"

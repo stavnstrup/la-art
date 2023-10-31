@@ -6,7 +6,7 @@ width: 24
 method: "Akryl på Hahnemühle papir"
 year: 2022
 price: "750"
-exPrice: ""
+exPrice: "850"
 status: ""
 fileName: "2022-going-wild.jpg"
 medie: "paperpainting"

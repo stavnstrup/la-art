@@ -1,6 +1,6 @@
 ---
 id: 92
-title: "Stoicism"
+title: ""
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"

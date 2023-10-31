@@ -1,6 +1,6 @@
 ---
 id: 105
-title: "Halloween"
+title: ""
 height: 21
 width: 15
 method: "Acrylic on Hahnemühle paper"

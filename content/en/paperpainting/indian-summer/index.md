@@ -1,6 +1,6 @@
 ---
 id: 76
-title: "Indian Summer"
+title: ""
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"

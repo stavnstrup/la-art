@@ -1,6 +1,6 @@
 ---
 id: 89
-title: "Tuscany"
+title: ""
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"

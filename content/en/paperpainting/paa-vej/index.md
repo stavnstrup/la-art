@@ -1,6 +1,6 @@
 ---
 id: 101
-title: "En Route"
+title: ""
 height: 21
 width: 15
 method: "Acrylic on Hahnemühle paper"

@@ -1,6 +1,6 @@
 ---
 id: 85
-title: "New Year"
+title: ""
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"
