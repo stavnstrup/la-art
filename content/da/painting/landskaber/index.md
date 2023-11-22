@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2022
 price: "3200"
 exPrice: "3000"
-status: ""
+status: "privat"
 fileName: "2022-landskaber.jpg"
 medie: "painting"
 draft: "False"
