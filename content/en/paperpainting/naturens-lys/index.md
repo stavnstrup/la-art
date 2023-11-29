@@ -1,6 +1,6 @@
 ---
 id: 97
-title: ""
+title: "The light of Nature"
 height: 17
 width: 23
 method: "Acrylic on paper in frame and glass"

@@ -1,6 +1,6 @@
 ---
 id: 90
-title: ""
+title: "From Ekkodalen"
 height: 30
 width: 30
 method: "Acrylic on Hahnemühle paper"

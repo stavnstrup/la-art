@@ -1,6 +1,6 @@
 ---
 id: 69
-title: ""
+title: "Elephant in Sunlight"
 height: 42,5
 width: 49,5
 method: "Acrylic on paper in frame and glass"

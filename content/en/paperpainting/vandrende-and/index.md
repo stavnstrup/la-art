@@ -1,6 +1,6 @@
 ---
 id: 104
-title: ""
+title: "Walking Duck"
 height: 21
 width: 15
 method: "Acrylic on Hahnemühle paper"

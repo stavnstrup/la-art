@@ -1,6 +1,6 @@
 ---
 id: 87
-title: ""
+title: "Winter"
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"

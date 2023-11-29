@@ -1,6 +1,6 @@
 ---
 id: 79
-title: ""
+title: "Wilderness"
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"

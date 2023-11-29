@@ -1,6 +1,6 @@
 ---
 id: 88
-title: "x"
+title: "January"
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"

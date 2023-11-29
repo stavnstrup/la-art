@@ -1,6 +1,6 @@
 ---
 id: 102
-title: ""
+title: "Whirlwind"
 height: 15
 width: 21
 method: "Acrylic on Hahnemühle paper"

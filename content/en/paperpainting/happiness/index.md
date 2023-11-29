@@ -1,6 +1,6 @@
 ---
 id: 80
-title: ""
+title: "Happiness"
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"

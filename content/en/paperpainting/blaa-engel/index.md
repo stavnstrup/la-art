@@ -1,6 +1,6 @@
 ---
 id: 78
-title: ""
+title: "Blue Angel"
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"

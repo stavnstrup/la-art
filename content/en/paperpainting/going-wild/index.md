@@ -1,6 +1,6 @@
 ---
 id: 75
-title: "x"
+title: "Going wild"
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"

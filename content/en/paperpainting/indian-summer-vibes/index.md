@@ -1,6 +1,6 @@
 ---
 id: 100
-title: "x"
+title: "Indian Summer Vibes"
 height: 24
 width: 32
 method: "Acrylic on Hahnemühle paper"
