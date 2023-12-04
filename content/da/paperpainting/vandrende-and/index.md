@@ -7,7 +7,7 @@ method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "400"
 exPrice: ""
-status: ""
+status: "privat"
 fileName: "2023-vandrende-and.jpg"
 medie: "paperpainting"
 draft: "False"
