@@ -1,16 +1,16 @@
 ---
-id: 99
-title: "Blue Rocks"
+id: 106
+title: "Rendez-vous"
 height: 32
 width: 24
 method: "Akryl på Hahnemühle papir"
 year: 2023
 price: ""
-exPrice: ""
-status: "privat"
-fileName: "2023-blue-rocks.jpg"
+exPrice: "850"
+status: ""
+fileName: "2023-rendez-vous.jpg"
 medie: "paperpainting"
 draft: "False"
-slug: "blue-rocks"
-weight: "300"
+slug: "rendez-vous"
+weight: "130"
 ---
