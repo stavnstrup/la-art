@@ -3,7 +3,7 @@ id: 106
 title: "Rendez-vous"
 height: 32
 width: 24
-method: "Akryl på Hahnemühle papir"
+method: "Acrylic on Hahnemühle paper"
 year: 2023
 price: ""
 exPrice: "850"
