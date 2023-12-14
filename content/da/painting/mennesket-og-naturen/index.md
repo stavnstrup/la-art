@@ -7,7 +7,7 @@ method: "Akryl på lærred"
 year: 2021
 price: "5200"
 exPrice: "4500"
-status: ""
+status: "privat"
 fileName: "2021-mennesket-og-naturen.jpg"
 medie: "painting"
 draft: "False"
