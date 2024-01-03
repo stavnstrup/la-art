@@ -6,7 +6,7 @@ width: 26
 method: "Farveblyant på papir"
 year: 2020
 price: "900"
-exPrice: ""
+exPrice: "950"
 status: ""
 fileName: "2020-klippesten-i-aarsdale.jpg"
 medie: "drawing"

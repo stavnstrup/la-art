@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2018
 price: "2300"
-exPrice: ""
+exPrice: "1800"
 status: ""
 fileName: "2018-fortryllet.jpg"
 medie: "painting"

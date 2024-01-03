@@ -6,7 +6,7 @@ width: 60
 method: "Oil on canvas"
 year: 2010
 price: "2800"
-exPrice: ""
+exPrice: "2300"
 status: ""
 fileName: "2010-planteriget.jpg"
 medie: "painting"

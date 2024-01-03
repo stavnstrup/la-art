@@ -6,7 +6,7 @@ width: 31,5
 method: "Caran d'Ache på papir"
 year: 2019
 price: "800"
-exPrice: ""
+exPrice: "850"
 status: ""
 fileName: "2019-liggende-strudsepar.jpg"
 medie: "drawing"

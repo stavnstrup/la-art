@@ -6,7 +6,7 @@ width: 23
 method: "Pencil on paper"
 year: 2021
 price: "700"
-exPrice: "300"
+exPrice: "750"
 status: ""
 fileName: "2021-daadyr-i-dyrehaven.jpg"
 medie: "drawing"

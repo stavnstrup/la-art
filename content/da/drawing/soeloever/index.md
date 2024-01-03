@@ -6,7 +6,7 @@ width: 17
 method: "Blyant på papir"
 year: 2020
 price: "600"
-exPrice: "250"
+exPrice: "650"
 status: ""
 fileName: "2020-soeloever.jpg"
 medie: "drawing"

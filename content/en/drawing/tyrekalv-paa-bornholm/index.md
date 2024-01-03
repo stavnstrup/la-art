@@ -6,7 +6,7 @@ width: 23
 method: "Pencil on paper"
 year: 2020
 price: "600"
-exPrice: "250"
+exPrice: "650"
 status: ""
 fileName: "2020-tyrekalv-paa-bornholm.jpg"
 medie: "drawing"

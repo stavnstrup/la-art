@@ -6,7 +6,7 @@ width: 23
 method: "Caran d'Ache på papir"
 year: 2021
 price: "800"
-exPrice: "300"
+exPrice: "950"
 status: ""
 fileName: "2021-figurer.jpg"
 medie: "drawing"

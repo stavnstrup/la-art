@@ -6,7 +6,7 @@ width: 50
 method: "Akryl på lærred"
 year: 2022
 price: "2300"
-exPrice: "1700"
+exPrice: "2000"
 status: ""
 fileName: "2022-blaa.jpg"
 medie: "painting"

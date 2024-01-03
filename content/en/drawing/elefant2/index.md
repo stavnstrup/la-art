@@ -6,7 +6,7 @@ width: 31,5
 method: "Pencil on paper"
 year: 2019
 price: "1200"
-exPrice: ""
+exPrice: "850"
 status: ""
 fileName: "2019-elefant2.jpg"
 medie: "drawing"
