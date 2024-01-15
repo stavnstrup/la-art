@@ -6,7 +6,7 @@ width: 31,5
 method: "Caran d'Ache on paper"
 year: 2019
 price: "800"
-exPrice: "850"
+exPrice: "750"
 status: ""
 fileName: "2019-liggende-strudsepar.jpg"
 medie: "drawing"

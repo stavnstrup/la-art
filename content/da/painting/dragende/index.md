@@ -12,5 +12,5 @@ fileName: "2023-dragende.jpg"
 medie: "painting"
 draft: "False"
 slug: "dragende"
-weight: "75"
+weight: "80"
 ---

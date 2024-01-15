@@ -12,5 +12,5 @@ fileName: "2023-jazz.jpg"
 medie: "painting"
 draft: "False"
 slug: "jazz"
-weight: "170"
+weight: "180"
 ---
