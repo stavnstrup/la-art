@@ -11,7 +11,7 @@ Kontakt mig på mobil eller mail, hvis du er interesseret i at købe et værk, d
 
 ### Kunstforeninger og virksomheder
 
-Hvis din kunstforening eller virksomhed ønsker en udstilling, aftaler vi nærmere mht. tidspunkt, varighed og det minimumsbeløb, I ønsker at købe for (normalt 4-5000 kr.). Jeg vil kunne stille 15-20 malerier til rådighed i forskellig størrelse.
+Hvis din kunstforening eller virksomhed ønsker en udstilling, aftaler vi nærmere mht. tidspunkt, varighed og det minimumsbeløb, I ønsker at købe for (normalt 8-10.000 kr.). Jeg vil kunne stille 20-25 malerier til rådighed i forskellig størrelse.
 
   
   
