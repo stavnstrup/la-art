@@ -19,8 +19,10 @@ cascade:
 
 ## Brug af label ark
 
-Label er designet til APLI reference 02793.
+Label er designet til APLI reference 02793 (kan ikke længere anskaffes), men virker også på APLI reference 10608.
 
-Hvert kort er 90 x 50,8 mm og der er 10 kort på et ark.
+Hvert kort er 90 x 50,8 mm, vejer 200 g/m2 og der er 10 kort på et ark.
+
+Printer model brugt (XEROX VersaLink C7100) - Rum: HVI-B-0.420.
 
 Når labels skal printes ud skal forsiden vende nedad i bakke 5 og toppen af siden skal vende ind mod væggen.
