@@ -12,5 +12,5 @@ fileName: "2021-universer.jpg"
 medie: "painting"
 draft: "False"
 slug: "universer"
-weight: "220"
+weight: "240"
 ---
