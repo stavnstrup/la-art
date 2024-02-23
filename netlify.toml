@@ -2,7 +2,7 @@
 publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.121.2"
+HUGO_VERSION = "0.123.2"
 
 
 # adding in headers to prevent clickjacking
