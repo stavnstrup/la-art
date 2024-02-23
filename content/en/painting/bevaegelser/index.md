@@ -7,7 +7,7 @@ method: "Oil on framed canvas"
 year: 2010
 price: "4500"
 exPrice: "3500"
-status: ""
+status: "privat"
 fileName: "2010-bevaegelser.jpg"
 medie: "painting"
 draft: "False"
