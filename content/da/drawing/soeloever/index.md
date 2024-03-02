@@ -1,6 +1,6 @@
 ---
 id: 39
-title: "Søløver"
+title: "Søløver i Zoo"
 height: 23
 width: 17
 method: "Blyant på papir"

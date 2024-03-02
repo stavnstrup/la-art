@@ -1,6 +1,6 @@
 ---
 id: 39
-title: "Sea lions"
+title: "Sea lions in Zoo"
 height: 23
 width: 17
 method: "Pencil on paper"
