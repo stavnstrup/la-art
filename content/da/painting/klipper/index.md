@@ -6,7 +6,7 @@ width: 60
 method: "Olie på lærred"
 year: 2015
 price: "3200"
-exPrice: ""
+exPrice: "2500"
 status: ""
 fileName: "2010-klipper.jpg"
 medie: "painting"
