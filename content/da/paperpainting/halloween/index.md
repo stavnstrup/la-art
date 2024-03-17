@@ -1,8 +1,8 @@
 ---
 id: 105
 title: "Halloween"
-height: 21
-width: 15
+height: 15
+width: 21
 method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "400"
