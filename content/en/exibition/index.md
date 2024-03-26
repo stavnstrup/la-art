@@ -8,7 +8,7 @@ menu:
 
 ## Exibitions
 
-- Gallery Lowlands, June 2024
+- [Gallery Lowlands, Rørholmsgade 2B, Copenhagen, June 2024](https://gallerylowlands.dk/)
 - [Bellahøj Church, February - Marts 2024](https://landing.churchdesk.com/da/b/138155/ny-kunstudstilling-med-lisbeth-aggerbeck)
 - Topsoe A/S, November - December 2023
 - Brønshøj Library: book reception, exhibition and conversation with Susanne Vestergaard, MA in Art History, 27 October 2023
