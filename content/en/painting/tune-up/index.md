@@ -5,8 +5,8 @@ height: 60
 width: 50
 method: "Acrylic on canvas"
 year: 2024
-price: "2700"
-exPrice: ""
+price: "3200"
+exPrice: "3200"
 status: ""
 fileName: "2024-tune-up.jpg"
 medie: "painting"
