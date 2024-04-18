@@ -12,5 +12,5 @@ fileName: "2024-royal-blue.jpg"
 medie: "painting"
 draft: "False"
 slug: "royal-blue"
-weight: "210"
+weight: "240"
 ---

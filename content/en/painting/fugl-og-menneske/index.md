@@ -12,5 +12,5 @@ fileName: "2024-bird-and-man.jpg"
 medie: "painting"
 draft: "False"
 slug: "fugl-og-menneske"
-weight: "190"
+weight: "210"
 ---

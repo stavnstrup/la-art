@@ -12,5 +12,5 @@ fileName: "2022-blaa.jpg"
 medie: "painting"
 draft: "False"
 slug: "blaa"
-weight: "380"
+weight: "410"
 ---

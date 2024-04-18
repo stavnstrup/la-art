@@ -12,5 +12,5 @@ fileName: "2022-forbindelser.jpg"
 medie: "painting"
 draft: "False"
 slug: "forbindelser"
-weight: "250"
+weight: "280"
 ---

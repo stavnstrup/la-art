@@ -12,5 +12,5 @@ fileName: "2023-naturens-lys.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "naturens-lys"
-weight: "270"
+weight: "290"
 ---

@@ -12,5 +12,5 @@ fileName: "2019-skovbund.jpg"
 medie: "painting"
 draft: "False"
 slug: "skovbund"
-weight: "220"
+weight: "260"
 ---

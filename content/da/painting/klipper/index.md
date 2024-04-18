@@ -12,5 +12,5 @@ fileName: "2010-klipper.jpg"
 medie: "painting"
 draft: "False"
 slug: "klipper"
-weight: "300"
+weight: "330"
 ---
