@@ -1,16 +1,16 @@
 ---
-id: 76
-title: "Indian Summer"
+id: 116
+title: "Playful Piece"
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"
-year: 2022
-price: "750"
+year: 2023
+price: "1100"
 exPrice: "1100"
 status: ""
-fileName: "2022-indian-summer.jpg"
+fileName: "2024-playful-piece.jpg"
 medie: "paperpainting"
 draft: "False"
-slug: "indian-summer"
-weight: "90"
+slug: "playful-piece"
+weight: "155"
 ---

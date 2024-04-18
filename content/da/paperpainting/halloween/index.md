@@ -6,7 +6,7 @@ width: 21
 method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "400"
-exPrice: ""
+exPrice: "400"
 status: ""
 fileName: "2023-halloween.jpg"
 medie: "paperpainting"

@@ -5,7 +5,7 @@ height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"
 year: 2023
-price: ""
+price: "750"
 exPrice: ""
 status: "privat"
 fileName: "2023-blue-rocks.jpg"

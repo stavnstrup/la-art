@@ -5,8 +5,8 @@ height: 17
 width: 23
 method: "Acrylic on paper in frame and glass"
 year: 2023
-price: ""
-exPrice: "250"
+price: "350"
+exPrice: "300"
 status: ""
 fileName: "2023-naturens-lys.jpg"
 medie: "paperpainting"
