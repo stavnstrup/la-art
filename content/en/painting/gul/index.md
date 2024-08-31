@@ -12,5 +12,5 @@ fileName: "2021-gul.jpg"
 medie: "painting"
 draft: "False"
 slug: "gul"
-weight: "150"
+weight: "175"
 ---
