@@ -7,7 +7,7 @@ method: "Acrylic on canvas"
 year: 2018
 price: "1500"
 exPrice: ""
-status: ""
+status: "privat"
 fileName: "2018-triptykon.jpg"
 medie: "painting"
 draft: "False"

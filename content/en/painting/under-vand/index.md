@@ -7,7 +7,7 @@ method: "Acrylic on canvas"
 year: 2021
 price: "6200"
 exPrice: ""
-status: ""
+status: "privat"
 fileName: "2021-under-vand.jpg"
 medie: "painting"
 draft: "False"
