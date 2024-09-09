@@ -6,7 +6,7 @@ width: 32
 method: "Akryl på Hahnemühle papir"
 year: 2022
 price: "750"
-exPrice: "1100"
+exPrice: "1000"
 status: "privat"
 fileName: "2022-untitled-1.jpg"
 medie: "paperpainting"
