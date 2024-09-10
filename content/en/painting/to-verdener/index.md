@@ -12,5 +12,5 @@ fileName: "2022-to-verdener.jpg"
 medie: "painting"
 draft: "False"
 slug: "to-verdener"
-weight: "320"
+weight: "330"
 ---

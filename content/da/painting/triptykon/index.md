@@ -12,5 +12,5 @@ fileName: "2018-triptykon.jpg"
 medie: "painting"
 draft: "False"
 slug: "triptykon"
-weight: "400"
+weight: "410"
 ---

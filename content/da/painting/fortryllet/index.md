@@ -12,5 +12,5 @@ fileName: "2018-fortryllet.jpg"
 medie: "painting"
 draft: "False"
 slug: "fortryllet"
-weight: "230"
+weight: "240"
 ---

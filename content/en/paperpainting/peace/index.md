@@ -12,5 +12,5 @@ fileName: "2023-peace.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "peace"
-weight: "200"
+weight: "210"
 ---

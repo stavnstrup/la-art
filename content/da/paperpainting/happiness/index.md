@@ -7,7 +7,7 @@ method: "Akryl på Hahnemühle papir"
 year: 2022
 price: "750"
 exPrice: "1100"
-status: ""
+status: "privat"
 fileName: "2022-happiness.jpg"
 medie: "paperpainting"
 draft: "False"

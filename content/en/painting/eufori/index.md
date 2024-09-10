@@ -12,5 +12,5 @@ fileName: "2021-eufori.jpg"
 medie: "painting"
 draft: "False"
 slug: "eufori"
-weight: "350"
+weight: "360"
 ---
