@@ -6,7 +6,7 @@ width: 50
 method: "Akryl på lærred"
 year: 2021
 price: "3300"
-exPrice: ""
+exPrice: "3300"
 status: ""
 fileName: "2021-universer.jpg"
 medie: "painting"

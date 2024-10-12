@@ -7,7 +7,7 @@ method: "Akryl på Hahnemühle papir"
 year: 2024
 price: "850"
 exPrice: "1100"
-status: ""
+status: "privat"
 fileName: "2024-orange-moon.jpg"
 medie: "paperpainting"
 draft: "False"
