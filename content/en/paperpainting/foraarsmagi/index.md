@@ -5,12 +5,12 @@ height: 25
 width: 19
 method: "Acrylic on Hahnemühle paper"
 year: 2024
-price: "400"
-exPrice: ""
+price: "350"
+exPrice: "350"
 status: ""
 fileName: "2024-foraarsmagi.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "foraarsmagi"
-weight: "230"
+weight: "250"
 ---

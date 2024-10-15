@@ -12,5 +12,5 @@ fileName: "2023-foraar.jpg"
 medie: "painting"
 draft: "False"
 slug: "foraar"
-weight: "170"
+weight: "180"
 ---

@@ -6,7 +6,7 @@ width: 31,5
 method: "Blyant på papir"
 year: 2019
 price: "1200"
-exPrice: ""
+exPrice: "750"
 status: ""
 fileName: "2019-elefant1.jpg"
 medie: "drawing"

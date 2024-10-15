@@ -6,7 +6,7 @@ width: 42
 method: "Caran d'Ache on paper"
 year: 2019
 price: "1200"
-exPrice: ""
+exPrice: "850"
 status: ""
 fileName: "2019-elefantunge.jpg"
 medie: "drawing"

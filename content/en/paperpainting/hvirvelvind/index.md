@@ -12,5 +12,5 @@ fileName: "2023-whirlwind.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "hvirvelvind"
-weight: "300"
+weight: "320"
 ---

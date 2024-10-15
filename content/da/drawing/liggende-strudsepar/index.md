@@ -12,5 +12,5 @@ fileName: "2019-liggende-strudsepar.jpg"
 medie: "drawing"
 draft: "False"
 slug: "liggende-strudsepar"
-weight: "170"
+weight: "160"
 ---

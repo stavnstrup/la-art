@@ -12,5 +12,5 @@ fileName: "2020-gaas-i-mosen.jpg"
 medie: "drawing"
 draft: "False"
 slug: "gaas-i-mosen"
-weight: "80"
+weight: "70"
 ---

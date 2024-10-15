@@ -12,5 +12,5 @@ fileName: "2020-traestammer.jpg"
 medie: "drawing"
 draft: "False"
 slug: "traestammer"
-weight: "150"
+weight: "140"
 ---

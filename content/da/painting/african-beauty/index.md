@@ -12,5 +12,5 @@ fileName: "2024-african-beauty.jpg"
 medie: "painting"
 draft: "False"
 slug: "african-beauty"
-weight: "150"
+weight: "160"
 ---

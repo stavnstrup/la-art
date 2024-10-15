@@ -12,5 +12,5 @@ fileName: "2022-landskaber.jpg"
 medie: "painting"
 draft: "False"
 slug: "landskaber"
-weight: "110"
+weight: "120"
 ---

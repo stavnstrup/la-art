@@ -12,5 +12,5 @@ fileName: "2020-dreng-ved-vesterhavet.jpg"
 medie: "drawing"
 draft: "False"
 slug: "dreng-ved-vesterhavet"
-weight: "240"
+weight: "260"
 ---

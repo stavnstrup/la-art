@@ -12,5 +12,5 @@ fileName: "2020-gibson.jpg"
 medie: "drawing"
 draft: "False"
 slug: "gibson"
-weight: "280"
+weight: "300"
 ---

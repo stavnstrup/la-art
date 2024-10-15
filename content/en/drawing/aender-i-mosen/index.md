@@ -12,5 +12,5 @@ fileName: "2020-aender-i-mosen.jpg"
 medie: "drawing"
 draft: "False"
 slug: "aender-i-mosen"
-weight: "60"
+weight: "50"
 ---

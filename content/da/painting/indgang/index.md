@@ -12,5 +12,5 @@ fileName: "2021-indgang.jpg"
 medie: "painting"
 draft: "False"
 slug: "indgang"
-weight: "320"
+weight: "330"
 ---

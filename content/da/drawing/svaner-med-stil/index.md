@@ -6,11 +6,11 @@ width: 23
 method: "Farveblyant på papir"
 year: 2021
 price: "700"
-exPrice: ""
+exPrice: "750"
 status: ""
 fileName: "2021-svaner-med-stil.jpg"
 medie: "drawing"
 draft: "False"
 slug: "svaner-med-stil"
-weight: "200"
+weight: "190"
 ---

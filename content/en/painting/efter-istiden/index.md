@@ -6,11 +6,11 @@ width: 60
 method: "Oil on canvas"
 year: 2015
 price: "3200"
-exPrice: "3500"
+exPrice: "3000"
 status: ""
 fileName: "2015-efter-istiden.jpg"
 medie: "painting"
 draft: "False"
 slug: "efter-istiden"
-weight: "90"
+weight: "100"
 ---

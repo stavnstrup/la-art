@@ -5,12 +5,12 @@ height: 21
 width: 15
 method: "Caran d'Ache på papir"
 year: 2024
-price: ""
+price: "350"
 exPrice: "350"
 status: ""
 fileName: "2024-autumn-leaves.jpg"
 medie: "drawing"
 draft: "False"
 slug: "autumn-leaves"
-weight: "235"
+weight: "250"
 ---

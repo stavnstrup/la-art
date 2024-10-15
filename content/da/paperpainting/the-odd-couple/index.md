@@ -12,5 +12,5 @@ fileName: "2024-the-odd-couple.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "the-odd-couple"
-weight: "250"
+weight: "270"
 ---
