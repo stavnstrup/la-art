@@ -8,8 +8,10 @@ menu:
 
 ## Udstillinger
 
-- [Gallery Lowlands, Rørholmsgade 2B, København Ø., 2-23 juni 2024](https://gallerylowlands.dk/)
-- [Bellahøj Kirke, februar - marts 2024](https://landing.churchdesk.com/da/b/138155/ny-kunstudstilling-med-lisbeth-aggerbeck)
+- Københavns Bridge Klub, 25. oktober 2024 - 1. februar 2025
+- Café Cosmo, Holks Plads 1, Brønshøj, 23. oktober 2024 -
+- [Gallery Lowlands, juni 2024](https://gallerylowlands.dk/)
+- Bellahøj Kirke, februar - marts 2024
 - Topsoe A/S, november - december 2023
 - Brønshøj Bibliotek: bogreception, udstilling og samtale med Susanne Vestergaard, cand.mag. i kunsthistorie,  27. oktober 2023
 - Lindehaven, Frederiksberg, juli 2023 -
