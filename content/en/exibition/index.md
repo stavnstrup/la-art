@@ -9,7 +9,7 @@ menu:
 ## Exibitions
 
 - Copenhagen Bridge Club, 25. October 2024 - 1. February 2025
-- Café Cosmo, Holks Plads 1, Brønshøj, 23. October 2024 -
+- Café Cosmo, Holcks Plads 1, Brønshøj, 23. October 2024 -
 - [Gallery Lowlands, June 2024](https://gallerylowlands.dk/)
 - Bellahøj Church, February - March 2024
 - Topsoe A/S, November - December 2023
