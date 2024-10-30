@@ -6,7 +6,7 @@ width: 23
 method: "Caran d'Ache on paper"
 year: 2021
 price: "800"
-exPrice: "750"
+exPrice: "550"
 status: ""
 fileName: "2021-figurer.jpg"
 medie: "drawing"

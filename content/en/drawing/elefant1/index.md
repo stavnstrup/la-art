@@ -7,7 +7,7 @@ method: "Pencil on paper"
 year: 2019
 price: "1200"
 exPrice: "750"
-status: ""
+status: "privat"
 fileName: "2019-elefant1.jpg"
 medie: "drawing"
 draft: "False"
