@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="law-favicon.svg"
+   inkscape:export-filename="law-favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.16"
+     inkscape:cx="241.81034"
+     inkscape:cy="291.37931"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1"
+     showgrid="false"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="-193.40997"
+       y="28.185372"
+       width="58.314563"
+       height="73.865114"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Background"
+     style="display:none">
+    <rect
+       style="fill:#c83737;fill-opacity:0.88382239;stroke-width:1.15996146"
+       id="rect849"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="1.9868711e-09" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Circles"
+     style="display:inline">
+    <circle
+       style="fill:#10648e;fill-opacity:1;stroke-width:1.19147182"
+       id="path2"
+       cx="67.73333"
+       cy="67.73333"
+       r="67.73333" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="LA as text"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;letter-spacing:-7.40832996px;display:none;fill:#f9f9f9;stroke-width:0.26458299"
+       x="23.189281"
+       y="90.817192"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;letter-spacing:-7.40832996px;stroke-width:0.26458299"
+         x="23.189281"
+         y="90.817192">LA</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1"
+     inkscape:label="LA as Path"
+     style="display:inline">
+    <path
+       d="M 62.377931,94.850302 H 23.259564 V 40.616365 h 13.986455 v 43.744097 h 25.131912 z m 49.829169,0 H 97.747156 L 93.99558,83.886961 H 73.890051 L 70.138476,94.850302 H 56.042752 L 76.075434,40.616365 H 92.174427 Z M 90.608236,73.943466 83.942816,54.493551 77.277396,73.943466 Z"
+       id="text1"
+       style="font-weight:bold;font-size:63.5px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';letter-spacing:-7.40832996px;fill:#f9f9f9;stroke-width:0.3108097"
+       aria-label="LA"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
