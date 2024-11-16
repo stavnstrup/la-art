@@ -40,9 +40,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.16"
-     inkscape:cx="241.81034"
-     inkscape:cy="291.37931"
+     inkscape:zoom="1.6404877"
+     inkscape:cx="317.3234"
+     inkscape:cy="276.70004"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
      inkscape:window-x="67"
@@ -79,7 +79,7 @@
      inkscape:label="Circles"
      style="display:inline">
     <circle
-       style="fill:#10648e;fill-opacity:1;stroke-width:1.19147182"
+       style="fill:#f56118;fill-opacity:1;stroke-width:1.19147182"
        id="path2"
        cx="67.73333"
        cy="67.73333"
@@ -108,7 +108,7 @@
      inkscape:label="LA as Path"
      style="display:inline">
     <path
-       d="M 62.377931,94.850302 H 23.259564 V 40.616365 h 13.986455 v 43.744097 h 25.131912 z m 49.829169,0 H 97.747156 L 93.99558,83.886961 H 73.890051 L 70.138476,94.850302 H 56.042752 L 76.075434,40.616365 H 92.174427 Z M 90.608236,73.943466 83.942816,54.493551 77.277396,73.943466 Z"
+       d="M 67.378367,94.850302 H 28.26 V 40.616365 h 13.986455 v 43.744097 h 25.131912 z m 49.829173,0 H 102.74759 L 98.996016,83.886961 H 78.890487 L 75.138912,94.850302 H 61.043188 L 81.07587,40.616365 H 97.174863 Z M 95.608672,73.943466 88.943252,54.493551 82.277832,73.943466 Z"
        id="text1"
        style="font-weight:bold;font-size:63.5px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';letter-spacing:-7.40832996px;fill:#f9f9f9;stroke-width:0.3108097"
        aria-label="LA"
