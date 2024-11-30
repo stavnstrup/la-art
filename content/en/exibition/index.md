@@ -8,6 +8,7 @@ menu:
 
 ## Exibitions
 
+- Timotheuskirken, Christen Bergs Allé 5, Valby - June 2025
 - Copenhagen Bridge Club, 25. October 2024 - 1. February 2025
 - Café Cosmo, Holcks Plads 1, Brønshøj, 23. October 2024 -
 - [Gallery Lowlands, June 2024](https://gallerylowlands.dk/)
