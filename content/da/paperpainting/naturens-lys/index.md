@@ -3,14 +3,14 @@ id: 97
 title: "Naturens lys"
 height: 17
 width: 23
-method: "Akryl på papir i glas og ramme"
+method: "Akryl på papir "
 year: 2023
 price: "350"
-exPrice: "300"
+exPrice: "350"
 status: ""
 fileName: "2023-naturens-lys.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "naturens-lys"
-weight: "330"
+weight: "370"
 ---

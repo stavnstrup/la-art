@@ -12,5 +12,5 @@ fileName: "2022-efteraar.jpg"
 medie: "paperpainting"
 draft: "True"
 slug: "efteraar"
-weight: "380"
+weight: "420"
 ---

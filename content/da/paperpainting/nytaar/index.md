@@ -12,5 +12,5 @@ fileName: "2022-new-year.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "nytaar"
-weight: "130"
+weight: "170"
 ---

@@ -7,10 +7,10 @@ method: "Acrylic on Hahnemühle paper"
 year: 2024
 price: "1100"
 exPrice: ""
-status: ""
+status: "privat"
 fileName: "2024-novembertanker.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "novembertanker"
-weight: "85"
+weight: "100"
 ---
