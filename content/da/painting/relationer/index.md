@@ -5,8 +5,8 @@ height: 40
 width: 40
 method: "Akryl på lærred"
 year: 2023
-price: "2000"
-exPrice: "1200"
+price: "1500"
+exPrice: "1500"
 status: ""
 fileName: "2023-relationer.jpg"
 medie: "painting"

@@ -5,8 +5,8 @@ height: 50
 width: 70
 method: "Akryl på lærred"
 year: 2021
-price: "3500"
-exPrice: "3500"
+price: "3300"
+exPrice: "3300"
 status: ""
 fileName: "2021-grotte.jpg"
 medie: "painting"
