@@ -12,5 +12,5 @@ fileName: "2010-planteriget.jpg"
 medie: "painting"
 draft: "False"
 slug: "planteriget"
-weight: "510"
+weight: "530"
 ---

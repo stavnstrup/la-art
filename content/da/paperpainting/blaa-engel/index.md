@@ -12,5 +12,5 @@ fileName: "2022-blue-angel.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "blaa-engel"
-weight: "340"
+weight: "350"
 ---

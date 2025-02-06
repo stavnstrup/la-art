@@ -12,5 +12,5 @@ fileName: "2024-abstrakt-landskab.jpg"
 medie: "drawing"
 draft: "False"
 slug: "abstrakt-landskab"
-weight: "210"
+weight: "230"
 ---

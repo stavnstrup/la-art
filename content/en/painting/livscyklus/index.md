@@ -12,5 +12,5 @@ fileName: "2024-livscyklus.jpg"
 medie: "painting"
 draft: "False"
 slug: "livscyklus"
-weight: "85"
+weight: "100"
 ---

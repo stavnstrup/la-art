@@ -12,5 +12,5 @@ fileName: "2019-boern-i-vesterhavet.jpg"
 medie: "drawing"
 draft: "True"
 slug: "boern-i-vesterhavet"
-weight: "310"
+weight: "330"
 ---

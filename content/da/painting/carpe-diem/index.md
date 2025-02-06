@@ -12,5 +12,5 @@ fileName: "2023-carpe-diem.jpg"
 medie: "painting"
 draft: "False"
 slug: "carpe-diem"
-weight: "130"
+weight: "150"
 ---

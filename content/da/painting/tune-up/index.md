@@ -12,5 +12,5 @@ fileName: "2024-tune-up.jpg"
 medie: "painting"
 draft: "False"
 slug: "tune-up"
-weight: "140"
+weight: "160"
 ---

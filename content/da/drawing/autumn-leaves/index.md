@@ -12,5 +12,5 @@ fileName: "2024-autumn-leaves.jpg"
 medie: "drawing"
 draft: "False"
 slug: "autumn-leaves"
-weight: "250"
+weight: "270"
 ---

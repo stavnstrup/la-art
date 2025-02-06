@@ -12,5 +12,5 @@ fileName: "2019-kvinder-i-middelhavet.jpg"
 medie: "drawing"
 draft: "False"
 slug: "kvinder-i-middelhavet"
-weight: "270"
+weight: "290"
 ---

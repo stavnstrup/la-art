@@ -5,7 +5,7 @@ height: 32
 width: 26
 method: "Pencil on paper"
 year: 2020
-price: "900"
+price: "850"
 exPrice: "850"
 status: ""
 fileName: "2020-aender-i-mosen.jpg"

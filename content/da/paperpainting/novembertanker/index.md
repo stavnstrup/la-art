@@ -12,5 +12,5 @@ fileName: "2024-novembertanker.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "novembertanker"
-weight: "100"
+weight: "110"
 ---

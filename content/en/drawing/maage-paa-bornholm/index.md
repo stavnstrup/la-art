@@ -12,5 +12,5 @@ fileName: "2020-maage-paa-bornholm.jpg"
 medie: "drawing"
 draft: "False"
 slug: "maage-paa-bornholm"
-weight: "170"
+weight: "190"
 ---

@@ -12,5 +12,5 @@ fileName: "2024-playful-piece.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "playful-piece"
-weight: "230"
+weight: "240"
 ---

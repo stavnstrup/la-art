@@ -12,5 +12,5 @@ fileName: "2022-christmas.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "jul"
-weight: "260"
+weight: "270"
 ---
