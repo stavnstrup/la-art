@@ -1,8 +1,10 @@
 {
     "exibitionform" : "Udstilling i", 
     "location": "Københavns Bridge Klub",
-    "period": "25 okt 2024 -1 feb 2025",
-    "painting": [8, 14, 103, 108, 112, 115],
-    "paperpainting": [83, 84, 105, 106, 122],
-    "drawing": [30, 31, 34, 36, 39, 45]
+    "period": "25 okt 2024 - 31 mar 2025",
+    "painting": [4, 16, 91, 95, 98, 126, 128],
+    "paperpainting": [83, 89, 122, 136],
+    "drawing": [30, 31, 34, 36, 39, 45],
+    "labelsInclude": [130, 131],
+    "labelsExclude": [83, 89, 122, 30, 31, 34, 36, 39, 45]
 }
