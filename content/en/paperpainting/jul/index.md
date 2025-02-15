@@ -6,7 +6,7 @@ width: 32
 method: "Acrylic on Hahnemühle paper"
 year: 2022
 price: "850"
-exPrice: "1100"
+exPrice: "850"
 status: ""
 fileName: "2022-christmas.jpg"
 medie: "paperpainting"

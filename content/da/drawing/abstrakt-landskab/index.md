@@ -1,6 +1,6 @@
 ---
 id: 123
-title: "Abstrakt Landskab"
+title: "Abstrakt landskab"
 height: 18
 width: 24
 method: "Oliepastel på papir"

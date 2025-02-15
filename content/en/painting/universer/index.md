@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2021
 price: "3300"
-exPrice: "3300"
+exPrice: "2800"
 status: ""
 fileName: "2021-universer.jpg"
 medie: "painting"

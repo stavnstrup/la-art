@@ -6,7 +6,7 @@ width: 24
 method: "Akryl på Hahnemühle papir"
 year: 2024
 price: "1100"
-exPrice: ""
+exPrice: "850"
 status: ""
 fileName: "2024-nature-boy.jpg"
 medie: "paperpainting"

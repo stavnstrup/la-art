@@ -6,7 +6,7 @@ width: 40
 method: "Akryl på lærred"
 year: 2024
 price: "1600"
-exPrice: "1600"
+exPrice: "1200"
 status: ""
 fileName: "2024-african-beauty.jpg"
 medie: "painting"

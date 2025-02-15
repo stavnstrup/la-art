@@ -6,7 +6,7 @@ width: 15
 method: "Oil pastel on paper"
 year: 2024
 price: "350"
-exPrice: "350"
+exPrice: "300"
 status: ""
 fileName: "2024-middelhavsblaa.jpg"
 medie: "drawing"

@@ -6,7 +6,7 @@ width: 40
 method: "Acrylic on canvas"
 year: 2021
 price: "3000"
-exPrice: ""
+exPrice: "1500"
 status: ""
 fileName: "2021-klokker.jpg"
 medie: "painting"

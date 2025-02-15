@@ -6,7 +6,7 @@ width: 24
 method: "Acrylic on Hahnemühle paper"
 year: 2024
 price: "1100"
-exPrice: "1100"
+exPrice: "850"
 status: ""
 fileName: "2024-soft-tones.jpg"
 medie: "paperpainting"
