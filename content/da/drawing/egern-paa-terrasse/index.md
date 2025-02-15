@@ -12,5 +12,5 @@ fileName: "2021-egern-paa-terrasse.jpg"
 medie: "drawing"
 draft: "False"
 slug: "egern-paa-terrasse"
-weight: "120"
+weight: "160"
 ---

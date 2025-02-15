@@ -12,5 +12,5 @@ fileName: "2024-indtryk-fra-nice.jpg"
 medie: "drawing"
 draft: "False"
 slug: "indtryk-fra-nice"
-weight: "170"
+weight: "10"
 ---

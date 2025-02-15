@@ -12,5 +12,5 @@ fileName: "2020-piletraeer-i-mosen.jpg"
 medie: "drawing"
 draft: "False"
 slug: "piletraeer-i-mosen"
-weight: "80"
+weight: "120"
 ---

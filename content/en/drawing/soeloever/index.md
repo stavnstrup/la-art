@@ -12,5 +12,5 @@ fileName: "2020-soeloever.jpg"
 medie: "drawing"
 draft: "False"
 slug: "soeloever"
-weight: "100"
+weight: "140"
 ---

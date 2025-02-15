@@ -12,5 +12,5 @@ fileName: "2025-os-to.jpg"
 medie: "drawing"
 draft: "False"
 slug: "os-to"
-weight: "185"
+weight: "30"
 ---

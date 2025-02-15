@@ -12,5 +12,5 @@ fileName: "2021-rummet.jpg"
 medie: "drawing"
 draft: "False"
 slug: "rummet"
-weight: "260"
+weight: "300"
 ---

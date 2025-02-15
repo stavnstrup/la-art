@@ -12,5 +12,5 @@ fileName: "2021-svaner-med-stil.jpg"
 medie: "drawing"
 draft: "False"
 slug: "svaner-med-stil"
-weight: "210"
+weight: "240"
 ---

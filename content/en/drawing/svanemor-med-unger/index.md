@@ -12,5 +12,5 @@ fileName: "2025-svanemor-med-unger.jpg"
 medie: "drawing"
 draft: "False"
 slug: "svanemor-med-unger"
-weight: "188"
+weight: "220"
 ---

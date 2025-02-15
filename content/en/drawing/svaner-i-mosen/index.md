@@ -12,5 +12,5 @@ fileName: "2021-svaner-i-mosen.jpg"
 medie: "drawing"
 draft: "False"
 slug: "svaner-i-mosen"
-weight: "220"
+weight: "230"
 ---

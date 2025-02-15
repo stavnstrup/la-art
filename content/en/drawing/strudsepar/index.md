@@ -12,5 +12,5 @@ fileName: "2019-strudsepar.jpg"
 medie: "drawing"
 draft: "False"
 slug: "strudsepar"
-weight: "150"
+weight: "190"
 ---

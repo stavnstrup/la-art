@@ -12,5 +12,5 @@ fileName: "2020-sovende-klippesten.jpg"
 medie: "drawing"
 draft: "False"
 slug: "sovende-klippesten"
-weight: "110"
+weight: "150"
 ---

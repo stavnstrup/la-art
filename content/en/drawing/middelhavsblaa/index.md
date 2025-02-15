@@ -12,5 +12,5 @@ fileName: "2024-middelhavsblaa.jpg"
 medie: "drawing"
 draft: "False"
 slug: "middelhavsblaa"
-weight: "180"
+weight: "20"
 ---

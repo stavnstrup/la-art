@@ -12,5 +12,5 @@ fileName: "2019-elefant1.jpg"
 medie: "drawing"
 draft: "False"
 slug: "elefant1"
-weight: "10"
+weight: "50"
 ---

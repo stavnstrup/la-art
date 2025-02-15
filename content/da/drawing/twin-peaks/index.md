@@ -12,5 +12,5 @@ fileName: "2025-twin-peaks.jpg"
 medie: "drawing"
 draft: "False"
 slug: "twin-peaks"
-weight: "186"
+weight: "40"
 ---

@@ -12,5 +12,5 @@ fileName: "2025-svanehan.jpg"
 medie: "drawing"
 draft: "False"
 slug: "svanehan"
-weight: "187"
+weight: "210"
 ---

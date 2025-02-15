@@ -12,5 +12,5 @@ fileName: "2021-daadyr-i-dyrehaven.jpg"
 medie: "drawing"
 draft: "False"
 slug: "daadyr-i-dyrehaven"
-weight: "130"
+weight: "170"
 ---

@@ -12,5 +12,5 @@ fileName: "2020-tyrekalv-paa-bornholm.jpg"
 medie: "drawing"
 draft: "False"
 slug: "tyrekalv-paa-bornholm"
-weight: "200"
+weight: "260"
 ---

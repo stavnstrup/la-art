@@ -12,5 +12,5 @@ fileName: "2019-gammel-hunelefant.jpg"
 medie: "drawing"
 draft: "False"
 slug: "gammel-hunelefant"
-weight: "310"
+weight: "350"
 ---

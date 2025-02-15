@@ -12,5 +12,5 @@ fileName: "2020-klippesten-i-aarsdale.jpg"
 medie: "drawing"
 draft: "False"
 slug: "klippesten-i-aarsdale"
-weight: "90"
+weight: "130"
 ---

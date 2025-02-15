@@ -12,5 +12,5 @@ fileName: "2024-step-by-step.jpg"
 medie: "drawing"
 draft: "False"
 slug: "step-by-step"
-weight: "250"
+weight: "290"
 ---

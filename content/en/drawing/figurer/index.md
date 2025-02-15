@@ -12,5 +12,5 @@ fileName: "2021-figurer.jpg"
 medie: "drawing"
 draft: "False"
 slug: "figurer"
-weight: "240"
+weight: "280"
 ---

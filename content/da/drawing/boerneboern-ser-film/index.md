@@ -12,5 +12,5 @@ fileName: "2019-boerneboern-ser-film.jpg"
 medie: "drawing"
 draft: "True"
 slug: "boerneboern-ser-film"
-weight: "300"
+weight: "340"
 ---

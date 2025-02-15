@@ -12,5 +12,5 @@ fileName: "2019-elefantunge.jpg"
 medie: "drawing"
 draft: "False"
 slug: "elefantunge"
-weight: "40"
+weight: "80"
 ---

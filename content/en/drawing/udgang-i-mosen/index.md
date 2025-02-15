@@ -12,5 +12,5 @@ fileName: "2020-udgang-i-mosen.jpg"
 medie: "drawing"
 draft: "False"
 slug: "udgang-i-mosen"
-weight: "60"
+weight: "100"
 ---
