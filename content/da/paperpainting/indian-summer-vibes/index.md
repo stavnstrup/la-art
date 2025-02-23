@@ -6,7 +6,7 @@ width: 32
 method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "850"
-exPrice: "1100"
+exPrice: "850"
 status: ""
 fileName: "2023-indian-summer-vibes.jpg"
 medie: "paperpainting"

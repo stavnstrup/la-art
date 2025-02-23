@@ -6,7 +6,7 @@ width: 80
 method: "Acrylic on canvas"
 year: 2024
 price: "4800"
-exPrice: ""
+exPrice: "3800"
 status: ""
 fileName: "2024-my-oh-my.jpg"
 medie: "painting"

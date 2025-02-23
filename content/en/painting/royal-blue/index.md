@@ -6,7 +6,7 @@ width: 50
 method: "Acrylic on canvas"
 year: 2024
 price: "3300"
-exPrice: ""
+exPrice: "3200"
 status: ""
 fileName: "2024-royal-blue.jpg"
 medie: "painting"
