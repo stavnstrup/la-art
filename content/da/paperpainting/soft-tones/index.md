@@ -7,7 +7,7 @@ method: "Akryl på Hahnemühle papir"
 year: 2024
 price: "1100"
 exPrice: "850"
-status: ""
+status: "privat"
 fileName: "2024-soft-tones.jpg"
 medie: "paperpainting"
 draft: "False"

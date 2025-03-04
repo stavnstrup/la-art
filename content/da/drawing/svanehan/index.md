@@ -7,7 +7,7 @@ method: "Oliepastel på papir"
 year: 2025
 price: ""
 exPrice: "400"
-status: ""
+status: "privat"
 fileName: "2025-svanehan.jpg"
 medie: "drawing"
 draft: "False"
