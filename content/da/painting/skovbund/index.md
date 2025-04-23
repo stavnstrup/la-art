@@ -5,7 +5,7 @@ height: 60
 width: 80
 method: "Akryl på lærred"
 year: 2019
-price: "4500"
+price: "4000"
 exPrice: "4000"
 status: ""
 fileName: "2019-skovbund.jpg"

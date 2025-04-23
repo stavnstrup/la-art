@@ -11,7 +11,7 @@ menu:
 - Adventskirken, Sallingvej 90, Vanløse, februar - marts 2026
 - Timotheuskirken, Christen Bergs Allé 5, Valby - juni 2025
 - [Husumvold Kirke](https://www.husumvoldkirke.dk/b/hojmesse-25854042), 22. februar - 22. april 2025
-- Københavns Bridge Klub, 25. oktober 2024 - 31. marts 2025
+- Københavns Bridge Klub, 25. oktober 2024 - 
 - Café Cosmo, Holcks Plads 1, Brønshøj, 23. oktober 2024 -
 - [Gallery Lowlands, juni 2024](https://gallerylowlands.dk/)
 - Bellahøj Kirke, februar - marts 2024
