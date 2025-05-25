@@ -12,5 +12,5 @@ fileName: "2011-japanisme.jpg"
 medie: "painting"
 draft: "False"
 slug: "japanisme"
-weight: "430"
+weight: "460"
 ---

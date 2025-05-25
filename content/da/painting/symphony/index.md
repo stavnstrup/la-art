@@ -12,5 +12,5 @@ fileName: "2022-symphony.jpg"
 medie: "painting"
 draft: "False"
 slug: "symphony"
-weight: "490"
+weight: "520"
 ---

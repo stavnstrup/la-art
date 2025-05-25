@@ -12,5 +12,5 @@ fileName: "2025-vinterglaede.jpg"
 medie: "painting"
 draft: "False"
 slug: "vinterglaede"
-weight: "90"
+weight: "110"
 ---

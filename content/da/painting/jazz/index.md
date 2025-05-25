@@ -6,11 +6,11 @@ width: 40
 method: "Akryl på lærred"
 year: 2023
 price: "1500"
-exPrice: "1500"
+exPrice: "1200"
 status: ""
 fileName: "2023-jazz.jpg"
 medie: "painting"
 draft: "False"
 slug: "jazz"
-weight: "240"
+weight: "260"
 ---
