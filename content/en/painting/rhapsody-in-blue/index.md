@@ -5,8 +5,8 @@ height: 50
 width: 60
 method: "Acrylic on canvas"
 year: 2025
-price: "2800"
-exPrice: "2800"
+price: "3000"
+exPrice: "3000"
 status: ""
 fileName: "2025-rhapsody-in-blue.jpg"
 medie: "painting"
