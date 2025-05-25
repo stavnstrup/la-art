@@ -9,8 +9,8 @@ menu:
 ## Exibitions
 
 - Adventskirken, Sallingvej 90, Vanløse, February - March 2026
-- Timotheuskirken, Christen Bergs Allé 5, Valby - June 2025
-- [Husumvold Church](https://www.husumvoldkirke.dk/b/hojmesse-25854042), 22. Februar - 22 April 2025
+- Timotheuskirken, Christen Bergs Allé 5, Valby - 6. June - 4. July 2025
+- [Husumvold Church](https://www.husumvoldkirke.dk/b/hojmesse-25854042), 22. February - 22 April 2025
 - Copenhagen Bridge Club, 25. October 2024 - 
 - Café Cosmo, Holcks Plads 1, Brønshøj, 23. October 2024 -
 - [Gallery Lowlands, June 2024](https://gallerylowlands.dk/)
