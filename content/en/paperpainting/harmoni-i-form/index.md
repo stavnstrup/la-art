@@ -7,7 +7,7 @@ method: "Acrylic on Hahnemühle paperii ø,"
 year: 2022
 price: "750"
 exPrice: "1100"
-status: ""
+status: "privat"
 fileName: "2022-harmoni-i-form.jpg"
 medie: "paperpainting"
 draft: "False"
