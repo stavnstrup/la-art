@@ -6,7 +6,7 @@ width: 15
 method: "Acrylic on Hahnemühle paper"
 year: 2023
 price: "400"
-exPrice: ""
+exPrice: "400"
 status: "privat"
 fileName: "2023-en-route.jpg"
 medie: "paperpainting"
