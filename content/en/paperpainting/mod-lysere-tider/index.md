@@ -6,7 +6,7 @@ width: 24
 method: "Acrylic on Hahnemühle paper"
 year: 2025
 price: "650"
-exPrice: "650"
+exPrice: "700"
 status: ""
 fileName: "2025-mod-lysere-tider.jpg"
 medie: "paperpainting"

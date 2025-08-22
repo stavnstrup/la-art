@@ -12,7 +12,7 @@
 
   {{ with site.Data.udstilling }}
     <h1>Værkliste</h1>
-    <p>{{ .exibitionform }} {{ .location }}, {{ .period }}</p>
+    <p>{{ .exibitionform }} {{ .location }}{{ if .period }}, {{ .period }}{{ end }}</p>
 
     <table style="@media print { width: 100%; }">
     {{ if gt (len .painting) 0 }}

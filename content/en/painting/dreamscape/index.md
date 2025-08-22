@@ -6,7 +6,7 @@ width: 40
 method: "Acrylic on canvas"
 year: 2024
 price: "1200"
-exPrice: "1200"
+exPrice: "1600"
 status: ""
 fileName: "2024-dreamscape.jpg"
 medie: "painting"
