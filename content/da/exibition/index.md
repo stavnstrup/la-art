@@ -9,6 +9,7 @@ menu:
 ## Udstillinger
 
 - Adventskirken, Sallingvej 90, Vanløse, februar - marts 2026
+- Galleri Pialeh, Bülowsvej 7A, Frederiksberg, august 2025 -
 - Timotheuskirken, Christen Bergs Allé 5, Valby - 6. juni - 4. juli 2025
 - [Husumvold Kirke](https://www.husumvoldkirke.dk/b/hojmesse-25854042), 22. februar - 22. april 2025
 - Københavns Bridge Klub, 25. oktober 2024 - 
