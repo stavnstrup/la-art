@@ -12,5 +12,5 @@ fileName: "2025-rhapsody-in-blue.jpg"
 medie: "painting"
 draft: "False"
 slug: "rhapsody-in-blue"
-weight: "80"
+weight: "260"
 ---

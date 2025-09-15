@@ -12,5 +12,5 @@ fileName: "2010-bevaegelser.jpg"
 medie: "painting"
 draft: "True"
 slug: "bevaegelser"
-weight: "450"
+weight: "460"
 ---

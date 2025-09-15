@@ -12,5 +12,5 @@ fileName: "2024-my-oh-my.jpg"
 medie: "painting"
 draft: "False"
 slug: "my-oh-my"
-weight: "210"
+weight: "200"
 ---

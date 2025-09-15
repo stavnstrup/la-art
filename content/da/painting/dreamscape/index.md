@@ -12,5 +12,5 @@ fileName: "2024-dreamscape.jpg"
 medie: "painting"
 draft: "False"
 slug: "dreamscape"
-weight: "190"
+weight: "180"
 ---
