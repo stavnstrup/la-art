@@ -12,5 +12,5 @@ fileName: "2023-winter.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "vinter"
-weight: "250"
+weight: "370"
 ---

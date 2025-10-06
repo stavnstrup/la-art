@@ -12,5 +12,5 @@ fileName: "2022-wilderness.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "vildnis"
-weight: "360"
+weight: "480"
 ---

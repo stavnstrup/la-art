@@ -12,5 +12,5 @@ fileName: "2025-naar-lyset-bryder-frem.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "naar-lyset-bryder-frem"
-weight: "93"
+weight: "201"
 ---

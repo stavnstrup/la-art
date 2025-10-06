@@ -12,5 +12,5 @@ fileName: "2023-halloween.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "halloween"
-weight: "340"
+weight: "460"
 ---

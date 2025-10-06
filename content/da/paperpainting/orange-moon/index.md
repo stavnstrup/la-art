@@ -12,5 +12,5 @@ fileName: "2024-orange-moon.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "orange-moon"
-weight: "190"
+weight: "310"
 ---

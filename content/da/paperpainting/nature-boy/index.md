@@ -12,5 +12,5 @@ fileName: "2024-nature-boy.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "nature-boy"
-weight: "120"
+weight: "240"
 ---
