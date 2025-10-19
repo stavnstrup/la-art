@@ -7,7 +7,7 @@ method: "Acrylic on canvas"
 year: 2024
 price: "1600"
 exPrice: "1600"
-status: ""
+status: "privat"
 fileName: "2024-african-beauty.jpg"
 medie: "painting"
 draft: "False"

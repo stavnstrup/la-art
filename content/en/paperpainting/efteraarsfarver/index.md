@@ -7,10 +7,10 @@ method: "Acrylic on Hahnemühle paper"
 year: 2025
 price: ""
 exPrice: ""
-status: ""
+status: "privat"
 fileName: "2025-efteraarsfarver.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "efteraarsfarver"
-weight: "170"
+weight: "160"
 ---

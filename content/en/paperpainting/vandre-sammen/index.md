@@ -7,7 +7,7 @@ method: "Acrylic on Hahnemühle paper"
 year: 2025
 price: ""
 exPrice: ""
-status: ""
+status: "privat"
 fileName: "2025-vandre-sammen.jpg"
 medie: "paperpainting"
 draft: "False"

@@ -12,5 +12,5 @@ fileName: "2025-underful.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "underful"
-weight: "190"
+weight: "180"
 ---
