@@ -6,7 +6,7 @@ width: 50
 method: "Akryl på lærred"
 year: 2022
 price: "3000"
-exPrice: "1500"
+exPrice: "2500"
 status: ""
 fileName: "2022-to-verdener.jpg"
 medie: "painting"
