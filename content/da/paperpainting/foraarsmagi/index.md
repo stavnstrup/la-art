@@ -6,7 +6,7 @@ width: 19
 method: "Akryl på Hahnemühle papir"
 year: 2024
 price: "350"
-exPrice: "400"
+exPrice: "600"
 status: ""
 fileName: "2024-foraarsmagi.jpg"
 medie: "paperpainting"
