@@ -10,8 +10,17 @@
 {{ $exibitionArray = apply $exibitionArray "int" "." }}
 
 <div class="printlabels">
-  {{ $exibitionPages := where site.RegularPages "Params.id" "in" $exibitionArray }}
+  {{/* This did work in 0.148.2 but not in 0.152.2 because different types in the expression
+       Type of Params.id is uint64 and exibitionArray is int (does that mean int8 int16 or? )
 
+       $exibitionPages := where site.RegularPages "Params.id" "in" $exibitionArray */}}
+  {{ $exibitionPages :=  slice }}
+  {{ $artPages := where site.RegularPages "Type" "eq" "art"}}
+  {{ range $artPages }}
+     {{ if in $exibitionArray .Params.id }}
+       {{ $exibitionPages = $exibitionPages | append . }}
+     {{ end }}
+  {{ end }}
   {{ range $i, $page := $exibitionPages }}
     {{ if and (ge $i $start) (le $i $end) }}
       <div class="label">
