@@ -3,8 +3,8 @@
     "location": "GALLERI PIALEH, Bülowsvej 7A, Frederiksberg",
     "period": "",
     "painting": [95, 96, 109, 112, 128, 158],
-    "paperpainting": [83, 86, 89, 102, 106, 122, 130, 131, 155, 157],
+    "paperpainting": [83, 86, 89, 102, 106, 120, 122, 130, 131, 155, 157],
     "drawing": [],
-    "labelsInclude": [7, 13, 128, 137],
+    "labelsInclude": [7, 13, 94, 128, 137],
     "labelsExclude": [83, 86, 89, 95, 96, 106, 109, 112, 122, 130, 131]
 }
