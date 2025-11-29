@@ -10,9 +10,8 @@
 {{ $exibitionArray = apply $exibitionArray "int" "." }}
 
 <div class="printlabels">
-  {{/* This did work in 0.148.2 but not in 0.152.2 because different types in the expression
-       Type of Params.id is uint64 and exibitionArray is int (does that mean int8 int16 or? )
-
+  {{/* This did work in 0.148.2 but not in 0.152.2 because different types in the expression.
+       Type of Params.id is uint64 and exibitionArray is int (does that mean int8 int16 or ?)
        $exibitionPages := where site.RegularPages "Params.id" "in" $exibitionArray */}}
   {{ $exibitionPages :=  slice }}
   {{ $artPages := where site.RegularPages "Type" "eq" "art"}}

@@ -1,0 +1,111 @@
+#!/usr/bin/python3
+
+import csv
+import json
+import sys
+import os
+
+# Run this script from the script directory
+
+# Example:
+#        ./syncExibition ../data/2026-adventskirken.json
+
+
+# -----------------------------------------------------------
+# 0. Argument check
+# -----------------------------------------------------------
+if len(sys.argv) < 2:
+    print("Error: You must provide the JSON output filename as the first argument.")
+    sys.exit(1)
+
+json_filename = sys.argv[1]
+
+# -----------------------------------------------------------
+# 1. Load existing JSON or initialize empty structure
+# -----------------------------------------------------------
+if os.path.exists(json_filename):
+    with open(json_filename, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    # IMPORTANT: Clear painting, paperpainting and drawing arrays
+    data["painting"] = []
+    data["paperpainting"] = []
+    data["drawing"] = []
+else:
+    data = {
+        "exhibitionform": "",
+        "location": "",
+        "period": "",
+        "painting": [],
+        "paperpainting": [],
+        "drawing": [],
+        "labelsInclude": [],
+        "labelsExclude": []
+    }
+
+# -----------------------------------------------------------
+# Helper function: process CSV rows into the data structure
+# -----------------------------------------------------------
+def process_csv(filename, category):
+    """
+    category = "painting" or "paperpainting" or "drawing"
+    """
+    if not os.path.exists(filename):
+        print(f"Warning: CSV file '{filename}' not found, skipping.")
+        return
+
+    with open(filename, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+
+        for row in reader:
+            id_val = int(row["id"])
+            ex = row["exhibition"].strip().lower() == "x"
+            lab = row["labels"].strip().lower() == "x"
+
+            # Rule 1: exhibition = x AND labels = x
+            if ex and lab:
+                if id_val not in data[category]:
+                    data[category].append(id_val)
+
+            # Rule 2: exhibition = x AND labels != x
+            elif ex and not lab:
+                if id_val not in data[category]:
+                    data[category].append(id_val)
+                if id_val not in data["labelsExclude"]:
+                    data["labelsExclude"].append(id_val)
+
+            # Rule 3: labels = x AND exhibition != x
+            elif lab and not ex:
+                if id_val not in data["labelsInclude"]:
+                    data["labelsInclude"].append(id_val)
+
+# -----------------------------------------------------------
+# 2. Read data from "LA-ART-data - painting.csv"
+# -----------------------------------------------------------
+process_csv("LA-ART-data - painting.csv", "painting")
+
+# -----------------------------------------------------------
+# 3. Read data from "LA-ART-data - paperpainting.csv"
+# -----------------------------------------------------------
+process_csv("LA-ART-data - paperpainting.csv", "paperpainting")
+
+# -----------------------------------------------------------
+# 4. Read data from "LA-ART-data - drawing.csv"
+# -----------------------------------------------------------
+process_csv("LA-ART-data - drawing.csv", "drawing")
+
+# -----------------------------------------------------------
+# 5. Sort all relevant arrays
+# -----------------------------------------------------------
+data["painting"].sort()
+data["paperpainting"].sort()
+data["drawing"].sort()
+data["labelsInclude"].sort()
+data["labelsExclude"].sort()
+
+# -----------------------------------------------------------
+# 6. Save result JSON
+# -----------------------------------------------------------
+with open(json_filename, "w", encoding="utf-8") as out:
+    json.dump(data, out, ensure_ascii=False, indent=4)
+
+print(f"Data saved to {json_filename}")
