@@ -26,10 +26,12 @@ json_filename = sys.argv[1]
 if os.path.exists(json_filename):
     with open(json_filename, "r", encoding="utf-8") as f:
         data = json.load(f)
-    # IMPORTANT: Clear painting, paperpainting and drawing arrays
+    # IMPORTANT: Clear painting, paperpainting, drawing & label* arrays
     data["painting"] = []
     data["paperpainting"] = []
     data["drawing"] = []
+    data["labelsInclude"] = []
+    data["labelsExclude"] = []
 else:
     data = {
         "exhibitionform": "",
