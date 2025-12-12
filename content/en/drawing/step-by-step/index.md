@@ -6,7 +6,7 @@ width: 18
 method: "Caran d'Ache on paper"
 year: 2024
 price: "550"
-exPrice: "S"
+exPrice: "550"
 status: ""
 fileName: "2024-step-by-step.jpg"
 medie: "drawing"

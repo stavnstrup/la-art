@@ -7,7 +7,7 @@ method: "Caran d'Ache på papir"
 year: 2024
 price: "350"
 exPrice: "350"
-status: ""
+status: "privat"
 fileName: "2024-autumn-leaves.jpg"
 medie: "drawing"
 draft: "False"
