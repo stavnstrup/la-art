@@ -1,16 +1,16 @@
 ---
-id: 106
-title: "Rendez-vous"
+id: 159
+title: "Madonna"
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"
-year: 2023
-price: "850"
+year: 2025
+price: "1100"
 exPrice: "1100"
 status: ""
-fileName: "2023-rendez-vous.jpg"
+fileName: "2025-madonna.jpg"
 medie: "paperpainting"
 draft: "False"
-slug: "rendez-vous"
-weight: "340"
+slug: "madonna"
+weight: "220"
 ---

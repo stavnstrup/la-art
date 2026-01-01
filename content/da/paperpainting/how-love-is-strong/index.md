@@ -12,5 +12,5 @@ fileName: "2025-how-love-is-strong.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "how-love-is-strong"
-weight: "100"
+weight: "110"
 ---

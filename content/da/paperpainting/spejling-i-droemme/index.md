@@ -12,5 +12,5 @@ fileName: "2025-spejling-i-droemme.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "spejling-i-droemme"
-weight: "140"
+weight: "150"
 ---

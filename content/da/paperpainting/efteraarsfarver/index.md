@@ -12,5 +12,5 @@ fileName: "2025-efteraarsfarver.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "efteraarsfarver"
-weight: "160"
+weight: "170"
 ---

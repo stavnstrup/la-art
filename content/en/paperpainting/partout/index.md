@@ -12,5 +12,5 @@ fileName: "2023-partout.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "partout"
-weight: "350"
+weight: "370"
 ---

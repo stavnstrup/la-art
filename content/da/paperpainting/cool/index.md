@@ -12,5 +12,5 @@ fileName: "2024-cool.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "cool"
-weight: "220"
+weight: "240"
 ---

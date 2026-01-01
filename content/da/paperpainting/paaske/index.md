@@ -12,5 +12,5 @@ fileName: "2025-paaske.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "paaske"
-weight: "190"
+weight: "200"
 ---
