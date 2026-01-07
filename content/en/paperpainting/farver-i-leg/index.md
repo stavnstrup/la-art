@@ -1,6 +1,6 @@
 ---
 id: 156
-title: "Coulors Playing"
+title: "Colours Playing"
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"

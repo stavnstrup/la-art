@@ -1,6 +1,6 @@
 ---
 id: 154
-title: "Autumn Coulors"
+title: "Autumn Colours"
 height: 32
 width: 24
 method: "Acrylic on Hahnemühle paper"
