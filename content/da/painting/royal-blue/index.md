@@ -5,7 +5,7 @@ height: 75
 width: 50
 method: "Akryl på lærred"
 year: 2024
-price: "3300"
+price: "3200"
 exPrice: "3200"
 status: ""
 fileName: "2024-royal-blue.jpg"

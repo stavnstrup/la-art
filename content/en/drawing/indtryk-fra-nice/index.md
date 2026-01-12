@@ -5,7 +5,7 @@ height: 24
 width: 18
 method: "Oil pastel on paper"
 year: 2024
-price: "350"
+price: "400"
 exPrice: "400"
 status: ""
 fileName: "2024-indtryk-fra-nice.jpg"

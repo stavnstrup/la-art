@@ -5,8 +5,8 @@ height: 19
 width: 14
 method: "Oliepastel på papir"
 year: 2025
-price: ""
-exPrice: "300"
+price: "400"
+exPrice: "400"
 status: ""
 fileName: "2025-os-to.jpg"
 medie: "drawing"

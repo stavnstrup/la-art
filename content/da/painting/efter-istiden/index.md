@@ -5,7 +5,7 @@ height: 60
 width: 60
 method: "Olie på lærred"
 year: 2015
-price: "3200"
+price: "3000"
 exPrice: "3000"
 status: ""
 fileName: "2015-efter-istiden.jpg"

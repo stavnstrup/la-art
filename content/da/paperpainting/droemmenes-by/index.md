@@ -6,7 +6,7 @@ width: 24
 method: "Akryl på Hahnemühle papir"
 year: 2025
 price: ""
-exPrice: ""
+exPrice: "800"
 status: ""
 fileName: "2025-droemmenes-by.jpg"
 medie: "paperpainting"

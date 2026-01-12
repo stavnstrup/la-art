@@ -5,7 +5,7 @@ height: 70
 width: 60
 method: "Akryl på lærred"
 year: 2024
-price: ""
+price: "3800"
 exPrice: "3800"
 status: ""
 fileName: "2024-autumn-serenade.jpg"

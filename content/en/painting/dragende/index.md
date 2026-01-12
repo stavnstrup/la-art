@@ -5,7 +5,7 @@ height: 80
 width: 60
 method: "Acrylic on canvas"
 year: 2023
-price: "4000"
+price: "4500"
 exPrice: "4500"
 status: ""
 fileName: "2023-dragende.jpg"

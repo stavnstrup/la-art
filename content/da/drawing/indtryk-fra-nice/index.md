@@ -5,7 +5,7 @@ height: 24
 width: 18
 method: "Oliepastel på papir"
 year: 2024
-price: "350"
+price: "400"
 exPrice: "400"
 status: ""
 fileName: "2024-indtryk-fra-nice.jpg"
