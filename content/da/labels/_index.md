@@ -8,14 +8,14 @@ cascade:
 ---
 
 
-
-
 ## Checkliste før print
 
-1. Download data i CSV format
-2. Regenerer content filer med csv2md scriptet
-3. Print ark til PDF fil og print den efterfølgende
-4. Kopier arket til et APLI ark, som beskrevet i følgende afsnit
+1. Gå til script biblioteket
+2. Download data i CSV format til script biblioteket
+3. Regenerer content filer med csv2md scriptet
+4. Generer værklisten og labels med syncExibition scriptet
+5. Print ark til PDF filer fra browseren
+6. Kopier PDF filer med labels til et APLI ark, som beskrevet i følgende afsnit
 
 ## Brug af label ark
 
