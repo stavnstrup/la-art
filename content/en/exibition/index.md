@@ -8,7 +8,7 @@ menu:
 
 ## Exibitions
 
-- Adventskirken, Sallingvej 90, Vanløse, 18. February - 13. April 2026
+- [Adventskirken, Sallingvej 90, Vanløse, 18. February - 13. April 2026](https://www.adventskirken.dk/begivenhed/22-2-2026-fernisering-lisbeth-aggerbeck-3317)
 - Gallery Pialeh, Bülowsvej 7A, Frederiksberg, August 2025 -
 - Timotheuskirken, Christen Bergs Allé 5, Valby - 6. June - 4. July 2025
 - [Husumvold Church](https://www.husumvoldkirke.dk/b/hojmesse-25854042), 22. February - 22 April 2025
