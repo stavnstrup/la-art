@@ -12,5 +12,5 @@ fileName: "2024-soft-tones.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "soft-tones"
-weight: "350"
+weight: "370"
 ---

@@ -12,5 +12,5 @@ fileName: "2023-blue-rocks.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "blue-rocks"
-weight: "560"
+weight: "580"
 ---

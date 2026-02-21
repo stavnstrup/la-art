@@ -12,5 +12,5 @@ fileName: "2025-droemmenes-by.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "droemmenes-by"
-weight: "120"
+weight: "130"
 ---

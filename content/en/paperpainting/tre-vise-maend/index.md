@@ -12,5 +12,5 @@ fileName: "2025-tre-vise-maend.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "tre-vise-maend"
-weight: "195"
+weight: "210"
 ---

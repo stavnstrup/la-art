@@ -12,5 +12,5 @@ fileName: "2025-kvinde-min.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "kvinde-min"
-weight: "140"
+weight: "150"
 ---

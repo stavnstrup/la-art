@@ -12,5 +12,5 @@ fileName: "2024-droemmelandskab.jpg"
 medie: "paperpainting"
 draft: "True"
 slug: "droemmelandskab"
-weight: "580"
+weight: "600"
 ---

@@ -12,5 +12,5 @@ fileName: "2024-kaleidoscope.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "kalejdoskop"
-weight: "270"
+weight: "290"
 ---

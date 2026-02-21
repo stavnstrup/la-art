@@ -12,5 +12,5 @@ fileName: "2025-madonna.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "madonna"
-weight: "220"
+weight: "240"
 ---

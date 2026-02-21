@@ -12,5 +12,5 @@ fileName: "2024-stairway-to-heaven.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "stairway-to-heaven"
-weight: "450"
+weight: "470"
 ---

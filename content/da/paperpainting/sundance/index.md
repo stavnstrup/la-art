@@ -12,5 +12,5 @@ fileName: "2025-sundance.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "sundance"
-weight: "100"
+weight: "110"
 ---

@@ -12,5 +12,5 @@ fileName: "2023-en-route.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "paa-vej"
-weight: "400"
+weight: "420"
 ---
