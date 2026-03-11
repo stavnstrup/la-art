@@ -7,7 +7,7 @@ method: "Akryl på Hahnemühle papir"
 year: 2023
 price: "1100"
 exPrice: "1100"
-status: ""
+status: "privat"
 fileName: "2023-tuscany.jpg"
 medie: "paperpainting"
 draft: "False"
