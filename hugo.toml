@@ -1,5 +1,5 @@
 baseURL = "https://lisbethaggerbeck.dk"
-languageCode = "da-dk"
+locale = "da-dk"
 title = "LA ART"
 description = "Official website of Lisbeth Aggerbeck"
 
@@ -19,17 +19,20 @@ disableLanguages = [" "]
 [params]
 showPrices =  false
 
-[languages]
 [languages.da]
-languageName = "Dansk"
-# Weight used for sorting.
-weight = 1
-languagedirection = "ltr"
+  label = "Dansk"
+  # Weight used for sorting.
+  weight = 1
+  direction = "ltr"
 
 
 [languages.en]
-languageName = "English"
-# Weight used for sorting.
-weight = 2
-contentDir = "content/en"
-languagedirection = "ltr"
+  label = "English"
+  # Weight used for sorting.
+  weight = 2
+  contentDir = "content/en"
+  direction = "ltr"
+
+
+[security]
+allowContent = ['.*']
