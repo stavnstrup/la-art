@@ -12,5 +12,5 @@ fileName: "2024-autumn-serenade.jpg"
 medie: "painting"
 draft: "False"
 slug: "efteraarsserenade"
-weight: "90"
+weight: "110"
 ---

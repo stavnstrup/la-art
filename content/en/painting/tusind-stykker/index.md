@@ -12,5 +12,5 @@ fileName: "2025-tusind-stykker.jpg"
 medie: "painting"
 draft: "False"
 slug: "tusind-stykker"
-weight: "240"
+weight: "260"
 ---
