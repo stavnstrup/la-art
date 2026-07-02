@@ -1,6 +1,6 @@
 ---
 id: 163
-title: "Lyse nætter"
+title: "Lyse Nætter"
 height: 40
 width: 50
 method: "Akryl på lærred"
