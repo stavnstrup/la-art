@@ -8,6 +8,7 @@ menu:
 
 ## Exibitions
 
+- Artfair "Women and Art",  Royal Stage, Milnersvej 39, Hillerød, 21.-22. november 2026
 - [Adventskirken, Sallingvej 90, Vanløse, 18. February - 13. April 2026](https://www.adventskirken.dk/nyhed/udstilling-med-lisbeth-aggerbeck-3990)
 - Gallery Pialeh, Bülowsvej 7A, Frederiksberg, August 2025 -
 - Timotheuskirken, Christen Bergs Allé 5, Valby - 6. June - 4. July 2025
