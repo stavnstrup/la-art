@@ -17,7 +17,7 @@
     <table style="@media print { width: 100%; }">
     {{ if gt (len .painting) 0 }}
       <tr><td colspan="3"><h2>Malerier</h2></td></tr>
-      {{ range $i, $page := where site.AllPages "Params.medie" "painting" }}
+      {{ range $i, $page := where site.Pages "Params.medie" "painting" }}
         {{ with  $page }}
           {{ if and (in site.Data.udstilling.painting .Params.id) (eq .Language.Lang "da") }}
             <tr>
@@ -42,7 +42,7 @@
 
     {{ if gt (len .paperpainting) 0 }}
       <tr><td colspan="3"><h2>Papirmalerier</h2></td></tr>
-      {{ range $i, $page := where site.AllPages "Params.medie" "paperpainting" }}
+      {{ range $i, $page := where site.Pages "Params.medie" "paperpainting" }}
         {{ with  $page }}
           {{ if and (in site.Data.udstilling.paperpainting .Params.id) (eq .Language.Lang "da") }}
             <tr>
@@ -67,7 +67,7 @@
 
     {{ if gt (len .drawing) 0 }}
       <tr><td colspan="3"><h2 style="padding-top: 15px;">Tegninger</h2></td></tr>
-      {{ range $i, $page := where site.AllPages "Params.medie" "drawing" }}
+      {{ range $i, $page := where site.Pages "Params.medie" "drawing" }}
         {{ with $page }}
           {{ if and (in site.Data.udstilling.drawing .Params.id) (eq .Language.Lang "da") }}
             <tr>
