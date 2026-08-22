@@ -12,5 +12,5 @@ fileName: "2025-droemmeland.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "droemmeland"
-weight: "170"
+weight: "215"
 ---
