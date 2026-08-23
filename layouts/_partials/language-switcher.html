@@ -1,14 +1,14 @@
 {{ if hugo.IsMultilingual }}
   <li class="nav-item dropdown">
-    <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="{{ i18n "ariaLanguage" }}{{ .Language.LanguageName }}">
-      {{ .Language.LanguageName | upper }}
+    <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="{{ i18n "ariaLanguage" }}{{ .Language.Label }}">
+      {{ .Language.Label | upper }}
     </a>
 
     <ul class="dropdown-menu" aria-labelledby="dropdown-title">
       {{ range .Translations }}
         <li>
-          <a class="dropdown-item" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}" aria-label="{{ i18n "ariaTranslation" }}{{ .Language.LanguageName }}">
-            {{ .Language.LanguageName | upper }}
+          <a class="dropdown-item" title="{{ .Language.Label }}" href="{{ .Permalink }}" aria-label="{{ i18n "ariaTranslation" }}{{ .Language.Label }}">
+            {{ .Language.Label | upper }}
           </a>
         </li>
       {{ end }}
