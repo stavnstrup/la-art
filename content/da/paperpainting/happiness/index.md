@@ -12,5 +12,5 @@ fileName: "2022-happiness.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "happiness"
-weight: "320"
+weight: "340"
 ---

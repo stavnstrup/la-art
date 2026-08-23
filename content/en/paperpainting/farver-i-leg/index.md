@@ -12,5 +12,5 @@ fileName: "2025-farver-i-leg.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "farver-i-leg"
-weight: "190"
+weight: "200"
 ---

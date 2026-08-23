@@ -12,5 +12,5 @@ fileName: "2025-summertime.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "summertime"
-weight: "100"
+weight: "110"
 ---

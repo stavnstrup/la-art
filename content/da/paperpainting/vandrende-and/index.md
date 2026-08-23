@@ -12,5 +12,5 @@ fileName: "2023-vandrende-and.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "vandrende-and"
-weight: "490"
+weight: "510"
 ---

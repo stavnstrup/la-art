@@ -12,5 +12,5 @@ fileName: "2024-foraarsmagi.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "foraarsmagi"
-weight: "460"
+weight: "480"
 ---
