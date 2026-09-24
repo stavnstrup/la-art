@@ -1,10 +1,29 @@
 {
-    "exibitionform" : "Udstilling i",
+    "exibitionform": "Udstilling i",
     "location": "GALLERI PIALEH, Bülowsvej 7A, Frederiksberg",
     "period": "",
-    "painting": [14, 91, 98, 103, 113, 118, 126, 147],
-    "paperpainting": [73, 82, 84, 105, 106, 107, 116, 144, 145, 148],
+    "painting": [
+        13,
+        19,
+        27,
+        64,
+        135,
+        166,
+        167
+    ],
+    "paperpainting": [],
     "drawing": [],
-    "labelsInclude": [137, 122, 129, 136],
-    "labelsExclude": [14, 91, 103, 113, 126, 73, 82, 84, 106, 107, 116, 145]
+    "labelsInclude": [
+        137,
+        150,
+        152,
+        156,
+        164,
+        165
+    ],
+    "labelsExclude": [
+        13,
+        19,
+        135
+    ]
 }
