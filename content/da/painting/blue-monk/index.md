@@ -12,5 +12,5 @@ fileName: "2026-blue-monk.jpg"
 medie: "painting"
 draft: "False"
 slug: "blue-monk"
-weight: "45"
+weight: "50"
 ---

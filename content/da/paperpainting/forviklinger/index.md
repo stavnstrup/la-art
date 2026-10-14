@@ -12,5 +12,5 @@ fileName: "2026-forviklinger.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "forviklinger"
-weight: "90"
+weight: "100"
 ---

@@ -12,5 +12,5 @@ fileName: "2024-efteraarstoner.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "efteraarstoner"
-weight: "320"
+weight: "410"
 ---

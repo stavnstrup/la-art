@@ -12,5 +12,5 @@ fileName: "2026-medusa.jpg"
 medie: "painting"
 draft: "False"
 slug: "medusa"
-weight: "95"
+weight: "120"
 ---

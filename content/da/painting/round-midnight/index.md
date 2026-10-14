@@ -12,5 +12,5 @@ fileName: "2026-round-midnight.jpg"
 medie: "painting"
 draft: "False"
 slug: "round-midnight"
-weight: "75"
+weight: "90"
 ---

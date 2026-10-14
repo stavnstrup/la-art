@@ -12,5 +12,5 @@ fileName: "2025-come-together.jpg"
 medie: "painting"
 draft: "False"
 slug: "come-together"
-weight: "60"
+weight: "70"
 ---

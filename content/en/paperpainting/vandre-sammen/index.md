@@ -12,5 +12,5 @@ fileName: "2025-vandre-sammen.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "vandre-sammen"
-weight: "150"
+weight: "170"
 ---

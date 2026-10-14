@@ -12,5 +12,5 @@ fileName: "2024-blue-in-green.jpg"
 medie: "painting"
 draft: "False"
 slug: "blue-in-green"
-weight: "300"
+weight: "330"
 ---

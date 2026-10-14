@@ -12,5 +12,5 @@ fileName: "2025-so-what.jpg"
 medie: "painting"
 draft: "False"
 slug: "so-what"
-weight: "70"
+weight: "80"
 ---

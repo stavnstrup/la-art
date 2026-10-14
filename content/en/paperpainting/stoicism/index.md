@@ -12,5 +12,5 @@ fileName: "2023-stoicism.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "stoicism"
-weight: "350"
+weight: "150"
 ---

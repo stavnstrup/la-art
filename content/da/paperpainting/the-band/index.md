@@ -12,5 +12,5 @@ fileName: "2026-the-band.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "the-band"
-weight: "100"
+weight: "110"
 ---

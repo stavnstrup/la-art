@@ -5,7 +5,7 @@ height: 15
 width: 21
 method: "Acrylic on Hahnemühle paper"
 year: 2023
-price: "400"
+price: "500"
 exPrice: "500"
 status: ""
 fileName: "2023-halloween.jpg"

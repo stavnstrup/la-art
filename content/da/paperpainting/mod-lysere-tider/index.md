@@ -12,5 +12,5 @@ fileName: "2025-mod-lysere-tider.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "mod-lysere-tider"
-weight: "270"
+weight: "380"
 ---

@@ -12,5 +12,5 @@ fileName: "2025-optimisme.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "optimisme"
-weight: "180"
+weight: "320"
 ---

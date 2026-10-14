@@ -12,5 +12,5 @@ fileName: "2025-songbird.jpg"
 medie: "paperpainting"
 draft: "False"
 slug: "songbird"
-weight: "85"
+weight: "120"
 ---

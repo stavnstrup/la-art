@@ -12,5 +12,5 @@ fileName: "2023-haab.jpg"
 medie: "painting"
 draft: "False"
 slug: "haab"
-weight: "160"
+weight: "190"
 ---

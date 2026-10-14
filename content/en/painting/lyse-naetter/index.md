@@ -12,5 +12,5 @@ fileName: "2026-lyse-naetter.jpg"
 medie: "painting"
 draft: "False"
 slug: "lyse-naetter"
-weight: "50"
+weight: "60"
 ---
